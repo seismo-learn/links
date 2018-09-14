@@ -1,0 +1,13 @@
+language: generic
+
+install:
+  - curl -L https://raw.githubusercontent.com/seisman/install/master/install-hugo.sh | bash
+
+script:
+  - ./hugo --minify
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: ${GH_TOKEN}
+  local_dir: public
