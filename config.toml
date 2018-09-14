@@ -1,3 +1,6 @@
 baseURL = "https://link.seisman.info/"
 languageCode = "en-us"
-title = "SeisMan Links"
+title = "SeisMan"
+
+[params]
+subtitle = "Links"
