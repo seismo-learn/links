@@ -1,3 +1,8 @@
+---
+title: Misc.
+menu: main
+---
+
 ### Institutions
 
 - [IRIS](http://www.iris.edu/hq/ "Incorporated Research Institutions for Seismology")

@@ -1,3 +1,8 @@
+---
+title: People
+menu: main
+---
+
 - [Charles J. Ammon](http://eqseis.geosc.psu.edu/~cammon/)
 - [Don L. Anderson](http://www.mantleplumes.org/DLA.html)
 - [Andrew Curtis](http://www.geos.ed.ac.uk/homes/acurtis/)

@@ -1,3 +1,8 @@
+---
+title: Software
+menu: main
+---
+
 ### 通用数据处理
 
 - [SAC][]: 地震学数据处理的常用软件
