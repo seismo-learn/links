@@ -1,7 +1,3 @@
----
-title: journal
----
-
 - [Annual Review of Earth and Planetary Sciences](http://www.annualreviews.org/journal/earth)
 - [Bulletin of the Seismological Society of America](http://bssa.geoscienceworld.org/)
 - [Chinese Journal of Geophysics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/)

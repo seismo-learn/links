@@ -1,17 +1,13 @@
----
-title: 链接
----
-
-### 机构
+### Institutions
 
 - [IRIS](http://www.iris.edu/hq/ "Incorporated Research Institutions for Seismology")
 - [ORFEUS](http://www.orfeus-eu.org/index.html "Observatories and Research Facilities for European Seismology")
 - [AGU](http://sites.agu.org/ "American Geophysical Union")
 - [ISC](http://www.isc.ac.uk/ "International Seismological Centre")
 
-### 地震事件目录
+### Earthquake Catalog
 
-#### 全球地震目录
+#### Global Earthquake Catalog
 
 - [IRIS web service](http://service.iris.edu/fdsnws/event/1/)
 - [ISC Bulletin](http://www.isc.ac.uk/iscbulletin/search/catalogue/) |
@@ -20,7 +16,7 @@ title: 链接
 - [PDE](http://earthquake.usgs.gov/data/pde.php) |
   [USGS web service](http://earthquake.usgs.gov/fdsnws/event/1/)
 
-#### 区域地震目录
+#### Regional Earthquake Catalog
 
 - [中国历史地震目录](http://data.earthquake.cn/data/data/history_query.jsp)
 - [中国台网统一地震目录](http://data.earthquake.cn/data/datashare_tyml_query.jsp)
@@ -33,7 +29,7 @@ title: 链接
 - [澳大利亚](http://www.ga.gov.au/earthquakes/searchQuake.do)
 - [加拿大](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php)
 
-### 震源机制
+### Focal Mechanism Catalog
 
 - [Global CMT](http://www.globalcmt.org/)
 - [ISC Focal Mechanism](http://www.isc.ac.uk/iscbulletin/search/fmechanisms/)
@@ -47,14 +43,14 @@ title: 链接
 - [意大利周边震源机制](http://cnt.rm.ingv.it/en/tdmt)
 - [台湾震源机制解](http://tecws.earth.sinica.edu.tw/BATS/cmtbyform.php)
 
-### 走时/震相数据
+### Arrival Time/Phase Data
 
 - [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals/)
 - [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html)
 - [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
 - [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
 
-### 地震台网/波形数据
+### Networks/Waveforms
 
 - [NIED Hi-net](http://www.hinet.bosai.go.jp/)
 - [NIED F-net](http://www.fnet.bosai.go.jp/)
@@ -69,13 +65,13 @@ title: 链接
 - [中国地震科学探测台站数据中心](http://www.chinarraydmc.org/)
 - [国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
 
-### 研究小组
+### Research Groups
 
 - [Harvard Seismology](http://seismology.harvard.edu/)
 - [Global Seismology Group at Rice University](http://www.gseis.rice.edu/)
 - [Berkeley Global Seismology](http://seismo.berkeley.edu/wiki_br/Main_Page)
 
-### 软件库
+### Software Library
 
 - [IRIS seiscode](https://seiscode.iris.washington.edu/)
 - [ORFEUS Seismological Software Library](http://www.orfeus-eu.org/software.html)
@@ -83,7 +79,7 @@ title: 链接
 - [CIG Software](https://geodynamics.org/cig/software/)
 - [USGS Software](http://earthquake.usgs.gov/research/software/)
 
-### 地球物理数据
+### Geoscience Data
 
 - [EARS](http://ds.iris.edu/ds/products/ears/): 美国地区接收函数数据库
 - [GLImER](http://stephanerondenay.com/glimermap/): 全球接收函数库
@@ -97,7 +93,7 @@ title: 链接
 - [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/): 美国西部背景噪声互相关函数库
 - [GADM](https://gadm.org): 全球行政区划数据库
 
-### 其他
+### Misc
 
 - [IRIS Data Request Status](http://www.iris.edu/ds/nodes/dmc/data/request-status/)
 - [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases/)
@@ -114,7 +110,4 @@ title: 链接
 - [全球地质资料数据中心](http://portal.onegeology.org/OnegeologyGlobal/)
 - [Data Center](http://www.fdsn.org/webservices/datacenters/): 支持 FDSN Web Services 的地震数据中心
 - [Channel Naming](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/): 通道名的含义
-
-### 期刊相关
-
 - [Journal Citation Reports](https://jcr.incites.thomsonreuters.com/)

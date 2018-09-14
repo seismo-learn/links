@@ -1,7 +1,3 @@
----
-title: 地球物理学家列表
----
-
 - [Charles J. Ammon](http://eqseis.geosc.psu.edu/~cammon/)
 - [Don L. Anderson](http://www.mantleplumes.org/DLA.html)
 - [Andrew Curtis](http://www.geos.ed.ac.uk/homes/acurtis/)
