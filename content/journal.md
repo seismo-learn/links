@@ -1,0 +1,31 @@
+---
+title: journal
+---
+
+- [Annual Review of Earth and Planetary Sciences](http://www.annualreviews.org/journal/earth): 一年一刊，只出 review 文章
+- [Bulletin of the Seismological Society of America](http://bssa.geoscienceworld.org/)
+- [Geophysics](http://geophysics.geoscienceworld.org/)
+- [Seismological Research Letters](http://srl.geoscienceworld.org/)
+- [Chinese Journal of Geophysics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/): 地球物理学报英文版
+- [Geophysical Research Letters](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-8007/)
+- [Geochemistry, Geophysics, Geosystems](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
+- [Journal of Geophysical Research: Solid Earth](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
+- [Reviews of Geophysics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
+- [Tectonics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9194/)
+- [Geophysical Journal International](http://academic.oup.com/gji)
+- [Earth and Planetary Science Letters](http://www.sciencedirect.com/science/journal/0012821X)
+- [Gondwana Research](http://www.sciencedirect.com/science/journal/1342937X)
+- [Journal of Applied Geophysics](http://www.sciencedirect.com/science/journal/09269851)
+- [Physics of the Earth and Planetary Interiors](http://www.sciencedirect.com/science/journal/00319201/)
+- [Lithos](http://www.sciencedirect.com/science/journal/00244937)
+- [Tectonophysics](http://www.sciencedirect.com/science/journal/00401951)
+- [Science Bulletin](http://www.sciencedirect.com/journal/science-bulletin)
+- [Earth, Planets and Space](https://link.springer.com/journal/40623)
+- [Nature GeoScience](http://www.nature.com/ngeo/index.html)
+- [EOS](https://eos.org/): EOS不是期刊，主要是地球科学相关的新闻
+- Nature
+- Nature Communications
+- Scientific Reports
+- Science
+- Science Advances
+- [Earth and Planetary Physics](http://www.eppcgs.org)
