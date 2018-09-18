@@ -1,6 +1,8 @@
 ---
 title: People
-menu: main
+menu: 
+  main:
+    weight: 3
 ---
 
 - [Charles J. Ammon](http://eqseis.geosc.psu.edu/~cammon/)

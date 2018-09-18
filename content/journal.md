@@ -1,7 +1,11 @@
 ---
 title: Journal
-menu: main
+menu: 
+  main:
+    weight: 1
 ---
+
+### Journals
 
 - [Annual Review of Earth and Planetary Sciences](http://www.annualreviews.org/journal/earth)
 - [Bulletin of the Seismological Society of America](http://bssa.geoscienceworld.org/)
@@ -33,3 +37,8 @@ menu: main
     [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
 - [Tectonics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9194/)
 - [Tectonophysics](http://www.sciencedirect.com/science/journal/00401951)
+
+### Misc.
+
+- [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
+- [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving

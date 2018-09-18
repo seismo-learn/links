@@ -1,6 +1,8 @@
 ---
 title: Software
-menu: main
+menu: 
+  main:
+    weight: 2
 ---
 
 ### 通用数据处理
