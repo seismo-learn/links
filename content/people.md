@@ -20,6 +20,7 @@ menu:
 - [Kei Hirose](http://www.geo.titech.ac.jp/lab/hirose/en/home.html)
 - [Miaki Ishii](http://www.seismology.harvard.edu/ishii.html)
 - [Chen Ji](http://www.geol.ucsb.edu/faculty/ji/)
+- [Hitoshi Kawakatsu](http://gachon.eri.u-tokyo.ac.jp/~hitosi/)
 - [Keith D. Koper](http://quake.utah.edu/about-us/uuss-staff-directory/dr-keith-koper)
 - [Dimitri Komatitsch](http://komatitsch.free.fr/)
 - [Gabi Laske](http://igppweb.ucsd.edu/~gabi/)

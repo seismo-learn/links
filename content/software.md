@@ -5,7 +5,7 @@ menu:
     weight: 2
 ---
 
-### 通用数据处理
+### Seismic Data Processing
 
 - [SAC][]: 地震学数据处理的常用软件
 - [ObsPy][]: 基于 Python 的地震学数据获取、处理、绘图工具
@@ -19,7 +19,7 @@ menu:
 [SeisIO.jl]: https://github.com/jpjones76/SeisIO.jl
 [GISMO]: http://geoscience-community-codes.github.io/GISMO/
 
-### 数据格式转换
+### Seismic Data Format Conversion
 
 - [rdseed][]: SEED 格式转换为 SAC 等地震数据格式
 - [mseed2sac][]: 将 miniSEED 格式转换为 SAC 格式

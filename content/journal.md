@@ -12,7 +12,7 @@ menu:
 - [Chinese Journal of Geophysics](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/)
 - [EOS](https://eos.org/)
 - [Earth and Planetary Physics](http://www.eppcgs.org)
-- [Earth and Planetary Science Letters](http://www.sciencedirect.com/science/journal/0012821X)
+- [Earth and Planetary Science Letters](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)
 - [Earth, Planets and Space](https://link.springer.com/journal/40623)
 - [Geochemistry, Geophysics, Geosystems](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
 - [Geophysical Journal International](http://academic.oup.com/gji)
