@@ -36,7 +36,7 @@ menu:
 
 - [BREQ_FAST][]: 通过发送邮件申请数据
 - [IRIS Wilber 3][]: 通过网页界面下载单个地震事件的波形数据
-- [SOD][]: 用 Java 实现的地震数据下载工具
+- SOD: [Homepage](http://www.seis.sc.edu/sod) | [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes/) | [Recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy][]: 基于 Python 的地震学数据获取、处理、绘图工具
 - [IRIS DMC Web Services][]: 通过网页服务申请数据
 - [Web Service Fetch scripts][]: 获取数据的Perl脚本
@@ -44,7 +44,6 @@ menu:
 - [HinetPy][]: 从日本Hinet下载数据的Python模块
 
 [jweed]: http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed/
-[SOD]: http://www.seis.sc.edu/sod
 [IRIS Wilber 3]: http://www.iris.edu/wilber3/find_event
 [BREQ_FAST]: http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast/
 [IRIS DMC Web Services]: http://service.iris.edu/
@@ -196,6 +195,7 @@ menu:
 - [WPhase][]: W Phase 方法反演震源机制
 - [focmec][]: 确定并绘制震源机制
 - [HASH][]: 初动极性
+- [MTfit](https://github.com/djpugh/MTfit): Bayesian Moment Tensor Fitting
 
 [gcap]: http://www.eas.slu.edu/People/LZhu/home.html
 [pyTDMT]: https://github.com/fabriziobernardi/pydmt
