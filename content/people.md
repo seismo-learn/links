@@ -47,6 +47,7 @@ menu:
 - [John Vidale](http://earthweb.ess.washington.edu/vidale/John_Vidale/Home.html)
 - [Songqiao Shawn Wei](https://msu.edu/~swei/)
 - [Lianxing Wen](http://seis.ustc.edu.cn/)
+- [Douglas A. Wiens](http://epsc.wustl.edu/seismology/doug/)
 - [Hongfeng Yang](http://www.cuhk.edu.hk/sci/essc/people/yang_hf.html)
 - [Huajian Yao](http://staff.ustc.edu.cn/~hjyao/)
 - [Dapeng Zhao](http://www.aob.gp.tohoku.ac.jp/kazan/zhao_English.html)
