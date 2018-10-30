@@ -12,6 +12,11 @@ menu:
 - [AGU](http://sites.agu.org/ "American Geophysical Union")
 - [ISC](http://www.isc.ac.uk/ "International Seismological Centre")
 
+### IRIS Tools
+
+- [GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps.
+- [DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations.
+
 ### Earthquake Catalog
 
 #### Global Earthquake Catalog
@@ -107,8 +112,6 @@ menu:
 - [GMT cpt](http://soliton.vm.bytemark.co.uk/pub/cpt-city/)
 - [FDSN Network Codes](http://www.fdsn.org/networks/): 在 FDSN 注册的永久和临时台网列表
 - [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/webservices/datacenters/): 支持 FDSN Web Service 的数据中心
-- [IRIS DMC MetaData Aggregator](http://ds.iris.edu/mda/): 永久、临时、虚拟台网列表
-- [IRIS DMC Google Map Service](http://ds.iris.edu/gmap/)
 - [Google Maps API](https://developers.google.com/maps/get-started/)
 - [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
 - [IRIS Message Center](http://ds.iris.edu/message-center/)

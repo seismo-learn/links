@@ -26,7 +26,7 @@ menu:
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji)
 - **Geophysical Research Letters**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-8007/)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
 - **Geophysics**:
     [Homepage](http://geophysics.geoscienceworld.org/)
 - **Gondwana Research**:
