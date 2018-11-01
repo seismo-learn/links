@@ -82,6 +82,7 @@ menu:
 - [Harvard Seismology](http://seismology.harvard.edu/)
 - [Global Seismology Group at Rice University](http://www.gseis.rice.edu/)
 - [Berkeley Global Seismology](http://seismo.berkeley.edu/wiki_br/Main_Page)
+- [University of Rhode Island Seismology Lab](https://sites.google.com/view/seismo)
 
 ### Software Library
 

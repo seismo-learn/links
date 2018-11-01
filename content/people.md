@@ -15,6 +15,7 @@ menu:
 
 - [Andrew Curtis](http://www.geos.ed.ac.uk/homes/acurtis/)
 - [Chris Chapman](http://bullard.esc.cam.ac.uk/~chapman/)
+- [Min Chen](https://chenseismolab.org/)
 - [Robert W. Clayton](http://web.gps.caltech.edu/~clay/)
 - [Vernon F. Cormier](http://www.phys.uconn.edu/~cormier)
 
