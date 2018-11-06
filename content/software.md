@@ -32,7 +32,7 @@ menu:
 [mseed2sac]: https://github.com/iris-edu/mseed2sac
 [dataselect]: https://github.com/iris-edu/dataselect
 
-### 数据获取工具
+### Data Retrieve Tools
 
 - [BREQ_FAST][]: 通过发送邮件申请数据
 - [IRIS Wilber 3][]: 通过网页界面下载单个地震事件的波形数据
@@ -50,7 +50,7 @@ menu:
 [Web Service Fetch scripts]: https://seiscode.iris.washington.edu/projects/ws-fetch-scripts
 [HinetPy]: https://seisman.github.io/HinetPy/
 
-### 绘图类
+### Plotting
 
 - [GMT][]: 地球物理方向绘制地图必备神器
 - [GMT/Python][]: GMT的Python接口
@@ -69,7 +69,7 @@ menu:
 [obspy-mopad]: https://docs.obspy.org/packages/autogen/obspy.imaging.scripts.mopad.html
 [SeisTomoPy]: https://github.com/stephaniedurand/SeisTomoPy
 
-### 走时计算/射线追踪
+### Traveltime Calculation/Ray Tracing
 
 - [TauP][]: 强大的走时计算器，不过其功能可不仅仅只是计算走时这么简单。射线参数、射线路径、反射点、投射点都可以计算，支持自定义速度模型、支持不常见的震相。
 - [obspy.taup][]: TauP 的 Python 版本
@@ -85,9 +85,9 @@ menu:
 [FM3D]: http://rses.anu.edu.au/seismology/soft/fmmcode/
 [obspy.taup]: http://docs.obspy.org/packages/obspy.taup.html
 
-### 理论地震图
+### Synthetic Seismograms
 
-#### 解析解
+#### Analytical Methods
 
 - [fk][]: 频率-波数法，计算水平分层各向同性介质下理论地震图位移静态解和动态解
 - [yaseis][]: 频率-波数法，球状分层介质下的理论地震图
@@ -97,7 +97,7 @@ menu:
 - [GEMINI][]:
 - [DSM][]: Direct Solution Method ([tish][], [tipsv][], [spcsac][])
 
-#### 有限差分法
+#### Finite Difference Methods
 
 - [SHaxi][]: 有限差分方法计算全球尺度高精度 SH 波场
 - [SOFI2D][]: 二维有限差分计算 (粘) 弹性介质下的 PSV 波场
@@ -107,7 +107,7 @@ menu:
 - [SW4][]: 3D 有限差分
 - [OpenSWPC][]: 2D/3D 有限差分
 
-#### 谱元法
+#### Spectral Element Methods
 
 - [SPECFEM1D][]: 谱元法 1D
 - [SPECFEM2D][]: 谱元法 2D
@@ -144,9 +144,9 @@ menu:
 [AxiSEM3D]: https://github.com/kuangdai/AxiSEM3D
 [NEXD]: http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html
 
-### 特定研究类
+### Researches
 
-#### 面波成像
+#### Surface Wave Tomography
 
 - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/): 基于射线理论的面波成像
 - [AFTAN][]: 自动的频率-时间分析软件
@@ -157,7 +157,7 @@ menu:
 [AFTAN]: http://ciei.colorado.edu/Products/
 [senskernel]: http://ciei.colorado.edu/Products/
 
-#### 全波形反演
+#### Full Waveform Inversion
 
 - [TOY2DAC][]: 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
 - [ASKI][]: modularized program suite for sensitivity analysis and iterative full waveform inversion
@@ -188,7 +188,7 @@ menu:
 [GERMAINE]: https://github.com/daniel-koehn/GERMAINE
 [SAVA]: https://github.com/daniel-koehn/SAVA
 
-#### 震源机制
+#### Focal Mechanisms
 
 - [gcap][]: 通用 Cut and Paste 方法反演震源机制
 - [pyTDMT][]: 时间域震源机制反演的 Python 实现
@@ -203,7 +203,7 @@ menu:
 [focmec]: https://seiscode.iris.washington.edu/projects/focmec
 [HASH]: https://earthquake.usgs.gov/research/software/#HASH
 
-#### 震相拾取
+#### Phase Picking
 
 - [PhasePApy][]: Python 写的震相拾取软件包
 - [astack][]: 自适应迭代以实现震相对齐
@@ -213,7 +213,7 @@ menu:
 [astack]: http://rses.anu.edu.au/seismology/soft/astack/index.html
 [CrazySeismic_Pick]: http://web.gps.caltech.edu/~yucq/software.html
 
-#### S波分裂
+#### Shear Wave Splitting
 
 - [SplitLab][]: 基于 Matlab 的 S 波分裂处理工具
 - [multisplit][]: S 波分裂处理工具
@@ -225,14 +225,14 @@ menu:
 [SplitRacer]: http://www.geophysik.uni-frankfurt.de/64002762/Software
 [SHEBA]: https://github.com/jwookey/sheba
 
-#### 接收函数
+#### Receiver Function
 
-- [hk][]: 用于接收函数研究的代码。
-- [CCP][]: 共转换点地震数据叠加，用于接收函数研究。
-- [rf][]: 接收函数
-- [IRFFM][]: 带 GUI 的接收函数软件包
-- [CrazySeismic_Decon][]: 基于Matlab的带GUI的接收函数软件包
-- [FuncLab][]: 基于 Matlab的带 GUI 的接收函数软件包
+- [hk][] 
+- [CCP][]: Common conversion point stakcing.
+- [rf][]: Written in Python
+- [IRFFM][]: With a GUI
+- [CrazySeismic_Decon][]: Based on Matlab
+- [FuncLab][]: Based on Matlab
 
 [hk]: http://www.eas.slu.edu/People/LZhu/home.html
 [CCP]: http://www.eas.slu.edu/People/LZhu/home.html
@@ -241,7 +241,7 @@ menu:
 [CrazySeismic_Decon]: http://web.gps.caltech.edu/~yucq/software.html
 [FuncLab]: https://robporritt.wordpress.com/software/
 
-#### 噪声成像
+#### Ambient Noise Tomography
 
 - [MSNoise][]: 利用地震背景噪声检测地下速度结构变化
 - [seismic-noise-tomography][]: 噪声面波成像
@@ -249,7 +249,7 @@ menu:
 [MSNoise]: http://www.msnoise.org/
 [seismic-noise-tomography]: https://github.com/bgoutorbe/seismic-noise-tomography
 
-#### 地震检测
+#### Earthquake Detection
 
 - [EQcorrscan][]: 地震检测与分析
 - [FastMatchedFilter][]: An efficient seismic matched-filter search for both CPU and GPU architectures.
@@ -258,7 +258,7 @@ menu:
 [EQcorrscan]: https://github.com/eqcorrscan/EQcorrscan
 [FastMatchedFilter]: https://github.com/beridel/fast_matched_filter
 
-#### ZH ratio
+#### Z/H Ratio
 
 - [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox)
 
@@ -268,13 +268,13 @@ menu:
 
 [SHTOOLS]: https://github.com/SHTOOLS/SHTOOLS
 
-### 函数库
+### Library
 
 - [libmseed][]: https://github.com/iris-edu/libmseed
 
 [libmseed]: https://seiscode.iris.washington.edu/projects/libmseed
 
-### 其他
+### Others
 
 - [distaz][]: 给定震中和台站经纬度，计算震中距、方位角和反方位角的经典代码。
 - [DigitSeis][]: 利用图像处理技术将模拟地震仪记录到的波形图片转换成数字信号（Matlab）
