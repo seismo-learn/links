@@ -1,5 +1,5 @@
 ---
-title: Job
+title: Jobs
 menu: 
   main:
     weight: 4

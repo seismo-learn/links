@@ -1,5 +1,5 @@
 ---
-title: Software
+title: Softwares
 menu: 
   main:
     weight: 2

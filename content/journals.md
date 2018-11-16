@@ -1,5 +1,5 @@
 ---
-title: Journal
+title: Journals
 menu:
   main:
     weight: 1

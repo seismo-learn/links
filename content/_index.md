@@ -2,9 +2,9 @@
 
 If you have other useful links, feel free to contact me and I'll add them to this site.
 
-- [Journal](/journal/)
+- [Journals](/journals/)
 - [People](/people/)
-- [Software](/software/)
-- [Job](/job/)
-- [Tool](/tool/)
+- [Softwares](/softwares/)
+- [Jobs](/jobs/)
+- [Tools](/tools/)
 - [Other](/misc/)
