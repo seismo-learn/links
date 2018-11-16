@@ -251,7 +251,7 @@ menu:
 
 #### Earthquake Detection
 
-- [EQcorrscan][]: 地震检测与分析
+- [EQcorrscan][]: Earthquake detection and analysis in Python.
 - [FastMatchedFilter][]: An efficient seismic matched-filter search for both CPU and GPU architectures.
 - [REDPy](https://github.com/ahotovec/REDPy)
 

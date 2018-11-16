@@ -6,4 +6,5 @@ If you have other useful links, feel free to contact me and I'll add them to thi
 - [People](/people/)
 - [Software](/software/)
 - [Job](/job/)
+- [Tool](/tool/)
 - [Other](/misc/)
