@@ -59,6 +59,10 @@ menu:
 
 - [Guy Master](http://igppweb.ucsd.edu/~guy/)
 
+### M
+
+- [Allen McNamara](https://msu.edu/~allenmc/)
+
 ### N
 
 - [Fenglin Niu](http://earthscience.rice.edu/faculty/niu/)
@@ -87,7 +91,7 @@ menu:
 - [Satoru Tanaka](http://www.jamstec.go.jp/res/ress/stan/TanakaHome/Welcome.html)
 - [Hrvoje Tkalčić](http://rses.anu.edu.au/~hrvoje/)
 - [Michael Thorne](http://web.utah.edu/thorne/index.html)
-- [Dongdong Tian](http://home.ustc.edu.cn/~dongzhi/)
+- [Dongdong Tian](https://msu.edu/~tiandong/)
 - [Jeroen Tromp](http://www.princeton.edu/geosciences/tromp/index.xml)
 - [Victor C. Tsai](http://web.gps.caltech.edu/~tsai/)
 
