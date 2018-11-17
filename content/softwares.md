@@ -60,6 +60,7 @@ menu:
 - [MoPad][]: 地震矩分析和绘图软件，可以做地震矩的各种分解以及分析，绘制各种类型的震源球，可控性非常强，比 GMT 的 psmeca 命令要灵活，且可以与 GMT 联合使用
 - [obspy-mopad][]: ObsPy 中提供的另一个版本的 mopad 工具
 - [SeisTomoPy][]: 3D模型可视化，3D走时计算
+- [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php): Web-Based Tools for Exploring Seismic Tomography and Other Models of Earth’s Deep Interior
 
 [GMT]: http://gmt.soest.hawaii.edu/
 [GMT/Python]: http://www.gmtpython.xyz/
