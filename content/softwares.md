@@ -1,6 +1,6 @@
 ---
 title: Softwares
-menu: 
+menu:
   main:
     weight: 2
 ---
@@ -22,14 +22,13 @@ menu:
 ### Seismic Data Format Conversion
 
 - [rdseed][]: SEED 格式转换为 SAC 等地震数据格式
-- [mseed2sac][]: 将 miniSEED 格式转换为 SAC 格式
-- [win32tools][]: Hi-net 提供的工具，用于将 WIN32 格式的数据转换为 SAC 格式
+- [sac2mseed](https://github.com/iris-edu/sac2mseed): SAC => miniSEED
+- [mseed2sac](https://github.com/iris-edu/mseed2sac): miniSEED => SAC
+- [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools): Convert WIN32 format used by Hi-net, to SAC format
 - [dataselect][]:  miniSEED 数据处理
 - [ObsPy][]: 基于 Python 的地震学数据获取、处理、绘图工具
 
 [rdseed]: http://www.iris.edu/ds/nodes/dmc/forms/rdseed/
-[win32tools]: http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools
-[mseed2sac]: https://github.com/iris-edu/mseed2sac
 [dataselect]: https://github.com/iris-edu/dataselect
 
 ### Data Retrieve Tools
@@ -228,7 +227,7 @@ menu:
 
 #### Receiver Function
 
-- [hk][] 
+- [hk][]
 - [CCP][]: Common conversion point stakcing.
 - [rf][]: Written in Python
 - [IRFFM][]: With a GUI
@@ -252,11 +251,10 @@ menu:
 
 #### Earthquake Detection
 
-- [EQcorrscan][]: Earthquake detection and analysis in Python.
+- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): Earthquake detection and analysis in Python.
 - [FastMatchedFilter][]: An efficient seismic matched-filter search for both CPU and GPU architectures.
 - [REDPy](https://github.com/ahotovec/REDPy)
 
-[EQcorrscan]: https://github.com/eqcorrscan/EQcorrscan
 [FastMatchedFilter]: https://github.com/beridel/fast_matched_filter
 
 #### Z/H Ratio
@@ -272,6 +270,7 @@ menu:
 ### Library
 
 - [libmseed][]: https://github.com/iris-edu/libmseed
+- [SEC_C][https://github.com/Naderss/SEC_C]: Super-Efficient Cross-Correlation
 
 [libmseed]: https://seiscode.iris.washington.edu/projects/libmseed
 
