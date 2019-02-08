@@ -144,6 +144,10 @@ menu:
 [AxiSEM3D]: https://github.com/kuangdai/AxiSEM3D
 [NEXD]: http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html
 
+#### Discontinuous Galerkin Method
+
+- [SeisSol](https://github.com/SeisSol/SeisSol): a scientific software for the numerical simulation of seismic wave phenomena and earthquake dynamics
+
 ### Researches
 
 #### Surface Wave Tomography
