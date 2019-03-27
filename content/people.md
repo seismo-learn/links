@@ -1,6 +1,6 @@
 ---
 title: People
-menu: 
+menu:
   main:
     weight: 3
 ---
@@ -34,6 +34,7 @@ menu:
 - [Donald V. Helmberger](http://www.gps.caltech.edu/content/donald-v-helmberger)
 - [Robert van der Hilst](http://eaps4.mit.edu/faculty/Hilst/)
 - [Kei Hirose](http://www.geo.titech.ac.jp/lab/hirose/en/home.html)
+- [Yihe Huang](https://sites.lsa.umich.edu/yihehuang/)
 
 ### I
 
