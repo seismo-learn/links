@@ -48,7 +48,9 @@ menu:
 - **Reviews of Geophysics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
 - **Science**:
-    [Homepage](http://science.sciencemag.org/)
+    [Homepage](http://science.sciencemag.org/) |
+    [Current Issue](https://science.sciencemag.org/content/current) |
+    [Archive](https://science.sciencemag.org/content/by/year)
 - **Science Advances**:
     [Homepage](http://advances.sciencemag.org/)
 - **Science Bulletin**:

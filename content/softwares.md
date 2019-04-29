@@ -261,6 +261,10 @@ menu:
 
 [FastMatchedFilter]: https://github.com/beridel/fast_matched_filter
 
+#### Earthquake relocation
+
+- [GrowClust](https://github.com/dttrugman/GrowClust)
+
 #### Z/H Ratio
 
 - [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox)
