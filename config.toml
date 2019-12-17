@@ -5,7 +5,7 @@ title = "SeisMan's links"
 [params]
 cards = [
   { name = "Journals",  link = "/journals",  icon = "fa-book-open"},
-  { name = "Softwares", link = "/softwares", icon = "fa-code"},
+  { name = "Software", link = "/software",	 icon = "fa-code"},
   { name = "People",    link = "/people",    icon = "fa-user"},
   {name = "Jobs",       link = "/jobs",      icon = "fa-ad"},
   {name = "Tools",      link = "/tools",     icon = "fa-tools"},

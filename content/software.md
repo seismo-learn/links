@@ -1,5 +1,5 @@
 ---
-title: Softwares
+title: Software
 ---
 
 ### Seismic Data Processing
