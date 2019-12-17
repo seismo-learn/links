@@ -1,8 +1,5 @@
 ---
 title: People
-menu:
-  main:
-    weight: 3
 ---
 
 

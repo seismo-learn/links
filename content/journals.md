@@ -1,8 +1,5 @@
 ---
 title: Journals
-menu:
-  main:
-    weight: 1
 ---
 
 ### Journals

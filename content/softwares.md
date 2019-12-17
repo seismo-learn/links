@@ -1,8 +1,5 @@
 ---
 title: Softwares
-menu:
-  main:
-    weight: 2
 ---
 
 ### Seismic Data Processing

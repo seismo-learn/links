@@ -1,8 +1,5 @@
 ---
 title: Jobs
-menu: 
-  main:
-    weight: 4
 ---
 
 - [IRIS Job Announcements](https://ds.iris.edu/message-center/topic/jobs/)

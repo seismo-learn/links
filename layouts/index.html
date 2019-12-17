@@ -1,3 +1,20 @@
 {{ define "main" }}
+
+<div class="card-columns mt-4">
+{{ range .Site.Params.cards }}
+	<div class="card">
+		<div class="card-body" onclick="location.href = '{{ .link }}'">
+			<p class="card-text">
+				<a href="{{ .link }}" target="_self" class="iconLink">
+					<div><i class="fas {{ .icon }} fa-5x"></i></div>
+					<div>{{ .name }}</div>
+				</a>
+			</p>
+		</div>
+	</div>
+{{ end }}
+</div>
+
 {{ .Content }}
+
 {{ end }}

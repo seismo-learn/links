@@ -1,8 +1,5 @@
 ---
 title: Misc.
-menu:
-  main:
-    weight: 5
 ---
 
 ### Institutions
