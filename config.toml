@@ -1,6 +1,6 @@
 baseURL = "https://link.seisman.info/"
 languageCode = "en-us"
-title = "SeisMan's links"
+title = "SeisLinks"
 
 [params]
 cards = [
