@@ -2,6 +2,11 @@
   column-count: 6;
 }
 
+.card-columns .card {
+    border-radius: 1.0rem;
+    background-color: aliceblue;
+}
+
 .navbar {
   background-color: aqua;
   border-bottom-left-radius: 0.5rem;
