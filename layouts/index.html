@@ -2,12 +2,12 @@
 
 <div class="card-columns mt-4">
 {{ range .Site.Params.startpage.cards }}
-	<div class="card">
+	<div class="card text-center">
 		<div class="card-body" onclick="location.href = '{{ .link }}'">
 			<p class="card-text">
 				<a href="{{ .link }}" target="_self" class="iconLink">
-					<div><i class="fas {{ .icon }} fa-5x"></i></div>
-					<div>{{ .name }}</div>
+					<i class="fas {{ .icon }} fa-5x"></i>
+					<h5 class='card-title'>{{ .name }}</h5>
 				</a>
 			</p>
 		</div>
