@@ -272,7 +272,7 @@ title: Software
 ### Library
 
 - [libmseed][]: https://github.com/iris-edu/libmseed
-- [SEC_C][https://github.com/Naderss/SEC_C]: Super-Efficient Cross-Correlation
+- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 [libmseed]: https://seiscode.iris.washington.edu/projects/libmseed
 
