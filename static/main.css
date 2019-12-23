@@ -1,3 +1,22 @@
+/* Responsive columns of cards */
+@media (max-width: 48em) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 62em) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 75em) {
+    .card-columns {
+        column-count: 6;
+    }
+}
+
 .card-columns .card {
   border-radius: 1.0rem;
   background-color: aliceblue;
