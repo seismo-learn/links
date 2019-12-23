@@ -1,10 +1,6 @@
-.card-columns {
-  column-count: 6;
-}
-
 .card-columns .card {
-    border-radius: 1.0rem;
-    background-color: aliceblue;
+  border-radius: 1.0rem;
+  background-color: aliceblue;
 }
 
 .navbar {
