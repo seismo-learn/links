@@ -1,5 +1,0 @@
-baseURL = "https://link.seisman.info/"
-languageCode = "en-us"
-title = "SeisLinks"
-
-enableGitInfo = true
