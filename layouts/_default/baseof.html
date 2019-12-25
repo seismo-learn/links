@@ -1,20 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "en-us" }}">
-
-{{ partial "site_head" . }}
-
-<body>
-  <div class="container">
-    {{ partial "navbar" . }}
-
-    {{ block "main" . }}{{ end }}
-
-    <hr/>
-
-    {{ partial "footer" . }}
-  </div>
-
-  {{ partial "site_js" . }}
-</body>
-
+  {{ partial "site_head" . }}
+  <body>
+    <main class="container">
+      {{ partial "navbar" . }}
+      <article>
+        {{ block "main" . }}{{ end }}
+      </article>
+      <hr/>
+      {{ partial "footer" . }}
+    </main>
+    {{ partial "site_js" . }}
+  </body>
 </html>

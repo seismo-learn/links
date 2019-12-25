@@ -17,6 +17,10 @@
     }
 }
 
+article {
+  margin: 20px 15px;
+}
+
 .card-columns .card {
   border-radius: 1.0rem;
   background-color: aliceblue;
