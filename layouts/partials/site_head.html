@@ -6,5 +6,5 @@
   <link rel="stylesheet" href="https://cdn.bootcss.com/bootswatch/4.4.1/cosmo/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
   <link rel="stylesheet" href="/main.css">
-  <title>{{ .Site.Title }}</title>
+  <title>{{ .Site.Title }}{{ with .Title }} | {{ . }} {{ end }}</title>
 </head>
