@@ -20,7 +20,7 @@ Then you can view the site by visiting http://localhost:1313 in you local browse
 
 ## Contributing
 
-Everyone is welcome to contribute to this site. Contributions include:
+Everyone is welcome to contribute to this site. Contributions include but not limited to:
 
 - Add more useful links
 - Report/Fix broken links
