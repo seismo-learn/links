@@ -28,3 +28,7 @@ Everyone is welcome to contribute to this site. Contributions include:
 - any brilliant ideas
 
 For any contributions, please open an issue or submit a pull request.
+
+## License
+
+[The Unlicense](https://unlicense.org/).
