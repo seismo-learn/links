@@ -18,7 +18,11 @@
 }
 
 article {
-  margin: 20px 15px;
+  margin: 1.0rem 0.75rem;
+}
+
+footer {
+  margin-bottom: 1.0rem;
 }
 
 .card-columns .card {
