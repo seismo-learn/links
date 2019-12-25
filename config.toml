@@ -4,11 +4,13 @@
 baseURL = "https://link.seisman.info/"
 languageCode = "en-us"
 title = "SeisLinks"
+copyright = "[Unlicense](https://unlicense.org/), 2018 - {year}."
 
 disableKinds = ['taxonomyTerm', 'RSS']
 enableGitInfo = true
 
 [params]
+  lastupdate = "Built by [Hugo](https://gohugo.io/) from [source code](https://github.com/seisman/link.seisman.info). Last updated on {now}."
   [params.startpage]
     cards = [
         { name = "Journals", link = "/journals/",  icon = "fa-book-open"},

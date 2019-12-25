@@ -1,0 +1,12 @@
+<footer>
+  <div class="container text-center">
+  {{ with .Site.Copyright }}
+    {{ replace . "{year}" now.Year | markdownify }}
+  {{ end }}
+  </div>
+  <div class="container text-center">
+  {{ with .Site.Params.lastupdate }}
+    {{ replace . "{now}" (now.Format "2006/01/02") | markdownify }}
+  {{ end }}
+  </div>
+</footer>
