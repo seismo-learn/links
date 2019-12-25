@@ -1,7 +1,11 @@
+#
+# Hugo config file for link.seisman.info
+#
 baseURL = "https://link.seisman.info/"
 languageCode = "en-us"
 title = "SeisLinks"
 
+disableKinds = ['taxonomyTerm', 'RSS']
 enableGitInfo = true
 
 [params]
