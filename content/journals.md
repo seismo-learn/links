@@ -2,16 +2,31 @@
 title: Journals
 ---
 
-### Journals
+## Inter-disciplinary Journals
+
+- **Science**:
+    [Homepage](http://science.sciencemag.org/) |
+    [Current Issue](https://science.sciencemag.org/content/current) |
+    [Archive](https://science.sciencemag.org/content/by/year)
+- **Nature**:
+    [Homepage](https://www.nature.com/nature/)
+- **Nature Communications**:
+    [Homepage](https://www.nature.com/ncomms/)
+- **Science Advances**:
+    [Homepage](http://advances.sciencemag.org/)
+- **Science Bulletin**:
+    [Homepage](http://www.sciencedirect.com/journal/science-bulletin)
+- **Scientific Reports**:
+    [Homepage](https://www.nature.com/srep/)
+- **Proceedings of the National Academy of Sciences**:
+    [Homepage](https://www.pnas.org)
+
+## Geoscience
 
 - **Annual Review of Earth and Planetary Sciences**:
     [Homepage](http://www.annualreviews.org/journal/earth)
-- **Bulletin of the Seismological Society of America**:
-    [Homepage](http://bssa.geoscienceworld.org/)
-- **Chinese Journal of Geophysics**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/)
-- **EOS**:
-    [Homepage](https://eos.org/)
+- **Astronomy & Geophysics**:
+    [Homepage](https://academic.oup.com/astrogeo)
 - **Earth and Planetary Physics**:
     [Homepage](http://www.eppcgs.org)
 - **Earth and Planetary Science Letters**:
@@ -20,50 +35,65 @@ title: Journals
     [Homepage](https://link.springer.com/journal/40623)
 - **Geochemistry, Geophysics, Geosystems**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
+- **Gondwana Research**:
+    [Homepage](http://www.sciencedirect.com/science/journal/1342937X)
+- **Lithos**:
+    [Homepage](http://www.sciencedirect.com/science/journal/00244937)
+- **Nature GeoScience**:
+    [Homepage](http://www.nature.com/ngeo/index.html)
+- **Physics of the Earth and Planetary Interiors**:
+    [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
+- **Earth-Science Reviews**:
+    [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
+- **Science China Earth Sciences**:
+    [Homepage](https://link.springer.com.remotexs.ntu.edu.sg/journal/11430)
+- **Solid Earth**:
+    [Homepage](https://www.solid-earth.net/index.html)
+- **Tectonics**:
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
+- **Tectonophysics**:
+    [Homepage](https://www.sciencedirect.com/journal/tectonophysics)
+
+## Geophysics
+
+- **Chinese Journal of Geophysics**:
+    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/)
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji)
 - **Geophysical Research Letters**:
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
 - **Geophysics**:
     [Homepage](http://geophysics.geoscienceworld.org/)
-- **Gondwana Research**:
-    [Homepage](http://www.sciencedirect.com/science/journal/1342937X)
+- **Geodesy and Geodynamics**:
+    [Homepage](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
+- **Geophysical Prospecting**:
+    [Homepage](https://onlinelibrary.wiley.com/journal/13652478)
+- **Journal of Geodynamics**:
+    [Homepage](https://www.sciencedirect.com/journal/journal-of-geodynamics)
+- **Pure and Applied Geophysics**:
+    [Homepage](https://link.springer.com/journal/24)
 - **Journal of Applied Geophysics**:
     [Homepage](http://www.sciencedirect.com/science/journal/09269851)
 - **Journal of Geophysical Research: Solid Earth**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
-- **Lithos**:
-    [Homepage](http://www.sciencedirect.com/science/journal/00244937)
-- **Nature**:
-    [Homepage](https://www.nature.com/nature/)
-- **Nature Communications**:
-    [Homepage](https://www.nature.com/ncomms/)
-- **Nature GeoScience**:
-    [Homepage](http://www.nature.com/ngeo/index.html)
-- **Physics of the Earth and Planetary Interiors**:
-    [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
 - **Reviews of Geophysics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
-- **Science**:
-    [Homepage](http://science.sciencemag.org/) |
-    [Current Issue](https://science.sciencemag.org/content/current) |
-    [Archive](https://science.sciencemag.org/content/by/year)
-- **Science Advances**:
-    [Homepage](http://advances.sciencemag.org/)
-- **Science Bulletin**:
-    [Homepage](http://www.sciencedirect.com/journal/science-bulletin)
-- **Scientific Reports**:
-    [Homepage](https://www.nature.com/srep/)
-- **Seismological Research Letters**:
-    [Homepage](https://pubs.geoscienceworld.org/srl) |
-    [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
-    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
 - **Tectonics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9194/)
 - **Tectonophysics**:
     [Homepage](http://www.sciencedirect.com/science/journal/00401951)
 
+## Seismology
+
+- **Bulletin of the Seismological Society of America**:
+    [Homepage](http://bssa.geoscienceworld.org/)
+- **Seismological Research Letters**:
+    [Homepage](https://pubs.geoscienceworld.org/srl) |
+    [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
+    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
+
 ### Misc.
 
+- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
