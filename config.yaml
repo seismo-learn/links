@@ -1,5 +1,5 @@
 #
-# Hugo config file for link.seisman.info
+# Hugo configuration file
 #
 baseURL: https://link.seisman.info/
 languageCode: en-us
@@ -12,7 +12,8 @@ disableKinds:
 enableGitInfo: true
 
 params:
-  lastupdate: "Built by [Hugo](https://gohugo.io/) from [source code](https://github.com/seisman/link.seisman.info). Last updated on {now}."
+  lastupdate: Built by [Hugo](https://gohugo.io/) on {now}.
+              Source codes available on [GitHub](https://github.com/seisman/link.seisman.info).
 
   startpage:
     cards:
