@@ -6,7 +6,7 @@ title: Jobs
 
 - [IRIS Job Announcements](https://ds.iris.edu/message-center/topic/jobs)
 - [EarthWorks Jobs](https://www.earthworks-jobs.com)
-- [Seismological Society of America (SSA) Jobs](https://www.seismosoc.org/jobs)
+- [Seismological Society of America (SSA) Jobs](https://www.seismosoc.org/jobs/job-listings/)
 - [Geological Society of America (GSA) Geoscience Job Board](http://www.geosociety.org/GSA/Publications/GSA_Today/Job_Board/GSA/GSAToday/Job_Board.aspx)
 - [USGS Mendenhall Research Fellowship Program](https://www.usgs.gov/centers/mendenhall)
 - [Japan Society for the Promotion of Science Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/index.html)
