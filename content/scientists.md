@@ -1,5 +1,5 @@
 ---
-title: People
+title: Scientists
 ---
 
 - [Charles J. Ammon](http://eqseis.geosc.psu.edu/~cammon/)

@@ -29,27 +29,6 @@ params:
     jquery_cdn: https://cdnjs.cloudflare.com/ajax/libs/jquery
     jquery_version: 3.4.1
 
-  startpage:
-    cards:
-      - name: Journals
-        link: /journals/
-        icon: fa-book-open
-      - name: Software
-        link: /software/
-        icon: fa-code
-      - name: People
-        link: /people/
-        icon: fa-user
-      - name: Jobs
-        link: /jobs/
-        icon: fa-ad
-      - name: Tools
-        link: /tools/
-        icon: fa-tools
-      - name: Misc.
-        link: /misc/
-        icon: fa-link
-
   edit_page:
     repo_url: https://github.com/seisman/link.seisman.info
     edit_mode: edit

@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="card-columns mt-4">
-{{ range .Site.Params.startpage.cards }}
+{{ range .Params.cards }}
 	<div class="card text-center">
 		<div class="card-body" onclick="location.href = '{{ .link }}'">
 			<p class="card-text">
