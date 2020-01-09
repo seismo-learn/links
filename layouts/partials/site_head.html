@@ -3,8 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.bootcss.com/bootswatch/4.4.1/cosmo/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-  <link rel="stylesheet" href="/main.css">
-  <title>{{ .Site.Title }}{{ with .Title }} | {{ . }} {{ end }}</title>
+  <link rel="stylesheet" href="{{.Site.Params.assets.bootswatch_cdn}}/{{.Site.Params.assets.bootswatch_version}}/{{.Site.Params.assets.bootswatch_theme}}/bootstrap.min.css">
+  <link rel="stylesheet" href="{{.Site.Params.assets.fontawesome_cdn}}/{{.Site.Params.assets.fontawesome_version}}/css/all.min.css">
+  <link rel="stylesheet" href="{{.Site.BaseURL}}main.css">
+  <title>{{ .Site.Title }} {{ if not .IsHome }} | {{ .Title }}{{ end }}</title>
 </head>

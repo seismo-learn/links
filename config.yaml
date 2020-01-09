@@ -15,6 +15,20 @@ params:
   lastupdate: Built by [Hugo](https://gohugo.io/) on {now}.
               Source codes available on [GitHub](https://github.com/seisman/link.seisman.info).
 
+  assets:
+    bootswatch_cdn: https://cdnjs.cloudflare.com/ajax/libs/bootswatch
+    bootswatch_version: 4.4.1
+    bootswatch_theme: cosmo
+
+    bootstrap_cdn: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
+    bootstrap_version: 4.4.1
+
+    fontawesome_cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome
+    fontawesome_version: 5.11.2
+
+    jquery_cdn: https://cdnjs.cloudflare.com/ajax/libs/jquery
+    jquery_version: 3.4.1
+
   startpage:
     cards:
       - name: Journals
