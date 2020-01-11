@@ -10,6 +10,12 @@ cards:
   - name: Scientists
     link: /scientists/
     icon: fa-user
+  - name: Database
+    link: /database/
+    icon: fa-database
+  - name: Learning Resources
+    link: /learning/
+    icon: fa-graduation-cap
   - name: Jobs
     link: /jobs/
     icon: fa-ad
