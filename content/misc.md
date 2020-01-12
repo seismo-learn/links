@@ -15,30 +15,6 @@ title: Misc.
 - [DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations.
 - [Wilber III](http://ds.iris.edu/wilber3/): Request waveform of single event
 
-### Earthquake Catalog
-
-#### Global Earthquake Catalog
-
-- [IRIS web service](http://service.iris.edu/fdsnws/event/1/)
-- [ISC Bulletin](http://www.isc.ac.uk/iscbulletin/search/catalogue/) |
-  [ISC web service](http://www.isc.ac.uk/fdsnws/event/1/)
-- [ISC-EHB Bulletin](http://www.isc.ac.uk/ehbbulletin/)
-- [PDE](http://earthquake.usgs.gov/data/pde.php) |
-  [USGS web service](http://earthquake.usgs.gov/fdsnws/event/1/)
-
-#### Regional Earthquake Catalog
-
-- [中国历史地震目录](http://data.earthquake.cn/data/data/history_query.jsp)
-- [中国台网统一地震目录](http://data.earthquake.cn/data/datashare_tyml_query.jsp)
-- [ANSS Catalog](http://www.ncedc.org/anss/)
-- [NCEC Catalog](http://www.ncedc.org/ncedc/catalogs.html)
-- [ANSS Comprehensive Catalog](http://earthquake.usgs.gov/earthquakes/search/)
-- [SCSN catalog](http://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php)
-- [JMA Unified Hypocenter Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html)
-- [JMA Preliminary Unified Hypocenter Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php)
-- [澳大利亚](http://www.ga.gov.au/earthquakes/searchQuake.do)
-- [加拿大](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php)
-
 ### Focal Mechanism Catalog
 
 - [Global CMT](http://www.globalcmt.org/)
