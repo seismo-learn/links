@@ -24,3 +24,13 @@ title: Database
 - [JMA Preliminary Unified Hypocenter Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php)
 - [Australian Catalog](http://www.ga.gov.au/earthquakes/searchQuake.do)
 - [Canada Catalog](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php)
+
+## Other Database
+
+- [Central Asia Fault Database](http://www.geo.uni-tuebingen.de/projekte/openfaults/)
+- [Shear-wave splitting database](http://splitting.gm.univ-montp2.fr/DB/index.html)
+- [Volcanos Datas](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
+- [GLImER](http://stephanerondenay.com/glimermap/): Global database of teleseismic receiver functions
+- [EARS](http://ds.iris.edu/ds/products/ears/): Receiver function database for EarthScope stations
+- [GADM](https://gadm.org): Database of Global Administrative Areas
+- [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/): An ambient noise cross-correlation based database of empirical Green's functions (EGFs) of the Western US using USArray TA data.

@@ -68,17 +68,10 @@ title: Misc.
 
 ### Geoscience Data
 
-- [EARS](http://ds.iris.edu/ds/products/ears/): 美国地区接收函数数据库
-- [GLImER](http://stephanerondenay.com/glimermap/): 全球接收函数库
 - [Source Time Function](http://ds.iris.edu/spud/sourcetimefunction)
 - [Earth Model](http://ds.iris.edu/ds/products/emc/)
 - [Slab Model for Subduction Zones](http://earthquake.usgs.gov/data/slab/)
-- [Volcanos Datas](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
-- [Shear-wave splitting database](http://splitting.gm.univ-montp2.fr/DB/index.html)
-- [Central Asia Fault Database](http://www.geo.uni-tuebingen.de/projekte/openfaults/)
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): 澳大利亚区域模型
-- [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/): 美国西部背景噪声互相关函数库
-- [GADM](https://gadm.org): 全球行政区划数据库
 
 ### Misc
 
