@@ -16,12 +16,12 @@ params:
               Source codes available on [GitHub](https://github.com/seisman/link.seisman.info).
 
   assets:
+    bootstrap_cdn: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
+    bootstrap_version: 4.4.1
+
     bootswatch_cdn: https://cdnjs.cloudflare.com/ajax/libs/bootswatch
     bootswatch_version: 4.4.1
     bootswatch_theme: cosmo
-
-    bootstrap_cdn: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
-    bootstrap_version: 4.4.1
 
     fontawesome_cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome
     fontawesome_version: 5.11.2
