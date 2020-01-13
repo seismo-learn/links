@@ -32,7 +32,7 @@ For any contributions, please open an issue or submit a pull request.
 
 ## Acknowledgments
 
-Huge thanks to following contributors:
+A huge thanks to following contributors:
 
 - [core-man](https://github.com/core-man)
 
