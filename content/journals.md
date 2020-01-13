@@ -53,6 +53,7 @@ title: Journals
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
 - **Tectonophysics**:
     [Homepage](https://www.sciencedirect.com/journal/tectonophysics)
+- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 
 ## Geophysics
 
@@ -92,8 +93,14 @@ title: Journals
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
     [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
 
-### Misc.
+## Misc.
 
-- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
+- [ResearchGate](https://www.researchgate.net): Social networking site for scientists and researchers
+- [ORDID](https://orcid.org/): A persistent digital identifier for researchers.
+- [Scopus](https://www.scopus.com/): Abstract and citation database.
+- [Web of Science](https://www.webofknowledge.com): Abstract and citation database
+- [Publons](https://publons.com/about/home): Your publications, citation metrics, peer reviews and journal editing work, in one place
+- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science!
+- [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors.
