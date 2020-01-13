@@ -25,4 +25,7 @@ cards:
   - name: Misc.
     link: /misc/
     icon: fa-link
+  - name: About
+    link: /about/
+    icon: fa-info-circle
 ---
