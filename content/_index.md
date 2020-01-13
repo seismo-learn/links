@@ -4,8 +4,8 @@ cards:
   - name: Journals
     link: /journals/
     icon: fa-book-open
-  - name: Software
-    link: /software/
+  - name: Codes
+    link: /codes/
     icon: fa-code
   - name: Scientists
     link: /scientists/
@@ -13,7 +13,7 @@ cards:
   - name: Database
     link: /database/
     icon: fa-database
-  - name: Learning Resources
+  - name: Learning
     link: /learning/
     icon: fa-graduation-cap
   - name: Jobs

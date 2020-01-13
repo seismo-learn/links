@@ -28,6 +28,7 @@ title: Database
 ## Other Database
 
 - [Central Asia Fault Database](http://www.geo.uni-tuebingen.de/projekte/openfaults/)
+- [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): Database of active faults and associated features (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone.
 - [Shear-wave splitting database](http://splitting.gm.univ-montp2.fr/DB/index.html)
 - [Volcanos Datas](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
 - [GLImER](http://stephanerondenay.com/glimermap/): Global database of teleseismic receiver functions
