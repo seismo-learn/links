@@ -23,3 +23,7 @@ title: Tools
 - [regex101](https://regex101.com/): Online regular expressions tester and debugger.
 - [strftime](http://strftime.org/): Python strftime reference.
 - [DevDocs](https://devdocs.io/): API documentations of multiple programming languages/tools in one place
+
+## Science
+
+- [Periodic Table of Elements](https://www.ptable.com)
