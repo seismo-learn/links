@@ -22,12 +22,14 @@ title: Journals
 - **Proceedings of the National Academy of Sciences (PNAS)**:
     [Homepage](https://www.pnas.org)
 
-## Geoscience
+## Geoscience Journals
 
 - **Annual Review of Earth and Planetary Sciences**:
     [Homepage](http://www.annualreviews.org/journal/earth)
 - **Astronomy & Geophysics**:
     [Homepage](https://academic.oup.com/astrogeo)
+- **Chinese Journal of Geophysics (in Chinese)**:
+    [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
 - **Earth and Planetary Physics**:
     [Homepage](http://www.eppcgs.org)
 - **Earth and Planetary Science Letters**:
@@ -56,10 +58,8 @@ title: Journals
     [Homepage](https://www.sciencedirect.com/journal/tectonophysics)
 - [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 
-## Geophysics
+## Geophysics Journals
 
-- **Chinese Journal of Geophysics**:
-    [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji)
 - **Geophysical Research Letters**:
@@ -83,7 +83,7 @@ title: Journals
 - **Pure and Applied Geophysics**:
     [Homepage](https://link.springer.com/journal/24)
 
-## Seismology
+## Seismology Journals
 
 - **Bulletin of the Seismological Society of America**:
     [Homepage](http://bssa.geoscienceworld.org/)
@@ -92,14 +92,25 @@ title: Journals
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
     [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
 
-## Misc.
+## Other Journals
 
-- [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
-- [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
+- **Journal of Open Source Software**:
+    [Homepage](https://joss.theoj.org/)
+- **Journal of Open Source Education**:
+    [Homepage](https://jose.theoj.org/)
+
+## Researchers's Academic Profile
+
 - [ResearchGate](https://www.researchgate.net): Social networking site for scientists and researchers
-- [ORDID](https://orcid.org/): A persistent digital identifier for researchers.
+- [ORCID](https://orcid.org/): A persistent digital identifier for researchers.
+- [Publons](https://publons.com/): Your publications, citation metrics, peer reviews and journal editing work, in one place
+- [Google Scholar](https://scholar.google.com/)
+
+## Related Resources
+
 - [Scopus](https://www.scopus.com/): Abstract and citation database.
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
-- [Publons](https://publons.com/about/home): Your publications, citation metrics, peer reviews and journal editing work, in one place
-- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science!
+- [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
+- [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
+- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science! | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
 - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors.
