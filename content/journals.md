@@ -9,7 +9,8 @@ title: Journals
     [Current Issue](https://science.sciencemag.org/content/current) |
     [Archive](https://science.sciencemag.org/content/by/year)
 - **Nature**:
-    [Homepage](https://www.nature.com/nature/)
+    [Homepage](https://www.nature.com/nature/) |
+    [Current Issue](https://www.nature.com/nature/current-issue)
 - **Nature Communications**:
     [Homepage](https://www.nature.com/ncomms/)
 - **Science Advances**:
@@ -18,7 +19,7 @@ title: Journals
     [Homepage](http://www.sciencedirect.com/journal/science-bulletin)
 - **Scientific Reports**:
     [Homepage](https://www.nature.com/srep/)
-- **Proceedings of the National Academy of Sciences**:
+- **Proceedings of the National Academy of Sciences (PNAS)**:
     [Homepage](https://www.pnas.org)
 
 ## Geoscience
@@ -33,6 +34,8 @@ title: Journals
     [Homepage](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)
 - **Earth, Planets and Space**:
     [Homepage](https://link.springer.com/journal/40623)
+- **Earth-Science Reviews**:
+    [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
 - **Geochemistry, Geophysics, Geosystems**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
 - **Gondwana Research**:
@@ -43,8 +46,6 @@ title: Journals
     [Homepage](http://www.nature.com/ngeo/index.html)
 - **Physics of the Earth and Planetary Interiors**:
     [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
-- **Earth-Science Reviews**:
-    [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
 - **Science China Earth Sciences**:
     [Homepage](https://link.springer.com.remotexs.ntu.edu.sg/journal/11430)
 - **Solid Earth**:
@@ -58,7 +59,7 @@ title: Journals
 ## Geophysics
 
 - **Chinese Journal of Geophysics**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2326-0440/)
+    [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji)
 - **Geophysical Research Letters**:
@@ -79,10 +80,8 @@ title: Journals
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
 - **Reviews of Geophysics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
-- **Tectonics**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9194/)
-- **Tectonophysics**:
-    [Homepage](http://www.sciencedirect.com/science/journal/00401951)
+- **Pure and Applied Geophysics**:
+    [Homepage](https://link.springer.com/journal/24)
 
 ## Seismology
 
