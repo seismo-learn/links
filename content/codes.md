@@ -185,6 +185,7 @@ title: Scientific Research Codes
 - [FastMatchedFilter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
 - [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): A python package for the detection and analysis of repeating and near-repeating earthquakes
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
+- [FAST](https://github.com/stanford-futuredata/FAST): End-to-end earthquake detection pipeline via efficient time series similarity search
 
 ## Earthquake location
 
