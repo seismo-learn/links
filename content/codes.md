@@ -428,6 +428,7 @@ title: Scientific Research Codes
 
 - [Perple_X](http://www.perplex.ethz.ch/): calculating and displaying phase diagrams, phase equilibria, and thermodynamic data.
   | [Documentation](http://www.perplex.ethz.ch/perplex_documentation.html) | [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html)
+- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/)
 
 ----
 
