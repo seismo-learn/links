@@ -24,6 +24,7 @@ title: Tools
 - [strftime](http://strftime.org/): Python strftime reference.
 - [DevDocs](https://devdocs.io/): API documentations of multiple programming languages/tools in one place
 - [Choose an open source license](https://choosealicense.com/): Simple way to choose a license
+- [ExtendsClass](https://extendsclass.com/): Online toolbox for developers (Data Generators, API tools, Code checkers, Testers, Converters).
 
 ## ESL (English as a Second Language)
 
