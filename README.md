@@ -1,6 +1,5 @@
 # SeisLinks
 
-[![Build Status](https://travis-ci.org/seisman/link.seisman.info.svg?branch=master)](https://travis-ci.org/seisman/link.seisman.info)
 [![Visit the site](https://img.shields.io/badge/Visit-https://link.seisman.info-blue.svg?style=flat-square)](https://link.seisman.info)
 
 This repository contains the source codes for the [SeisLinks](https://link.seisman.info) site,
