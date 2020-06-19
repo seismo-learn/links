@@ -1,5 +1,6 @@
 # SeisLinks
 
+![build](https://github.com/seisman/link.seisman.info/workflows/build/badge.svg)
 [![Visit the site](https://img.shields.io/badge/Visit-https://link.seisman.info-blue.svg?style=flat-square)](https://link.seisman.info)
 
 This repository contains the source codes for the [SeisLinks](https://link.seisman.info) site,
