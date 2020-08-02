@@ -72,8 +72,6 @@ title: Journals
     [Homepage](https://onlinelibrary.wiley.com/journal/13652478)
 - **Journal of Geodynamics**:
     [Homepage](https://www.sciencedirect.com/journal/journal-of-geodynamics)
-- **Pure and Applied Geophysics**:
-    [Homepage](https://link.springer.com/journal/24)
 - **Journal of Applied Geophysics**:
     [Homepage](http://www.sciencedirect.com/science/journal/09269851)
 - **Journal of Geophysical Research: Solid Earth**:
