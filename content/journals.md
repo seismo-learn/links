@@ -49,7 +49,7 @@ title: Journals
 - **Physics of the Earth and Planetary Interiors**:
     [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
 - **Science China Earth Sciences**:
-    [Homepage](https://link.springer.com.remotexs.ntu.edu.sg/journal/11430)
+    [Homepage](https://www.springer.com/journal/11430)
 - **Solid Earth**:
     [Homepage](https://www.solid-earth.net/index.html)
 - **Tectonics**:
