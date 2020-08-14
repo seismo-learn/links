@@ -46,6 +46,8 @@ title: Journals
     [Homepage](http://www.sciencedirect.com/science/journal/00244937)
 - **Nature GeoScience**:
     [Homepage](http://www.nature.com/ngeo/index.html)
+- **Nature Reviews Earth & Environment**:
+	[Homepage](https://www.nature.com/natrevearthenviron)
 - **Physics of the Earth and Planetary Interiors**:
     [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
 - **Science China Earth Sciences**:
