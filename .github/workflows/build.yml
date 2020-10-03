@@ -1,3 +1,6 @@
+#
+# Workflow to build the website and deploy to gh-pages
+#
 name: build
 
 on:
@@ -11,12 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0  # Fetch all history so that Hugo .GitInfo and .Lastmod work
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.72.0'
+          hugo-version: '0.75.1'
           extended: true
 
       - name: Build
