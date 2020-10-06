@@ -19,6 +19,7 @@ title: Scientific Research Codes
   [Chinese note](https://blog.seisman.info/wilber3/)
 - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly retrieve geophysical timeseries data from data centers
 - [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch): Download and/or process strong motion data from various networks
+- [obspyDMT](https://github.com/kasra-hosseini/obspyDMT): A Python Toolbox for Retrieving, Processing and Management of Seismological Datasets <span class="badge badge-primary">Python</span>
 
 ## Seismic Data Format Conversion
 
