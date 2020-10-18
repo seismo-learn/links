@@ -30,10 +30,11 @@ Everyone is welcome to contribute to this site. Contributions include but not li
 
 For any contributions, please open an issue or submit a pull request.
 
-## Acknowledgments
+## Maintainers
 
-A huge thanks to following contributors:
+The site is being maintained by the following people:
 
+- [seisman](https://github.com/seisman)
 - [core-man](https://github.com/core-man)
 
 ## License
