@@ -42,6 +42,7 @@ title: Scientists
 - [Hrvoje Tkalčić](http://rses.anu.edu.au/~hrvoje/)
 - [Michael Thorne](http://web.utah.edu/thorne/index.html)
 - [Dongdong Tian](https://me.seisman.info/)
+- [Ping Tong](https://personal.ntu.edu.sg/tongping/)
 - [Jeroen Tromp](https://tromp.princeton.edu/)
 - [Victor C. Tsai](http://web.gps.caltech.edu/~tsai/)
 - [John Vidale](http://earthweb.ess.washington.edu/vidale/John_Vidale/Home.html)
