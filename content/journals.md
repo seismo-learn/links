@@ -32,7 +32,7 @@ title: Journals
     [Homepage](https://academic.oup.com/astrogeo)
 - **Chinese Journal of Geophysics (in Chinese)**:
     [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
-- **Chinese Journal of Geophysics (in English (2000-2018)**:
+- **Chinese Journal of Geophysics (in English (2000-2018))**:
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/23260440)
 - **Earth and Planetary Physics**:
     [Homepage](http://www.eppcgs.org)
@@ -110,7 +110,7 @@ title: Journals
 
 ## Preprint Archives
 
-- **Earth and Space Science Open Archive (ESSOAr)**
+- **Earth and Space Science Open Archive (ESSOAr)**:
     [Homepage](https://www.essoar.org/)
 - **EarthArXiv**:
     [Homepage](https://eartharxiv.org/)
@@ -130,7 +130,7 @@ title: Journals
 - [Journal Citation Reports (Chinese Academy of Sciences: Geosciences)](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0) (in Chinese)
 - [Nature Index journals](https://www.natureindex.com/faq#journals)
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
-- [Scopus](https://www.scopus.com/): Abstract and citation database.
+- [Scopus](https://www.scopus.com/): Abstract and citation database
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
 - [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science! | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
 - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors.
