@@ -12,9 +12,9 @@ The site is built by [Hugo](https://gohugo.io/). To build it locally,
 you need to install hugo, then run:
 
 ```
-$ git clone https://github.com/seisman/link.seisman.info.git
-$ cd link.seisman.info
-$ hugo server
+git clone https://github.com/seisman/SeisLinks
+cd SeisLinks
+hugo server
 ```
 
 Then you can view the site by visiting http://localhost:1313 in your local browser.
