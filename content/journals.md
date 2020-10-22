@@ -126,7 +126,6 @@ title: Journals
 
 ## Related Resources
 
-- [Journal Citation Reports (Clarivate Analytics)](https://jcr.clarivate.com/JCRLandingPageAction.action): Click *Browse by Journal*, and then choose *Geochemistry&Geophysics*, *Geology*, and *Geosciences, Multidisciplinary* under *Select Catagories*.
 - [Journal Citation Reports (Chinese Academy of Sciences: Geosciences)](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0) (in Chinese)
 - [Nature Index journals](https://www.natureindex.com/faq#journals)
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
