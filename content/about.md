@@ -11,7 +11,7 @@ themed by the [Bootstrap](https://getbootstrap.com/) framework and
 beautiful icons from [Font Awesome](https://fontawesome.com/),
 powered by the fastest static site generator [Hugo](https://gohugo.io/).
 
-The site is served freely on [GitHub](https://github.com/seisman/link.seisman.info),
+The site is served freely on [GitHub](https://github.com/seisman/SeisLinks),
 with source codes available to public.
 
 ## Contributing
