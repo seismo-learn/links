@@ -1,14 +1,15 @@
 # SeisLinks
 
-![build](https://github.com/seisman/link.seisman.info/workflows/build/badge.svg)
+![build](https://github.com/seisman/SeisLinks/workflows/build/badge.svg)
 [![Visit the site](https://img.shields.io/badge/Visit-https://link.seisman.info-blue.svg?style=flat-square)](https://link.seisman.info)
+![License](https://img.shields.io/github/license/seisman/SeisLinks)
 
 This repository contains the source codes for the [SeisLinks](https://link.seisman.info) site,
-which collects useful links for Geophysics/Seismology researches.
+which collects useful links for Geophysics and Seismology research.
 
 ## Build the site locally
 
-The site is built by [Hugo](https://gohugo.io/). To build it locally,
+The site is powered by [Hugo](https://gohugo.io/). To build it locally,
 you need to install hugo, then run:
 
 ```
