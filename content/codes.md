@@ -188,6 +188,8 @@ title: Scientific Research Codes
 - [RT-EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-time implementation of EQcorrscan's matched-filter earthquake detection
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
 - [FAST](https://github.com/stanford-futuredata/FAST): End-to-end earthquake detection pipeline via efficient time series similarity search
+- [dynamic_earthquake_triggering](https://github.com/yunndlalala/dynamic_earthquake_triggering): A package for detecting dynamic earthquake triggering written in Python
+
 
 ## Earthquake location
 
