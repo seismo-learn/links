@@ -28,6 +28,7 @@ title: Scientists
 - [Guy Master](http://igppweb.ucsd.edu/~guy/)
 - [Allen McNamara](https://msu.edu/~allenmc/)
 - [Fenglin Niu](http://earthscience.rice.edu/faculty/niu/)
+- [Sunyoung Park](https://seismology.uchicago.edu/)
 - [Zhigang Peng](http://geophysics.eas.gatech.edu/people/zpeng/)
 - [Barbara Romanowicz](http://seismo.berkeley.edu/~barbara/)
 - [Jeroen Ritsema](http://www.earth.lsa.umich.edu/~jritsema/)
