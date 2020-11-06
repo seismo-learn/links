@@ -25,6 +25,11 @@ title: Database
 - [Australian Catalog](http://www.ga.gov.au/earthquakes/searchQuake.do)
 - [Canada Catalog](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php)
 
+
+## Old Analog Seismograms
+
+- [Borovoye Archive Data from Underground Nuclear Tests](https://www.ldeo.columbia.edu/res/pi/Monitoring/Arch/BRV_arch_deglitched.html)
+
 ## Other Database
 
 - [Central Asia Fault Database](http://www.geo.uni-tuebingen.de/projekte/openfaults/)
