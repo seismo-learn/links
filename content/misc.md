@@ -14,6 +14,7 @@ title: Misc.
 - [GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps.
 - [DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations.
 - [Wilber III](http://ds.iris.edu/wilber3/): Request waveform of single event
+- [IRIS citations](https://www.iris.edu/hq/iris_citations): How to cite/acknowledge IRIS data
 
 ### Focal Mechanism Catalog
 
