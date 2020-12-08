@@ -52,6 +52,8 @@ title: Journals
     [Homepage](https://www.journals.elsevier.com/journal-of-asian-earth-sciences)
 - **Lithos**:
     [Homepage](http://www.sciencedirect.com/science/journal/00244937)
+- **Lithosphere**:
+    [Homepage](https://pubs.geoscienceworld.org/lithosphere)
 - **Nature GeoScience**:
     [Homepage](http://www.nature.com/ngeo/index.html)
 - **Nature Reviews Earth & Environment**:
