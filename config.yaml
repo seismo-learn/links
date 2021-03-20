@@ -1,7 +1,7 @@
 #
 # Hugo configuration file
 #
-baseURL: https://link.seisman.info/
+baseURL: https://seismo-learn.org/links/
 languageCode: en-us
 title: SeisLinks
 copyright: "[Unlicense](https://unlicense.org/), 2018 - {year}."
