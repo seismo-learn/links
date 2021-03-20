@@ -1,0 +1,80 @@
+#
+# Build and preview documentation in PRs
+# DOES NOT WORK FOR FORKS.
+name: Preview PR
+
+on:
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.8.0
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 0.80.0
+          extended: true
+
+      - name: Change Hugo baseurl so that PR preview works
+        run: |
+           sed -i 's#https://seismo-learn.org/#https://seismo-learn.org/sitepreview/seismo-learn/website/${{ github.head_ref }}/#' config/_default/config.toml
+
+      - name: Build the website
+        run: make all
+
+      - name: Deploy for preview
+        # peaceiris/actions-gh-pages@v3.7.3
+        # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
+        uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
+        with:
+          # personal token can be generated at https://github.com/settings/tokens,
+          # and added to https://github.com/organizations/seismo-learn/settings/secrets/actions
+          personal_token: ${{ secrets.TOKEN_DOCUMENT_DEPLOY }}
+          publish_dir: ./public
+          destination_dir: ${{ github.repository }}/${{ github.head_ref }}
+          external_repository: seismo-learn/sitepreview
+          keep_files: false
+          allow_empty_commit: true
+          force_orphan: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+        if: github.event.pull_request.head.repo.full_name == github.repository
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v1
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: This comment was written by the Continuous Documentation bot!
+        if: github.event.pull_request.head.repo.full_name == github.repository
+
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            This comment was written by the Continuous Documentation bot!
+
+            - **Preview**: https://seismo-learn.org/sitepreview/${{ github.repository }}/${{ github.head_ref }}/index.html
+            - **Commit hash**: ${{ github.event.pull_request.head.sha }}
+        if: github.event.pull_request.head.repo.full_name == github.repository && steps.fc.outputs.comment-id == 0
+
+      - name: Update comment
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            This comment was written by the Continuous Documentation bot!
+
+            - **Preview**: https://seismo-learn.org/sitepreview/${{ github.repository }}/${{ github.head_ref }}/index.html
+            - **Commit hash**: ${{ github.event.pull_request.head.sha }}
+        if: github.event.pull_request.head.repo.full_name == github.repository && steps.fc.outputs.comment-id != 0
