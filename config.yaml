@@ -30,7 +30,8 @@ params:
     jquery_version: 3.5.1
 
   edit_page:
-    repo_url: https://github.com/seisman/SeisLinks
+    repo_url: https://seismo-learn.org/links/
+    branch: main
     edit_mode: edit
     repo_dir: content
     edit_text: Contribute more links to this page!
