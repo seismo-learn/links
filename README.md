@@ -1,11 +1,10 @@
 # SeisLinks
 
-![build](https://github.com/seisman/SeisLinks/workflows/build/badge.svg)
-[![Visit the site](https://img.shields.io/badge/Visit-https://link.seisman.info-blue.svg?style=flat-square)](https://link.seisman.info)
-![License](https://img.shields.io/github/license/seisman/SeisLinks)
+[![Deploy](https://github.com/seismo-learn/links/actions/workflows/deploy.yml/badge.svg)](https://github.com/seismo-learn/links/actions/workflows/deploy.yml)
+![License](https://img.shields.io/github/license/seismo-learn/links)
 
-This repository contains the source codes for the [SeisLinks](https://link.seisman.info) site,
-which collects useful links for Geophysics and Seismology research.
+This repository contains the source codes for the [SeisLinks](https://github.com/seismo-learn/links)
+site, which collects useful links for Geophysics and Seismology research.
 
 ## Build the site locally
 
@@ -13,8 +12,8 @@ The site is powered by [Hugo](https://gohugo.io/). To build it locally,
 you need to install hugo, then run:
 
 ```
-git clone https://github.com/seisman/SeisLinks
-cd SeisLinks
+git clone https://github.com/seismo-learn/links.git
+cd links
 hugo server
 ```
 
