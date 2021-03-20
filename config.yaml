@@ -13,7 +13,7 @@ enableGitInfo: true
 
 params:
   lastupdate: Built by [Hugo](https://gohugo.io/) on {now}.
-              Source codes available on [GitHub](https://github.com/seisman/SeisLinks).
+              Source codes available on [GitHub](https://github.com/seismo-learn/links).
 
   assets:
     bootstrap_cdn: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
