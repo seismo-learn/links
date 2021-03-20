@@ -28,7 +28,7 @@ jobs:
       - name: Build the website
         run: make all
 
-      - name: Deploy to seismo-learn.github.io
+      - name: Deploy documentation
         # peaceiris/actions-gh-pages@v3.7.3
         # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
         uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
@@ -36,9 +36,7 @@ jobs:
           # personal token is needed here because it's pushing to an external repository.
           # personal token can be generated at https://github.com/settings/tokens,
           # and added to https://github.com/organizations/seismo-learn/settings/secrets/actions
-          personal_token: ${{ secrets.TOKEN_DOCUMENT_DEPLOY }}
-          external_repository: seismo-learn/seismo-learn.github.io
-          publish_branch: main
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           # Only keep the latest commit to avoid bloating the repository
           force_orphan: true
