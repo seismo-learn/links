@@ -4,7 +4,7 @@
 baseURL: https://seismo-learn.org/links/
 languageCode: en-us
 title: SeisLinks
-copyright: "[Unlicense](https://unlicense.org/), 2018 - {year}."
+copyright: "© Copyright 2018 - {year}, seismo-learn."
 
 disableKinds:
 - taxonomyTerm
