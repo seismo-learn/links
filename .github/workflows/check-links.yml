@@ -31,7 +31,6 @@ jobs:
         # 429: Too many requests
         args: >
           --accept 429
-        #  --exclude ".*.md$"
           --exclude "http://bssa.geoscienceworld.org/"
           --exclude "https://academic.oup.com/astrogeo"
           --exclude "https://www.scopus.com/"
