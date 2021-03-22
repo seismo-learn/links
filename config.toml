@@ -23,7 +23,7 @@ lastupdate = "Built by [Hugo](https://gohugo.io/) on {now}."
   jquery_version = "3.5.1"
 
   [params.edit_page]
-  repo_url = "https://seismo-learn.org/links/"
+  repo_url = "https://github.com/seismo-learn/links"
   branch = "main"
   edit_mode = "edit"
   repo_dir = "content"
