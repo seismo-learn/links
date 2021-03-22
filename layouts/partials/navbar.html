@@ -1,16 +1,20 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-light">
-	<a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<a class="navbar-brand" href="{{ .Site.BaseURL }}">
+		<img src="{{ .Site.BaseURL}}/logo.png" style="width:30px" />
+		{{ .Site.Title }}
+	</a>
 
-    <div class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
+	<div class="collapse navbar-collapse">
+		<ul class="navbar-nav ml-auto">
 			{{ range .Site.Menus.main }}
 			<a class="nav-item nav-link active" href="{{ .URL }}">
 				{{ .Name | safeHTML }}
 			</a>
 			{{ end }}
-			<a class="nav-item nav-link active" href="{{ .Site.Params.edit_page.repo_url }}/{{ .Site.Params.edit_page.edit_mode }}/{{ .Site.Params.edit_page.branch }}/{{ .Site.Params.edit_page.repo_dir }}/{{ .File }}">
+			<a class="nav-item nav-link active"
+				href="{{ .Site.Params.edit_page.repo_url }}/{{ .Site.Params.edit_page.edit_mode }}/{{ .Site.Params.edit_page.branch }}/{{ .Site.Params.edit_page.repo_dir }}/{{ .File }}">
 				<i class="fas fa-edit"></i> {{ .Site.Params.edit_page.edit_text }}
-            </a>
-	    </ul>
+			</a>
+		</ul>
 	</div>
 </nav>
