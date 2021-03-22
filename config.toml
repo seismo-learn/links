@@ -34,7 +34,7 @@ unsafe = true
 
 [[menu.main]]
   name = '<i class="fas fa-home"></i> Home'
-  url = ""
+  url = "/"
   weight = 10
 
 [[menu.main]]
