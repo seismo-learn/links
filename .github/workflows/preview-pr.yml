@@ -24,8 +24,8 @@ jobs:
 
       - name: Change Hugo baseurl so that PR preview works
         run: |
-           sed -i 's#https://seismo-learn.org/links/#https://seismo-learn.org/sitepreview/seismo-learn/links/${{ github.head_ref }}/#' config.yaml
-           cat config.yaml
+           sed -i 's#https://seismo-learn.org/links/#https://seismo-learn.org/sitepreview/seismo-learn/links/${{ github.head_ref }}/#' config.toml
+           cat config.toml
 
       - name: Build the website
         run: make all
