@@ -2,7 +2,7 @@ all: build
 
 build:
 	@echo "Building the website..."
-	@hugo --minify
+	@hugo
 
 serve:
 	hugo server
