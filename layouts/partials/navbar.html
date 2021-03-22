@@ -1,5 +1,5 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="/">{{ .Site.Title }}</a>
+	<a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 
     {{ if not .IsHome }}
     <div class="collapse navbar-collapse">
