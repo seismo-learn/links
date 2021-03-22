@@ -34,10 +34,6 @@ title: Journals
     [Homepage](http://www.eppcgs.org)
 - **Earth and Planetary Science Letters**:
     [Homepage](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)
-- **Earth and Space Science**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/23335084)
-- **Earth, Planets and Space**:
-    [Homepage](https://link.springer.com/journal/40623)
 - **Earth-Science Reviews**:
     [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
 - **Geochemistry, Geophysics, Geosystems**:
