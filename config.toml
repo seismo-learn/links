@@ -4,7 +4,7 @@
 baseURL = "https://seismo-learn.org/links/"
 languageCode = "en-us"
 title = "Seismo Links"
-copyright = "© Copyright 2018 - {year}, seismo-learn."
+copyright = "&copy; Copyright 2018 - {year}, seismo-learn."
 disableKinds = [ "taxonomyTerm", "RSS" ]
 enableGitInfo = true
 
@@ -23,7 +23,7 @@ lastupdate = "Built by [Hugo](https://gohugo.io/) on {now}."
   jquery_version = "3.5.1"
 
   [params.edit_page]
-  repo_url = "https://seismo-learn.org/links/"
+  repo_url = "https://github.com/seismo-learn/links"
   branch = "main"
   edit_mode = "edit"
   repo_dir = "content"
@@ -34,10 +34,20 @@ unsafe = true
 
 [[menu.main]]
   name = '<i class="fas fa-home"></i> Home'
-  url = ""
+  url = "/"
   weight = 10
+
+[[menu.main]]
+  name = '<i class="fas fa-link"></i> seismo-learn'
+  url = "https://seismo-learn.org/"
+  weight = 20
+
+[[menu.main]]
+  name = '<i class="fas fa-link"></i> Contributing'
+  url = "https://github.com/seismo-learn/links/blob/main/README.md#contributing"
+  weight = 30
 
 [[menu.main]]
   name = '<i class="fab fa-github"></i> Source Code'
   url = "https://github.com/seismo-learn/links"
-  weight = 20
+  weight = 40
