@@ -1,0 +1,43 @@
+#
+# Hugo configuration file
+#
+baseURL = "https://seismo-learn.org/links/"
+languageCode = "en-us"
+title = "Seismo Links"
+copyright = "© Copyright 2018 - {year}, seismo-learn."
+disableKinds = [ "taxonomyTerm", "RSS" ]
+enableGitInfo = true
+
+[params]
+lastupdate = "Built by [Hugo](https://gohugo.io/) on {now}."
+
+  [params.assets]
+  bootstrap_cdn = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap"
+  bootstrap_version = "4.5.2"
+  bootswatch_cdn = "https://cdnjs.cloudflare.com/ajax/libs/bootswatch"
+  bootswatch_version = "4.5.2"
+  bootswatch_theme = "cosmo"
+  fontawesome_cdn = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome"
+  fontawesome_version = "5.15.1"
+  jquery_cdn = "https://cdnjs.cloudflare.com/ajax/libs/jquery"
+  jquery_version = "3.5.1"
+
+  [params.edit_page]
+  repo_url = "https://seismo-learn.org/links/"
+  branch = "main"
+  edit_mode = "edit"
+  repo_dir = "content"
+  edit_text = "Edit this page"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[menu.main]]
+  name = '<i class="fas fa-home"></i> Home'
+  url = ""
+  weight = 10
+
+[[menu.main]]
+  name = '<i class="fab fa-github"></i> Source Code'
+  url = "https://github.com/seismo-learn/links"
+  weight = 20
