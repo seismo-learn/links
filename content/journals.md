@@ -19,8 +19,6 @@ title: Journals
     [Homepage](https://www.nature.com/srep/)
 - **Proceedings of the National Academy of Sciences (PNAS)**:
     [Homepage](https://www.pnas.org)
-- **Science Bulletin**:
-    [Homepage](http://www.sciencedirect.com/journal/science-bulletin)
 
 ## Geoscience Journals
 
@@ -28,8 +26,6 @@ title: Journals
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/2576604x)
 - **Annual Review of Earth and Planetary Sciences**:
     [Homepage](http://www.annualreviews.org/journal/earth)
-- **Astronomy & Geophysics**:
-    [Homepage](https://academic.oup.com/astrogeo)
 - **Chinese Journal of Geophysics (in Chinese)**:
     [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
 - **Chinese Journal of Geophysics (in English (2000-2018))**:
@@ -48,12 +44,6 @@ title: Journals
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
 - **Gondwana Research**:
     [Homepage](http://www.sciencedirect.com/science/journal/1342937X)
-- **Journal of Asian Earth Sciences**:
-    [Homepage](https://www.journals.elsevier.com/journal-of-asian-earth-sciences)
-- **Lithos**:
-    [Homepage](http://www.sciencedirect.com/science/journal/00244937)
-- **Lithosphere**:
-    [Homepage](https://pubs.geoscienceworld.org/lithosphere)
 - **Nature GeoScience**:
     [Homepage](http://www.nature.com/ngeo/index.html)
 - **Nature Reviews Earth & Environment**:
@@ -64,33 +54,17 @@ title: Journals
     [Homepage](https://www.springer.com/journal/11430)
 - **Solid Earth**:
     [Homepage](https://www.solid-earth.net/index.html)
-- **Tectonics**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
-- **Tectonophysics**:
-    [Homepage](https://www.sciencedirect.com/journal/tectonophysics)
 - [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 
 ## Geophysics Journals
 
-- **Geodesy and Geodynamics**:
-    [Homepage](https://www.sciencedirect.com/journal/geodesy-and-geodynamics)
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji) |
     [Earliest Archive (1922-1957)](https://academic.oup.com/gsmnras)
-- **Geophysical Prospecting**:
-    [Homepage](https://onlinelibrary.wiley.com/journal/13652478)
 - **Geophysical Research Letters**:
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
-- **Geophysics**:
-    [Homepage](http://geophysics.geoscienceworld.org/)
-- **Journal of Applied Geophysics**:
-    [Homepage](http://www.sciencedirect.com/science/journal/09269851)
-- **Journal of Geodynamics**:
-    [Homepage](https://www.sciencedirect.com/journal/journal-of-geodynamics)
 - **Journal of Geophysical Research: Solid Earth**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
-- **Pure and Applied Geophysics**:
-    [Homepage](https://link.springer.com/journal/24)
 - **Reviews of Geophysics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
 
@@ -102,13 +76,6 @@ title: Journals
     [Homepage](https://pubs.geoscienceworld.org/srl) |
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
     [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
-
-## Other Journals
-
-- **Journal of Open Source Software**:
-    [Homepage](https://joss.theoj.org/)
-- **Journal of Open Source Education**:
-    [Homepage](https://jose.theoj.org/)
 
 ## Preprint Archives
 
