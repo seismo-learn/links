@@ -61,6 +61,8 @@ title: Journals
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
 - **Reviews of Geophysics**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
+- **Tectonics**:
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
 
 ## Seismology Journals
 
