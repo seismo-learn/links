@@ -3,7 +3,7 @@
 #
 baseURL = "https://seismo-learn.org/links/"
 languageCode = "en-us"
-title = "SeisLinks"
+title = "Seismo Links"
 copyright = "© Copyright 2018 - {year}, seismo-learn."
 disableKinds = [ "taxonomyTerm", "RSS" ]
 enableGitInfo = true
