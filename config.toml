@@ -38,6 +38,16 @@ unsafe = true
   weight = 10
 
 [[menu.main]]
+  name = '<i class="fas fa-link"></i> seismo-learn'
+  url = "https://seismo-learn.org/"
+  weight = 20
+
+[[menu.main]]
+  name = '<i class="fas fa-link"></i> Contributing'
+  url = "https://github.com/seismo-learn/links/blob/main/README.md#contributing"
+  weight = 30
+
+[[menu.main]]
   name = '<i class="fab fa-github"></i> Source Code'
   url = "https://github.com/seismo-learn/links"
-  weight = 20
+  weight = 40
