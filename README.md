@@ -3,7 +3,7 @@
 [![Deploy](https://github.com/seismo-learn/links/actions/workflows/deploy.yml/badge.svg)](https://github.com/seismo-learn/links/actions/workflows/deploy.yml)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
-This repository contains the source codes for the [SeisLinks](https://github.com/seismo-learn/links)
+This repository contains the source codes for the [SeisLinks](https://seismo-learn.org/links/)
 site, which collects useful links for Geophysics and Seismology research.
 
 ## Build the site locally
@@ -29,13 +29,6 @@ Everyone is welcome to contribute to this site. Contributions include but not li
 - Any brilliant ideas
 
 For any contributions, please open an issue or submit a pull request.
-
-## Maintainers
-
-The site is being maintained by the following people:
-
-- [seisman](https://github.com/seisman)
-- [core-man](https://github.com/core-man)
 
 ## License
 
