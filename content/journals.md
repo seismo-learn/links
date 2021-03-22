@@ -42,8 +42,6 @@ title: Journals
     [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
 - **Geochemistry, Geophysics, Geosystems**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
-- **Gondwana Research**:
-    [Homepage](http://www.sciencedirect.com/science/journal/1342937X)
 - **Nature GeoScience**:
     [Homepage](http://www.nature.com/ngeo/index.html)
 - **Nature Reviews Earth & Environment**:
