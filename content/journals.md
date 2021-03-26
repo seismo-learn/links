@@ -26,16 +26,10 @@ title: Journals
     [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/2576604x)
 - **Annual Review of Earth and Planetary Sciences**:
     [Homepage](http://www.annualreviews.org/journal/earth)
-- **Chinese Journal of Geophysics (in Chinese)**:
-    [Homepage](http://www.geophy.cn/CN/volumn/home.shtml)
-- **Chinese Journal of Geophysics (in English (2000-2018))**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/23260440)
 - **Earth and Planetary Physics**:
     [Homepage](http://www.eppcgs.org)
 - **Earth and Planetary Science Letters**:
     [Homepage](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)
-- **Earth-Science Reviews**:
-    [Homepage](https://www.sciencedirect.com/journal/earth-science-reviews)
 - **Geochemistry, Geophysics, Geosystems**:
     [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
 - **Nature GeoScience**:
