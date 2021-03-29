@@ -12,16 +12,27 @@ The site is themed by the [Bootstrap](https://getbootstrap.com/) framework and
 beautiful icons from [Font Awesome](https://fontawesome.com/), and powered by
 the fastest static site generator [Hugo](https://gohugo.io/).
 
-To build it locally, you need to [install hugo](https://gohugo.io/getting-started/installing/),
-then run:
+To build it locally, you need to follow the steps below:
 
-```
-$ git clone https://github.com/seismo-learn/links.git
-$ cd links
-$ hugo server
-```
+1.  [Install hugo](https://gohugo.io/getting-started/installing/)
 
-Then you can view the site by visiting http://localhost:1313 in your local browser.
+2.  Clone the repository
+
+    ```
+    # Assume that the repository is downloaded to ~/Downloads/
+    $ cd ~/Downloads/
+
+    # Clone the repository and then switch to the directory
+    $ git clone https://github.com/seismo-learn/links.git
+    $ cd links
+
+3.  Build the website
+  
+    Generate a HTTP server locally, and then you can view the site by visiting
+    http://localhost:1313/links/ in your local browser.
+    ```
+    $ hugo server
+    ```
 
 ## Contributing
 
@@ -32,7 +43,11 @@ Everyone is welcome to contribute to this site. Contributions include but not li
 - Improve the web design
 - Any brilliant ideas
 
-For any contributions, please open an issue or submit a pull request.
+For any contributions, please open an [issue](https://github.com/seismo-learn/links/issues)
+or submit a [Pull Request](https://github.com/seismo-learn/links/pulls).
+You could also refer to the [contributing guides](https://seismo-learn.org/contributing/) (In Chinese)
+if you are not familar with git, GitHub, Markdown and so on.
+
 
 ## License
 
