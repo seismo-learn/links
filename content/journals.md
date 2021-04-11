@@ -61,7 +61,7 @@ title: Journals
 ## Seismology Journals
 
 - **Bulletin of the Seismological Society of America**:
-    [Homepage](http://bssa.geoscienceworld.org/)
+    [Homepage](https://pubs.geoscienceworld.org/bssa)
 - **Seismological Research Letters**:
     [Homepage](https://pubs.geoscienceworld.org/srl) |
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
@@ -88,7 +88,7 @@ title: Journals
 - [Journal Citation Reports (Chinese Academy of Sciences: Geosciences)](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0) (in Chinese)
 - [Nature Index journals](https://www.natureindex.com/faq#journals)
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
-- [Scopus](https://www.scopus.com/): Abstract and citation database
+- [Scopus](https://www.scopus.com/home.uri): Abstract and citation database
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
 - [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science! | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
 - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors.
