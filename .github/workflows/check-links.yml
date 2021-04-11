@@ -32,6 +32,7 @@ jobs:
         args: >
           --accept 429
           --verbose
+          --exclude "http://localhost:1313/"
           "repository/README.md"
           "website/**/*.html"
       env:
