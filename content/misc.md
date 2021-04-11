@@ -2,13 +2,6 @@
 title: Misc.
 ---
 
-### Institutions
-
-- [IRIS](http://www.iris.edu/hq/ "Incorporated Research Institutions for Seismology")
-- [ORFEUS](http://www.orfeus-eu.org/index.html "Observatories and Research Facilities for European Seismology")
-- [AGU](http://sites.agu.org/ "American Geophysical Union")
-- [ISC](http://www.isc.ac.uk/ "International Seismological Centre")
-
 ### IRIS Tools
 
 - [GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps.
