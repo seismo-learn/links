@@ -261,7 +261,7 @@ title: Scientific Research Codes
     - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
 - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
 - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
-- [xdcpick](https://gitext.gfz-potsdam.de/chris/xdcpick): A simple tool for efficient picking of group velocity dispersion curves, in C.
+- [XDCpick](https://gitext.gfz-potsdam.de/chris/xdcpick): A simple tool for efficient picking of group velocity dispersion curves, in C.
 
 #### Inverting phase/group velocity maps
 
