@@ -250,7 +250,7 @@ title: Scientific Research Codes
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
 - [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography
-- Yingjie Yang's method
+- [Finite frequency Rayleigh wave tomography](https://github.com/chukren/SurfwaveTomoPrograms)
 
 ### Ambient noise surface-wave tomography
 
