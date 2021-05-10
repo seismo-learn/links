@@ -283,6 +283,7 @@ title: Scientific Research Codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
+- [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum): Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
 
 ## Noise HVSR
