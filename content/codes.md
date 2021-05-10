@@ -256,6 +256,7 @@ title: Scientific Research Codes
 - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
     - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
     - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran
+- [GSpecDisp](https://github.com/Hamzeh-Sadeghi/GSpecDisp): A Matlab package for phase-velocity dispersion measurement from ambient-noise correlations
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
     - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
