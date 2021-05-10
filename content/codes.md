@@ -92,10 +92,13 @@ title: Scientific Research Codes
 ### Reflectivity/Wavenumber integration for 1D layered Earth
 
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese notes](https://blog.seisman.info/fk-notes)
+- [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and transmission coefficient method with the peak-trough averaging technique for fast and accurate Green's function calculations, especially for surface sources
+- [grtm](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms in stratified vertically transversely isotropic media using the generalized reflection and transmission coefficient method
 - [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software): Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
 - [Wavenumber integration method in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Discrete wavenumber method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
+- [multitel3](https://github.com/YunyiQian/multitel3): A hybrid method of ray theory and haskell matrix to calculate teleseismic body wave Green's functions in RTZ components
 
 ### Modal Summation method for 1D layered Earth
 
@@ -174,7 +177,7 @@ title: Scientific Research Codes
 
 ### Hybrid method
 
-- [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method.
+- [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method
 
 ---
 
@@ -280,6 +283,7 @@ title: Scientific Research Codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
+- [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum): Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
 
 ## Noise HVSR
