@@ -30,7 +30,11 @@ lastupdate = "Built by [Hugo](https://gohugo.io/) on {now}."
   edit_text = "Edit this page"
 
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
+  [markup.tableOfContents]
+    ordered = false
+    startLevel = 2
+    endLevel = 2
 
 [[menu.main]]
   name = '<i class="fas fa-home"></i> Home'
