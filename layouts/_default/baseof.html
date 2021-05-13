@@ -4,6 +4,7 @@
   <body>
     <main class="container">
       {{ partial "navbar" . }}
+	  {{ block "toc" . }}{{ end }}
       <article>
         {{ block "main" . }}{{ end }}
       </article>

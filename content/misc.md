@@ -1,5 +1,6 @@
 ---
 title: Misc.
+toc: true
 ---
 
 ### IRIS Tools

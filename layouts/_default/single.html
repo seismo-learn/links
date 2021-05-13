@@ -2,3 +2,12 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 {{ end }}
+
+{{ define "toc" }}
+{{ if .Params.toc }}
+<aside>
+  <h2>Table of Contents</h2>
+  {{ .TableOfContents }}
+</aside>
+{{ end }}
+{{ end }}
