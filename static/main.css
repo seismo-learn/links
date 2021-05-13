@@ -41,7 +41,7 @@ footer {
 }
 
 aside {
-	float: right;
+    float: right;
     background: #f9f9f9 none repeat scroll 0 0;
     border: 1px solid #aaa;
     display: table;
