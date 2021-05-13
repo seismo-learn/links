@@ -30,21 +30,6 @@ title: Misc.
 - [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
 - [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
 
-### Networks/Waveforms
-
-- [NIED Hi-net](http://www.hinet.bosai.go.jp/)
-- [NIED F-net](http://www.fnet.bosai.go.jp/)
-- [NIED K-net, KiK-net](http://www.kyoshin.bosai.go.jp/)
-- [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
-- [Northern California Earthquake Data Center](http://www.ncedc.org/)
-- [Southern California Seismic Network](http://www.scsn.org)
-- [Southern California Seismic Network at Caltech](http://scedc.caltech.edu/)
-- [Pacific Northwest Seismic Network](http://pnsn.org/)
-- [Alaska Earthquake Information Center](http://www.aeic.alaska.edu/)
-- [Canadian National Seismic Network](http://www.earthquakescanada.nrcan.gc.ca/stndon/CNSN-RNSC/index-eng.php)
-- [中国地震科学探测台站数据中心](http://www.chinarraydmc.org/)
-- [国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
-
 ### Research Groups
 
 - [Harvard Seismology](http://seismology.harvard.edu/)
