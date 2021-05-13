@@ -52,14 +52,6 @@ title: Misc.
 - [Berkeley Global Seismology](http://seismo.berkeley.edu/wiki_br/Main_Page)
 - [University of Rhode Island Seismology Lab](https://sites.google.com/view/seismo)
 
-### Software Library
-
-- [IRIS seiscode](https://seiscode.iris.washington.edu/)
-- [ORFEUS Seismological Software Library](http://www.orfeus-eu.org/software.html)
-- [S&MG Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software)
-- [CIG Software](https://geodynamics.org/cig/software/)
-- [USGS Software](http://earthquake.usgs.gov/research/software/)
-
 ### Geoscience Data
 
 - [Source Time Function](http://ds.iris.edu/spud/sourcetimefunction)
