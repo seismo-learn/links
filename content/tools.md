@@ -1,5 +1,6 @@
 ---
 title: Tools
+toc: true
 ---
 
 ## Document Processing

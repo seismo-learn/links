@@ -1,5 +1,6 @@
 ---
 title: Database
+toc: true
 ---
 
 ## Earthquake Catalog
