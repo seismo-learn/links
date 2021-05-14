@@ -9,20 +9,25 @@ toc: true
     [Homepage](http://science.sciencemag.org/) |
     [Current Issue](https://science.sciencemag.org/content/current) |
     [Archive](https://science.sciencemag.org/content/by/year)
-- **Science Advances**:
-    [Homepage](http://advances.sciencemag.org/)
 - **Nature**:
     [Homepage](https://www.nature.com/nature/) |
     [Current Issue](https://www.nature.com/nature/current-issue) |
-    [Earth Science](https://www.nature.com/subjects/earth-and-environmental-sciences/nature)
+    [Archive](https://www.nature.com/nature/volumes) |
+    [Earth Sciences](https://www.nature.com/subjects/earth-and-environmental-sciences/nature)
 - **Nature Communications**:
     [Homepage](https://www.nature.com/ncomms/) |
     [Earth Sciences](https://www.nature.com/subjects/earth-and-environmental-sciences/ncomms)
+- **Science Advances**:
+    [Homepage](http://advances.sciencemag.org/) |
+    [Archive](https://advances.sciencemag.org/content/by/year)
+- **Proceedings of the National Academy of Sciences (PNAS)**:
+    [Homepage](https://www.pnas.org) |
+    [Currnet Issue](https://www.pnas.org/content/current) |
+    [Archive](https://www.pnas.org/content/by/year) |
+    [Earth Sciences](https://www.pnas.org/content/by/section/Earth,%20Atmospheric,%20and%20Planetary%20Sciences)
 - **Scientific Reports**:
     [Homepage](https://www.nature.com/srep/) |
     [Earth Sciences](https://www.nature.com/subjects/earth-and-environmental-sciences/srep)
-- **Proceedings of the National Academy of Sciences (PNAS)**:
-    [Homepage](https://www.pnas.org)
 
 ## Geoscience Journals
 
