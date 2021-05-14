@@ -66,37 +66,51 @@ toc: true
 
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji) |
-    [Earliest Archive (1922-1957)](https://academic.oup.com/gsmnras)
+    [Old Archive (1922-1957)](https://academic.oup.com/gsmnras)
 - **Geophysical Research Letters**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19448007/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19448007)
 - **Journal of Geophysical Research: Solid Earth**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/21699356) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/21699356/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/21699356)
 - **Reviews of Geophysics**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449208) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19449208/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19449208)
 - **Tectonics**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19449194/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19449194)
 
 ## Seismology Journals
 
 - **Bulletin of the Seismological Society of America**:
-    [Homepage](https://pubs.geoscienceworld.org/bssa)
+    [Homepage](https://pubs.geoscienceworld.org/bssa) |
+    [Current Issue](https://pubs.geoscienceworld.org/bssa/issue) |
+    [Archive](https://pubs.geoscienceworld.org/bssa/list-of-years)
 - **Seismological Research Letters**:
     [Homepage](https://pubs.geoscienceworld.org/srl) |
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
-    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
+    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication) |
+    [Archive](https://pubs.geoscienceworld.org/srl/list-of-years)
 
 ## Preprint Archives
 
 - **Earth and Space Science Open Archive (ESSOAr)**:
-    [Homepage](https://www.essoar.org/)
+    [Homepage](https://www.essoar.org/) |
+    [Geophysics](https://www.essoar.org/topic/agu-ed/1200)
 - **EarthArXiv**:
-    [Homepage](https://eartharxiv.org/)
+    [Homepage](https://eartharxiv.org/) |
+    [Geophysics and Seismology](https://eartharxiv.org/repository/list/geophysics-and-seismology/)
 - **arXiv**:
-    [Homepage](https://arxiv.org/)
+    [Homepage](https://arxiv.org/) |
+    [Geophysics](https://arxiv.org/list/physics.geo-ph/recent)
 
 ## Researchers's Academic Profile
 
-- [ORCID](https://orcid.org/): A persistent digital identifier for researchers.
+- [ORCID](https://orcid.org/): A persistent digital identifier for researchers
 - [Google Scholar](https://scholar.google.com/)
 - [Publons](https://publons.com/): Your publications, citation metrics, peer reviews and journal editing work, in one place
 - [ResearchGate](https://www.researchgate.net): Social networking site for scientists and researchers
