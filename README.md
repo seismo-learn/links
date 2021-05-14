@@ -19,18 +19,15 @@ To build it locally, you need to follow the steps below:
 2.  Clone the repository
 
     ```
-    # Assume that the repository is downloaded to ~/Downloads/
-    $ cd ~/Downloads/
-
     # Clone the repository and then switch to the directory
     $ git clone https://github.com/seismo-learn/links.git
     $ cd links
     ```
 
 3.  Build the website
-  
-    Generate a HTTP server locally, and then you can view the site by visiting
-    http://localhost:1313/links/ in your local browser.
+
+	Run the following command, then you can view the site by visiting
+    http://localhost:1313/links/ in your local web browser.
 
     ```
     $ hugo server
@@ -47,8 +44,8 @@ Everyone is welcome to contribute to this site. Contributions include but not li
 
 For any contributions, please open an [issue](https://github.com/seismo-learn/links/issues)
 or submit a [Pull Request](https://github.com/seismo-learn/links/pulls).
-You could also refer to the [contributing guides](https://seismo-learn.org/contributing/) (In Chinese)
-if you are not familar with git, GitHub, Markdown and so on.
+You could also refer to the [contributing guides](https://seismo-learn.org/contributing/) (in Chinese)
+if you are unfamilar with git, GitHub, Markdown and so on.
 
 
 ## License
