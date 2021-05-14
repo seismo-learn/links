@@ -66,24 +66,35 @@ toc: true
 
 - **Geophysical Journal International**:
     [Homepage](http://academic.oup.com/gji) |
-    [Earliest Archive (1922-1957)](https://academic.oup.com/gsmnras)
+    [Old Archive (1922-1957)](https://academic.oup.com/gsmnras)
 - **Geophysical Research Letters**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19448007) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19448007/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19448007)
 - **Journal of Geophysical Research: Solid Earth**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/21699356) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/21699356/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/21699356)
 - **Reviews of Geophysics**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9208/)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449208) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19449208/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19449208)
 - **Tectonics**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/19449194) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/19449194/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/19449194)
 
 ## Seismology Journals
 
 - **Bulletin of the Seismological Society of America**:
-    [Homepage](https://pubs.geoscienceworld.org/bssa)
+    [Homepage](https://pubs.geoscienceworld.org/bssa) |
+    [Current Issue](https://pubs.geoscienceworld.org/bssa/issue) |
+    [Archive](https://pubs.geoscienceworld.org/bssa/list-of-years)
 - **Seismological Research Letters**:
     [Homepage](https://pubs.geoscienceworld.org/srl) |
     [Current Issue](https://pubs.geoscienceworld.org/srl/issue) |
-    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication)
+    [Early Publication](https://pubs.geoscienceworld.org/srl/early-publication) |
+    [Archive](https://pubs.geoscienceworld.org/srl/list-of-years)
 
 ## Preprint Archives
 
