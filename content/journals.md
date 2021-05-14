@@ -99,15 +99,18 @@ toc: true
 ## Preprint Archives
 
 - **Earth and Space Science Open Archive (ESSOAr)**:
-    [Homepage](https://www.essoar.org/)
+    [Homepage](https://www.essoar.org/) |
+    [Geophysics](https://www.essoar.org/topic/agu-ed/1200)
 - **EarthArXiv**:
-    [Homepage](https://eartharxiv.org/)
+    [Homepage](https://eartharxiv.org/) |
+    [Geophysics and Seismology](https://eartharxiv.org/repository/list/geophysics-and-seismology/)
 - **arXiv**:
-    [Homepage](https://arxiv.org/)
+    [Homepage](https://arxiv.org/) |
+    [Geophysics](https://arxiv.org/list/physics.geo-ph/recent)
 
 ## Researchers's Academic Profile
 
-- [ORCID](https://orcid.org/): A persistent digital identifier for researchers.
+- [ORCID](https://orcid.org/): A persistent digital identifier for researchers
 - [Google Scholar](https://scholar.google.com/)
 - [Publons](https://publons.com/): Your publications, citation metrics, peer reviews and journal editing work, in one place
 - [ResearchGate](https://www.researchgate.net): Social networking site for scientists and researchers
