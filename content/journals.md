@@ -24,28 +24,37 @@ toc: true
 - **Proceedings of the National Academy of Sciences (PNAS)**:
     [Homepage](https://www.pnas.org)
 
-## Geoscience Journals
+## Earth Sciences Journals
 
 - **AGU Advances**:
-    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/2576604x)
+    [Homepage](https://agupubs.onlinelibrary.wiley.com/journal/2576604x) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/2576604x/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/2576604x)
 - **Annual Review of Earth and Planetary Sciences**:
-    [Homepage](http://www.annualreviews.org/journal/earth)
-- **Earth and Planetary Physics**:
-    [Homepage](http://www.eppcgs.org)
+    [Homepage](http://www.annualreviews.org/journal/earth) |
+    [Current Issue](https://www.annualreviews.org/toc/earth/current) |
+    [Archive](https://www.annualreviews.org/loi/earth)
 - **Earth and Planetary Science Letters**:
-    [Homepage](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)
+    [Homepage](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters) |
+    [Archive](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters/issues)
 - **Geochemistry, Geophysics, Geosystems**:
-    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/)
+    [Homepage](http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1525-2027/) |
+    [Current Issue](https://agupubs.onlinelibrary.wiley.com/toc/15252027/current) |
+    [Archive](https://agupubs.onlinelibrary.wiley.com/loi/15252027)
 - **Nature GeoScience**:
-    [Homepage](http://www.nature.com/ngeo/index.html)
+    [Homepage](http://www.nature.com/ngeo/index.html) |
+    [Current Issue](https://www.nature.com/ngeo/current-issue) |
+    [Archive](https://www.nature.com/ngeo/volumes)
 - **Nature Reviews Earth & Environment**:
-	[Homepage](https://www.nature.com/natrevearthenviron)
+	[Homepage](https://www.nature.com/natrevearthenviron) |
+	[Current Issue](https://www.nature.com/natrevearthenviron/current-issue) |
+	[Archive](https://www.nature.com/natrevearthenviron/volumes/)
 - **Physics of the Earth and Planetary Interiors**:
-    [Homepage](http://www.sciencedirect.com/science/journal/00319201/)
+    [Homepage](http://www.sciencedirect.com/science/journal/00319201/) |
+    [Archive](https://www.sciencedirect.com/journal/physics-of-the-earth-and-planetary-interiors/issues)
 - **Science China Earth Sciences**:
-    [Homepage](https://www.springer.com/journal/11430)
-- **Solid Earth**:
-    [Homepage](https://www.solid-earth.net/index.html)
+    [Homepage](https://www.springer.com/journal/11430) |
+    [Archive](https://link.springer.com/journal/11430/volumes-and-issues)
 - [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
 
 ## Geophysics Journals
