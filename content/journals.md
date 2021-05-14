@@ -46,9 +46,9 @@ toc: true
     [Current Issue](https://www.nature.com/ngeo/current-issue) |
     [Archive](https://www.nature.com/ngeo/volumes)
 - **Nature Reviews Earth & Environment**:
-	[Homepage](https://www.nature.com/natrevearthenviron) |
-	[Current Issue](https://www.nature.com/natrevearthenviron/current-issue) |
-	[Archive](https://www.nature.com/natrevearthenviron/volumes/)
+    [Homepage](https://www.nature.com/natrevearthenviron) |
+    [Current Issue](https://www.nature.com/natrevearthenviron/current-issue) |
+    [Archive](https://www.nature.com/natrevearthenviron/volumes/)
 - **Physics of the Earth and Planetary Interiors**:
     [Homepage](http://www.sciencedirect.com/science/journal/00319201/) |
     [Archive](https://www.sciencedirect.com/journal/physics-of-the-earth-and-planetary-interiors/issues)
