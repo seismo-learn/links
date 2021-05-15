@@ -17,13 +17,6 @@ slug: tools
 - [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases)
 - [Free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
 
-
-## Chemistry
-
-- [Periodic Table](https://www.ptable.com)
-- [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
-
-
 ## Document Processing
 
 - [ImageMagick convert](https://blog.seisman.info/imagemagick-convert)
