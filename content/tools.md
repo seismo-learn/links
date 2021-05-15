@@ -39,3 +39,4 @@ toc: true
 ## Science
 
 - [Periodic Table of Elements](https://www.ptable.com)
+- [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
