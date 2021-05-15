@@ -10,26 +10,6 @@ toc: true
 - [Wilber III](http://ds.iris.edu/wilber3/): Request waveform of single event
 - [IRIS citations](https://www.iris.edu/hq/iris_citations): How to cite/acknowledge IRIS data
 
-## Focal Mechanism Catalog
-
-- [Global CMT](http://www.globalcmt.org/)
-- [ISC Focal Mechanism](http://www.isc.ac.uk/iscbulletin/search/fmechanisms/)
-- [UCB Moment Tensor Catalog](http://www.ncedc.org/ncedc/mt.html "University of California Berkeley Moment Tensor Catalog")
-- [SCSN Moment Tensor Catalog](http://service.scedc.caltech.edu/eq-catalogs/CMTsearch.php)
-- [NIED CMT solutions](http://www.fnet.bosai.go.jp/event/joho.php?LANG=en)
-- [NIED Earthquake Mechanism Search](http://www.fnet.bosai.go.jp/event/search.php?LANG=en)
-- [JMA Focal Mechanism Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/cmt_e.html)
-- [JMA Nodal Plane Solution](http://www.data.jma.go.jp/svd/eqev/data/bulletin/mech_e.html)
-- [Hi-net AUQA Focal Mechanism Catalog](http://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en)
-- [意大利周边震源机制](http://cnt.rm.ingv.it/en/tdmt)
-- [台湾震源机制解](http://tecws.earth.sinica.edu.tw/BATS/cmtbyform.php)
-
-## Arrival Time/Phase Data
-
-- [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals/)
-- [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html)
-- [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
-- [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
 
 ## Research Groups
 
