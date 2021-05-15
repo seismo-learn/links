@@ -13,6 +13,7 @@ title: Jobs
 - [Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/index.html)
 - [AGU PathFinder](https://findajob.agu.org/)
 - [CIG Jobs](https://community.geodynamics.org/c/job-postings/)
+- [TheUniJobs](https://www.timeshighereducation.com/unijobs/en-us/)
 
 ### Email listing
 
