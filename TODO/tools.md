@@ -27,8 +27,6 @@ slug: tools
 ## Document Processing
 
 - [Merge pdf in linux](https://blog.seisman.info/merge-pdf)
-- [cpdf](https://blog.seisman.info/cpdf): Trans-platform PDF process tookit
-- [PDFtk](https://blog.seisman.info/pdftk): Trans-platform PDF process tookit
 - [ImageMagick convert](https://blog.seisman.info/imagemagick-convert)
 - [Logoly](https://www.logoly.pro/#/): A Simple Online Logo Generator
 
