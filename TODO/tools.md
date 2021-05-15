@@ -26,7 +26,6 @@ slug: tools
 
 ## Document Processing
 
-- [Merge pdf in linux](https://blog.seisman.info/merge-pdf)
 - [ImageMagick convert](https://blog.seisman.info/imagemagick-convert)
 - [Logoly](https://www.logoly.pro/#/): A Simple Online Logo Generator
 
