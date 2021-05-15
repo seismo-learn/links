@@ -7,7 +7,19 @@ toc: true
 
 ### Global Earthquake Catalog
 
-- [ISC Bulletin](http://www.isc.ac.uk/iscbulletin)
+The **Bulletin of the International Seismological Centre** (ISC) is the primary
+output of the ISC and is regarded as the definitive record of the Earth's seismicity.
+In ISC Bulletin, earthquake information are automatically determined, and then
+manually checked by ISC analysts and relocated if possible (when there are sufficient data).
+The manually reviewed ISC Bulletin is typically 24 months behind real-time,
+and is currently (last updated on 2021-05-15) up to 2019-03-01.
+
+- Homepage: http://www.isc.ac.uk/iscbulletin/
+- Search: http://www.isc.ac.uk/iscbulletin/search/
+- Time range: 1900 - now
+
+---
+
 - [EHB Bulletin](http://www.isc.ac.uk/ehbbulletin/)
 - [ISC-GEM Catalog](http://www.isc.ac.uk/iscgem/)
 - [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/)
