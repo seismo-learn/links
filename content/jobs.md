@@ -24,5 +24,5 @@ title: Jobs
 - [Lamont-Doherty Earth Observatory of Columbia University Postdoctoral Fellowship](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoc-applications)
 - [University of Texas Institute for Geophysics Job Listings](https://ig.utexas.edu/about/job-listings)
 - [Caltech Academic Positions and Opportunities](https://applications.caltech.edu)
-- [Scripps Institution of Oceanography, UC San Diego Jobs](https://scripps.ucsd.edu/research/centers-labs-projects?field_research_topics_new_tid=1344)
-- [Wallenberg-NTU Presidential Postdoctoral Fellowship](https://www.ntu.edu.sg/ppf/Pages/home_PPF.aspx)
+- [Scripps Institution of Oceanography, UC San Diego Jobs](https://scripps.ucsd.edu/portal/jobs)
+- [Nanyang Technological University Jobs](https://www.ntu.edu.sg/research/research-careers)
