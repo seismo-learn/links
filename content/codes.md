@@ -407,6 +407,7 @@ toc: true
 ## Earth's interior
 
 - [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
+- [FastTrip](https://github.com/lijiaqi0315/FastTrip): Fast MPI-accelerated Triplication Waveform Inversion Package
 
 ## Tectonics
 

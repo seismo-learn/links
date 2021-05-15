@@ -60,7 +60,7 @@ toc: true
 - **Science China Earth Sciences**:
     [Homepage](https://www.springer.com/journal/11430) |
     [Archive](https://link.springer.com/journal/11430/volumes-and-issues)
-- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
+- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com)
 
 ## Geophysics Journals
 
@@ -122,8 +122,8 @@ toc: true
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations/): Search Science and Engineering Journal Abbreviations
 - [Scopus](https://www.scopus.com/home.uri): Abstract and citation database
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
-- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science! | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
-- [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors.
+- [Sci-Hub](http://sci-hub.tw/): Free access to millions of research papers and books | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
+- [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
-- [OSF](https://osf.io/): A free, open platform to support your research and enable collaboration.
-- [zenodo](https://zenodo.org/): A general-purpose open-access repository.
+- [OSF](https://osf.io/): A free, open platform to support your research and enable collaboration
+- [zenodo](https://zenodo.org/): A general-purpose open-access repository
