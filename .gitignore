@@ -1,1 +1,3 @@
-public
+public/
+.vscode
+.DS_Store
