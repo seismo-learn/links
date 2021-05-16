@@ -7,18 +7,22 @@ toc: true
 
 ### Global Earthquake Catalog
 
-- [ISC Bulletin](http://www.isc.ac.uk/iscbulletin)
-- [EHB Bulletin](http://www.isc.ac.uk/ehbbulletin/)
-- [ISC-GEM Catalog](http://www.isc.ac.uk/iscgem/)
-- [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/)
-- [USGS PDE](http://earthquake.usgs.gov/data/pde.php) |
-  [USGS web service](http://earthquake.usgs.gov/fdsnws/event/1/)
-- [USGS ANSS Comprehensive Catalog](http://earthquake.usgs.gov/earthquakes/search/)
+- [ISC Bulletin](http://www.isc.ac.uk/iscbulletin) |
+  [Searching ISC Bulletin](http://www.isc.ac.uk/iscbulletin/search/)
+- [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/) |
+  [Searching ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/search/)
+- [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
+- [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/)
+- [EMSC Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
+- [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
+  [Search Earthquake Catalog](http://earthquake.usgs.gov/earthquakes/search/) |
+  [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/)
+- [USGS PDE](https://earthquake.usgs.gov/data/comcat/catalog/us/)
+- [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 
 ### Regional Earthquake Catalog
 
 - [Catalog of Historical Earthquakes in China](http://data.earthquake.cn/data/data/history_query.jsp): From B.C. 1831 to A.D. 1969
-- [China Catalog (中国台网统一地震目录)](http://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 - [Northern California Earthquake Catalog](http://www.ncedc.org/ncedc/catalog-search.html)
 - [Southern California Earthquake Catalog](http://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php)
 - [JMA Unified Hypocenter Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html)
