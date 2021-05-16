@@ -13,6 +13,7 @@ title: Jobs
 - [Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/index.html)
 - [AGU PathFinder](https://findajob.agu.org/)
 - [CIG Jobs](https://community.geodynamics.org/c/job-postings/)
+- [TheUniJobs](https://www.timeshighereducation.com/unijobs/en-us/)
 
 ### Email listing
 
@@ -24,5 +25,5 @@ title: Jobs
 - [Lamont-Doherty Earth Observatory of Columbia University Postdoctoral Fellowship](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoc-applications)
 - [University of Texas Institute for Geophysics Job Listings](https://ig.utexas.edu/about/job-listings)
 - [Caltech Academic Positions and Opportunities](https://applications.caltech.edu)
-- [Scripps Institution of Oceanography, UC San Diego Jobs](https://scripps.ucsd.edu/research/centers-labs-projects?field_research_topics_new_tid=1344)
-- [Wallenberg-NTU Presidential Postdoctoral Fellowship](https://www.ntu.edu.sg/ppf/Pages/home_PPF.aspx)
+- [Scripps Institution of Oceanography, UC San Diego Jobs](https://scripps.ucsd.edu/portal/jobs)
+- [Nanyang Technological University Jobs](https://www.ntu.edu.sg/research/research-careers)

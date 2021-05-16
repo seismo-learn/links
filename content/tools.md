@@ -18,6 +18,7 @@ toc: true
 ## Web
 
 - [IPIP](https://www.ipip.net/): The best IP database I've used
+- [Logoly](https://www.logoly.pro/): A Simple Online Logo Generator
 
 ## Programming
 
@@ -39,3 +40,4 @@ toc: true
 ## Science
 
 - [Periodic Table of Elements](https://www.ptable.com)
+- [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
