@@ -4,26 +4,22 @@ title: Jobs
 
 ### Job Boards
 
-- [IRIS Job Announcements](https://ds.iris.edu/message-center/topic/jobs)
-- [EGU Jobs](https://www.egu.eu/jobs/)
+- [Incorporated Research Institutions for Seismology (IRIS) Job Announcements](https://ds.iris.edu/message-center/topic/jobs)
+- [American Geophysical Union (AGU) Career Center](https://findajob.agu.org/)
+- [Computational Infrastructure for Geodynamics (CIG) Jobs Postings](https://community.geodynamics.org/c/job-postings/)
 - [EarthWorks Jobs](https://www.earthworks-jobs.com)
-- [Seismological Society of America (SSA) Jobs](https://www.seismosoc.org/jobs/job-listings/)
+- [European Geosciences Union (EGU) Jobs](https://www.egu.eu/jobs/)
 - [Geological Society of America (GSA) Geoscience Job Board](http://www.geosociety.org/GSA/Publications/GSA_Today/Job_Board/GSA/GSAToday/Job_Board.aspx)
-- [USGS Mendenhall Research Fellowship Program](https://www.usgs.gov/centers/mendenhall)
 - [Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/index.html)
-- [AGU PathFinder](https://findajob.agu.org/)
-- [CIG Jobs](https://community.geodynamics.org/c/job-postings/)
-- [TheUniJobs](https://www.timeshighereducation.com/unijobs/en-us/)
-
-### Email listing
-
-- [Earth Sciences Job Email list](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net)
+- [Seismological Society of America (SSA) Job Listings](https://www.seismosoc.org/jobs/job-listings/)
+- [THEunijobs](https://www.timeshighereducation.com/unijobs/en-us/): International university and academic jobs
+- [U.S. Geological Survey (USGS) Mendenhall Research Fellowship Program](https://www.usgs.gov/centers/mendenhall)
 
 ### University/Institution Jobs
 
-- [Carnegie Institution for Science Jobs Listing](https://jobs.carnegiescience.edu/jobs)
-- [Lamont-Doherty Earth Observatory of Columbia University Postdoctoral Fellowship](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoc-applications)
-- [University of Texas Institute for Geophysics Job Listings](https://ig.utexas.edu/about/job-listings)
 - [Caltech Academic Positions and Opportunities](https://applications.caltech.edu)
-- [Scripps Institution of Oceanography, UC San Diego Jobs](https://scripps.ucsd.edu/portal/jobs)
+- [Carnegie Institution for Science Jobs Listing](https://jobs.carnegiescience.edu/jobs)
+- [Institute for Geophysics at University of Texas Institute Job Listings](https://ig.utexas.edu/about/job-listings)
+- [Lamont-Doherty Earth Observatory at Columbia University Postdoctoral Fellowships](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoc-applications)
 - [Nanyang Technological University Jobs](https://www.ntu.edu.sg/research/research-careers)
+- [Scripps Institution of Oceanography at UC San Diego Jobs](https://scripps.ucsd.edu/portal/jobs)
