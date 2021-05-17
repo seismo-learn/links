@@ -152,44 +152,8 @@ slug: database
     - [Global heat flow database](https://ihfc-iugg.org/products/global-heat-flow-database)
     - [Global surface heat flow database (version of 2012)](http://www.lithosphere.info/downloads.html)
 
-
-
-
 ---------------------
 ## Earthquake Catalog
-
-### Global Earthquake Catalog
-
-- [IRIS web service](http://service.iris.edu/fdsnws/event/1)
-- [ISC Bulletin](http://www.isc.ac.uk/iscbulletin/search/catalogue) | [ISC web service](http://www.isc.ac.uk/fdsnws/event/1)
-- [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb)
-- [ISC-GEM Catalogue](http://www.isc.ac.uk/iscgem): ISC-GEM Global Instrumental Earthquake Catalogue (1904-2015) | [Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/instrumental-catalogue)
-- [USGS Preliminary Determination of Epicenters (PDE)](https://earthquake.usgs.gov/data/pde.php) | [Chinese introduction](https://blog.seisman.info/global-earthquake-catalog-pde)
-- [USGS ANSS Comprehensive Earthquake Catalog (ComCat)](https://earthquake.usgs.gov/data/comcat) | [USGS web service](https://earthquake.usgs.gov/fdsnws/event/1) | [ComCat Wrapper Libraries](https://www.usgs.gov/software/comcat-wrapper-libraries)
-    - [Historic ANSS Composite Catalog](https://ncedc.org/anss/catalog-search.html)
-- [EMSC catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
-- [Global Earthquake History](https://emidius.eu/GEH): [Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/historical-catalogue)
-
-
-
-### Regional Earthquake Catalog
-
-- [中国台网正式地震目录](http://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)：统一的中国地震台网地震目录
-- [中国历史地震目录](http://data.earthquake.cn/data/data/history_query.jsp)
-- [中国台网统一地震目录](http://data.earthquake.cn/data/datashare_tyml_query.jsp): 无法打开
-- [Euro-Med Bulletin](https://www.emsc-csem.org/Bulletin)
-- [Dissemination of long-term seismological data](https://www.emidius.eu)
-    - [European Archive of Historical EArthquake Data (AHEAD)](https://www.emidius.eu/AHEAD)
-    - [Share European Earthquake Catalogue (SHEEC)](https://www.emidius.eu/SHEEC)
-- [SCSN Catalog](http://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php) | [SCEDC web service](http://service.scedc.caltech.edu/fdsnws/event/1)
-- [NCSN Catalog](https://ncedc.org/ncedc/catalog-search.html) | [NCEDC web service](http://service.ncedc.org/fdsnws/event/1)
-- [Egill Hauksson's relocated catalog from SCSN](https://service.scedc.caltech.edu/ftp/catalogs/hauksson/Socal_DD/)
-- [Canada National Earthquake DataBase](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php)
-- JMA catalog | [Chinese note](https://blog.seisman.info/trash/jma-unified-hypocenter-catalog)
-    - [JMA Unified Hypocenter Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php): Hinet provides event waveform data, arrivel time data and focal mechanism based on the catalog.
-    - [The Seismological Bulletin of Japan](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html): Final version of JMA Unified Hypocenter Catalog
-- [Australia Earthquakes](https://earthquakes.ga.gov.au)
-
 
 ### Focal Mechanism Catalog
 
