@@ -20,7 +20,8 @@ toc: true
   [Catalog Search](http://earthquake.usgs.gov/earthquakes/search/) |
   [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/)
 - [USGS PDE](https://earthquake.usgs.gov/data/comcat/catalog/us/)
-- [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/)
+- [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/) |
+  [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/historical-catalogue)
 
 ### Regional Earthquake Catalog
 
