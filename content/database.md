@@ -12,23 +12,36 @@ toc: true
 - [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/) |
   [Searching ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/search/)
 - [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
-- [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/)
+- [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 - [EMSC Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
 - [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
-  [Search Earthquake Catalog](http://earthquake.usgs.gov/earthquakes/search/) |
+  [Catalog Search](http://earthquake.usgs.gov/earthquakes/search/) |
   [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/)
 - [USGS PDE](https://earthquake.usgs.gov/data/comcat/catalog/us/)
-- [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
+- [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/)
 
 ### Regional Earthquake Catalog
 
-- [Catalog of Historical Earthquakes in China](http://data.earthquake.cn/data/data/history_query.jsp): From B.C. 1831 to A.D. 1969
-- [Northern California Earthquake Catalog](http://www.ncedc.org/ncedc/catalog-search.html)
-- [Southern California Earthquake Catalog](http://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php)
-- [JMA Unified Hypocenter Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html)
-- [JMA Preliminary Unified Hypocenter Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php)
-- [Australian Catalog](http://www.ga.gov.au/earthquakes/searchQuake.do)
-- [Canada Catalog](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php)
+- [中国历史地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_lsdz):
+  公元前 1831 年至公元 1969 年间发生在中国的破坏性地震（M>=4.0）
+- [Japan Meteorological Agency (JMA) Unified Hypocenter Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html)
+- [JMA Unified Hypocenter Catalog (Preliminary)](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php):
+  The hypocenters are preliminary results and JMA may revise them.
+- [Canada Catalog](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php) |
+  [Catalog Search](https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bulletin-en.php)
+- [Northern California Earthquake Catalog](http://www.ncedc.org/ncedc/catalog-search.html) |
+  [FDSN Event Web Service](http://service.ncedc.org/fdsnws/event/1/)
+- [Southern California Earthquake Catalogs](https://scedc.caltech.edu/eq-catalogs/) |
+  [Catalog Search](https://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php) |
+  [FDSN Event Web Service](https://service.scedc.caltech.edu/fdsnws/event/1/)
+- [Southern California refined earthquake focal mechanism catalog](https://scedc.caltech.edu/data/alt-2011-yang-hauksson-shearer.html)
+- [European-Mediterranean Catalog](https://www.emsc-csem.org/Bulletin/) |
+  [Catalog Search](https://www.emsc-csem.org/Bulletin/search.php?filter=yes)
+- [European Archive of Historical Earthquake Data](https://www.emidius.eu/AHEAD/)
+- [SHARE European Earthquake Catalog](https://www.emidius.eu/SHEEC/) |
+  [1000-1899](https://www.emidius.eu/SHEEC/sheec_1000_1899.html) |
+  [1900-2006](https://www.gfz-potsdam.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/sheec-earthquake-catalogue/)
+- [Australian Catalog](https://earthquakes.ga.gov.au/)
 
 ## Focal Mechanism Catalog
 
