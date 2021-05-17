@@ -8,9 +8,9 @@ toc: true
 ### Global Earthquake Catalog
 
 - [ISC Bulletin](http://www.isc.ac.uk/iscbulletin) |
-  [Searching ISC Bulletin](http://www.isc.ac.uk/iscbulletin/search/)
+  [Catalog Search](http://www.isc.ac.uk/iscbulletin/search/)
 - [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/) |
-  [Searching ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/search/)
+  [Catalog Search](http://www.isc.ac.uk/isc-ehb/search/)
 - [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
 - [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 - [EMSC Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
