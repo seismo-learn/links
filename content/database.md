@@ -34,7 +34,7 @@ toc: true
 - [Southern California Earthquake Catalogs](https://scedc.caltech.edu/eq-catalogs/) |
   [Catalog Search](https://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php) |
   [FDSN Event Web Service](https://service.scedc.caltech.edu/fdsnws/event/1/)
-- [Southern California refined earthquake focal mechanism catalog](https://scedc.caltech.edu/data/alt-2011-yang-hauksson-shearer.html)
+- [Southern California Refined Earthquake Catalog](https://scedc.caltech.edu/data/alt-2011-yang-hauksson-shearer.html)
 - [European-Mediterranean Catalog](https://www.emsc-csem.org/Bulletin/) |
   [Catalog Search](https://www.emsc-csem.org/Bulletin/search.php?filter=yes)
 - [European Archive of Historical Earthquake Data](https://www.emidius.eu/AHEAD/)
