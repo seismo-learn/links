@@ -55,12 +55,12 @@ toc: true
   [Catalog Files](https://www.globalcmt.org/CMTfiles.html)
 - [ISC Focal Mechanism](http://www.isc.ac.uk/iscbulletin/search/fmechanisms/)
 - [Saint Louis University Moment Tensor Determinations](http://www.eas.slu.edu/eqc/eqcmt.html)
-- [Broadband Array in Taiwan for Seismology (BATS) CMTs](https://bats.earth.sinica.edu.tw/) |
+- [Broadband Array in Taiwan for Seismology CMTs](https://bats.earth.sinica.edu.tw/) |
   [Catalog Search](http://tecws.earth.sinica.edu.tw/BATS/cmtbyform.php)
 - [Hi-net AUQA Focal Mechanism Catalog](http://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en)
 - [JMA Seismological Bulletin of Japan](https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html) |
   [CMT Solution](https://www.data.jma.go.jp/svd/eqev/data/bulletin/cmt_e.html) |
-  [Nodal Plane Solution](http://www.data.jma.go.jp/svd/eqev/data/bulletin/mech_e.html) |
+  [Nodal Plane Solution](http://www.data.jma.go.jp/svd/eqev/data/bulletin/mech_e.html)
 - [JMA Focal Mechanism Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/?LANG=en):
   Focal mechanism based on JMA Unified Hypocenter Catalog (Preliminary)
 - [NIED Moment Tensors](http://www.fnet.bosai.go.jp/event/joho.php?LANG=en) |
