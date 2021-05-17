@@ -8,7 +8,8 @@ toc: true
 ### Global Earthquake Catalog
 
 - [ISC Bulletin](http://www.isc.ac.uk/iscbulletin) |
-  [Catalog Search](http://www.isc.ac.uk/iscbulletin/search/)
+  [Catalog Search](http://www.isc.ac.uk/iscbulletin/search/) |
+  [FDSN Event Web Service](http://www.isc.ac.uk/fdsnws/event/1/)
 - [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/) |
   [Catalog Search](http://www.isc.ac.uk/isc-ehb/search/)
 - [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
