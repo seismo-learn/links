@@ -13,7 +13,7 @@ toc: true
   [Catalog Search](http://www.isc.ac.uk/isc-ehb/search/)
 - [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
 - [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
-- [EMSC Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
+- [European-Mediterranean Seismological Centre Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
 - [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
   [Catalog Search](http://earthquake.usgs.gov/earthquakes/search/) |
   [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/)
