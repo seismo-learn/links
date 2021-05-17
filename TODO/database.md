@@ -155,31 +155,10 @@ slug: database
 ---------------------
 ## Earthquake Catalog
 
-### Focal Mechanism Catalog
-
-- [Global CMT](https://www.globalcmt.org) | [Chinese Introduction](https://blog.seisman.info/global-cmt)
-- [ISC Bulletin focal mechanism](http://www.isc.ac.uk/iscbulletin/search/fmechanisms)
-- [EMSC Moment Tensors solutions](https://www.emsc-csem.org/Earthquake/index_tensors.php)
-- [NCSN Moment tensor catalog](http://www.ncedc.org/ncedc/catalog-search.html)
-- [SCSN Moment tensor catalog](http://service.scedc.caltech.edu/eq-catalogs/CMTsearch.php)
-- NIED focal mechnism
-    - [NIED Moment Tensor solutions](http://www.fnet.bosai.go.jp/event/joho.php?LANG=en)
-    - [NIED Earthquake Mechanism Search](http://www.fnet.bosai.go.jp/event/search.php?LANG=en)
-- [JMA focal mechnism catalog](https://www.data.jma.go.jp/svd/eqev/data/bulletin/index_e.html)
-    - [JMA CMT Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/cmt_e.html)
-    - [JMA Nodal Plane Solution](http://www.data.jma.go.jp/svd/eqev/data/bulletin/mech_e.html)
-    - [JMA focal mechanism catalog](https://hinetwww11.bosai.go.jp/auth/JMA/?LANG=en): Focal mechanism based on JMA Unified Hypocenter Catalog | [Chinese download note](https://blog.seisman.info/trash/hinet-arrival-time-and-focal-mechanism-catalog)
-- [Hi-net AUQA Focal Mechanism Catalog](http://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en)
-- [Italian Time Domain Moment Tensor Catalogue](http://cnt.rm.ingv.it/en/tdmt)
-- [Taiwan (China) BATS CMT Catalog Search](http://tecws.earth.sinica.edu.tw/BATS/cmtbyform.php)
-- [SLU Moment Tensor Solutions](http://www.eas.slu.edu/eqc/eqcmt.html)
-
-
 ### Special earthquakes
 
 - [World Tremor Database](http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html)
 - [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
-
 
 ## Arrival Time/Phase Data
 
