@@ -19,7 +19,8 @@ toc: true
 - [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
   [Catalog Search](http://earthquake.usgs.gov/earthquakes/search/) |
   [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/) |
-  [Wrapper Libraries](https://www.usgs.gov/software/comcat-wrapper-libraries)
+  [Wrapper Libraries](https://www.usgs.gov/software/comcat-wrapper-libraries) |
+  [Historic ANSS Composite Catalog](https://ncedc.org/anss/catalog-search.html)
 - [USGS PDE](https://earthquake.usgs.gov/data/comcat/catalog/us/)
 - [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/) |
   [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/historical-catalogue)
