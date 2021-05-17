@@ -32,7 +32,7 @@ toc: true
 - [Japan Meteorological Agency (JMA) Unified Hypocenter Catalog](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html)
 - [JMA Unified Hypocenter Catalog (Preliminary)](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php):
   The hypocenters are preliminary results and JMA may revise them.
-- [Canada Catalog](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bull-en.php) |
+- [Canada Catalog](https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php) |
   [Catalog Search](https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bulletin-en.php)
 - [Northern California Earthquake Catalog](http://www.ncedc.org/ncedc/catalog-search.html) |
   [FDSN Event Web Service](http://service.ncedc.org/fdsnws/event/1/)
