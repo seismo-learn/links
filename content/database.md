@@ -12,7 +12,8 @@ toc: true
   [FDSN Event Web Service](http://www.isc.ac.uk/fdsnws/event/1/)
 - [ISC-EHB Bulletin](http://www.isc.ac.uk/isc-ehb/) |
   [Catalog Search](http://www.isc.ac.uk/isc-ehb/search/)
-- [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/)
+- [ISC-GEM Earthquake Catalog](http://www.isc.ac.uk/iscgem/) |
+  [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/instrumental-catalogue)
 - [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 - [European-Mediterranean Seismological Centre Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
 - [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
