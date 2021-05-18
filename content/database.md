@@ -16,7 +16,7 @@ toc: true
   [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/instrumental-catalogue)
 - [中国台网正式地震目录](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
 - [European-Mediterranean Seismological Centre Earthquake Catalog](https://www.emsc-csem.org/Earthquake/?filter=yes)
-- [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) | 
+- [USGS ANSS Comprehensive Earthquake Catalog](https://earthquake.usgs.gov/data/comcat/) |
   [Catalog Search](http://earthquake.usgs.gov/earthquakes/search/) |
   [FDSN Event Web Service](http://earthquake.usgs.gov/fdsnws/event/1/) |
   [Wrapper Libraries](https://www.usgs.gov/software/comcat-wrapper-libraries) |
@@ -47,6 +47,11 @@ toc: true
   [1000-1899](https://www.emidius.eu/SHEEC/sheec_1000_1899.html) |
   [1900-2006](https://www.gfz-potsdam.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/sheec-earthquake-catalogue/)
 - [Australian Catalog](https://earthquakes.ga.gov.au/)
+
+### Slow Earthquake Catalog
+
+- [World Tremor Database](http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html)
+- [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
 
 ## Focal Mechanism Catalog
 
