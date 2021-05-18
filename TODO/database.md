@@ -152,14 +152,6 @@ slug: database
     - [Global heat flow database](https://ihfc-iugg.org/products/global-heat-flow-database)
     - [Global surface heat flow database (version of 2012)](http://www.lithosphere.info/downloads.html)
 
----------------------
-## Earthquake Catalog
-
-### Special earthquakes
-
-- [World Tremor Database](http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html)
-- [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
-
 ## Arrival Time/Phase Data
 
 - [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals)
