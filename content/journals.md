@@ -3,7 +3,7 @@ title: Journals
 toc: true
 ---
 
-## Inter-disciplinary Journals
+## Multidisciplinary Journals
 
 - **Science**:
     [Homepage](http://science.sciencemag.org/) |
@@ -125,5 +125,3 @@ toc: true
 - [Sci-Hub](http://sci-hub.tw/): Free access to millions of research papers and books | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
 - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
-- [OSF](https://osf.io/): A free, open platform to support your research and enable collaboration
-- [zenodo](https://zenodo.org/): A general-purpose open-access repository
