@@ -13,7 +13,6 @@ title: Jobs
 - [Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowships](https://www.jsps.go.jp/english/e-fellow/index.html)
 - [Seismological Society of America (SSA) Job Listings](https://www.seismosoc.org/jobs/job-listings/)
 - [THEunijobs](https://www.timeshighereducation.com/unijobs/en-us/): International university and academic jobs
-- [U.S. Geological Survey (USGS) Mendenhall Research Fellowship Program](https://www.usgs.gov/centers/mendenhall)
 
 ### University/Institution Jobs
 
@@ -23,3 +22,4 @@ title: Jobs
 - [Lamont-Doherty Earth Observatory at Columbia University Postdoctoral Fellowships](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoc-applications)
 - [Nanyang Technological University Jobs](https://www.ntu.edu.sg/research/research-careers)
 - [Scripps Institution of Oceanography at UC San Diego Jobs](https://scripps.ucsd.edu/portal/jobs)
+- [U.S. Geological Survey (USGS) Mendenhall Research Fellowship Program](https://www.usgs.gov/centers/mendenhall)
