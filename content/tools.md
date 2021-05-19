@@ -41,3 +41,4 @@ toc: true
 
 - [Periodic Table of Elements](https://www.ptable.com)
 - [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
+- [Animations of the free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
