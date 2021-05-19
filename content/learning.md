@@ -19,12 +19,6 @@ title: Learning Resources
 
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
 
-
-### Numba
-
-- [Accelerate Python using Numba](https://github.com/keipertk/pygpu-workshop): A 2-hour workshop for Numba
-- [Numba Documentation](https://numba.readthedocs.io/en/stable/)
-
 ## Miscellaneous
 
 - [Essential Image Optimization](https://images.guide/)
