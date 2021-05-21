@@ -84,8 +84,9 @@ toc: true
 
 ## Seismic waveforms
 
-- [FDSN Network Codes](http://www.fdsn.org/networks/): 在 FDSN 注册的永久和临时台网列表
-- [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/webservices/datacenters/): 支持 FDSN Web Service 的地震数据中心
+- [FDSN Network Codes](http://www.fdsn.org/networks/): Network codes assigned by
+  the FDSN to facilitate unique identifiers for seismological data streams
+- [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/webservices/datacenters/)
 - [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/)
 - [AusPass](http://auspass.edu.au/): Australian Passive Seismic Server
 - [NIED Hi-net](http://www.hinet.bosai.go.jp/)
@@ -119,7 +120,8 @@ toc: true
 - [Source Time Function](http://ds.iris.edu/spud/sourcetimefunction)
 - [Earth Model](http://ds.iris.edu/ds/products/emc/)
 - [Slab Model for Subduction Zones](http://earthquake.usgs.gov/data/slab/)
-- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): 澳大利亚区域模型
-- [国家地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
-- [全球地质资料数据中心](http://portal.onegeology.org/OnegeologyGlobal/)
+- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**\ stralian
+  **S**\ eismological **Re**\ ference **M**\ odel
+- [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
 - [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
+- [中国全国地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
