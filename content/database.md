@@ -122,3 +122,4 @@ toc: true
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): 澳大利亚区域模型
 - [国家地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
 - [全球地质资料数据中心](http://portal.onegeology.org/OnegeologyGlobal/)
+- [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
