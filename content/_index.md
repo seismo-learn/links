@@ -22,7 +22,4 @@ cards:
   - name: Tools
     link: tools
     icon: fa-tools
-  - name: Misc.
-    link: misc
-    icon: fa-link
 ---

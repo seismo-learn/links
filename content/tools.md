@@ -5,9 +5,21 @@ toc: true
 
 ## Science
 
+### General Tools
+
 - [Animations of the free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
+- [Google Maps API](https://developers.google.com/maps/get-started/)
 - [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
 - [Periodic Table of Elements](https://www.ptable.com)
+
+### IRIS
+
+- [DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations
+- [GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps
+- [IRIS Data Request Status](http://www.iris.edu/ds/nodes/dmc/data/request-status/)
+- [IRIS Message Center](http://ds.iris.edu/message-center/)
+- [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
+- [Wilber 3](http://ds.iris.edu/wilber3/): Request waveform of single event
 
 ## Computer
 
@@ -50,3 +62,4 @@ toc: true
 ## Writing
 
 - [Grammarly](https://www.grammarly.com): Free writing assistant to check your grammar
+- [IRIS citations](https://www.iris.edu/hq/iris_citations): How to cite/acknowledge IRIS data

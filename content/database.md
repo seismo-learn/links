@@ -84,6 +84,8 @@ toc: true
 
 ## Seismic waveforms
 
+- [FDSN Network Codes](http://www.fdsn.org/networks/): 在 FDSN 注册的永久和临时台网列表
+- [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/webservices/datacenters/): 支持 FDSN Web Service 的地震数据中心
 - [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/)
 - [AusPass](http://auspass.edu.au/): Australian Passive Seismic Server
 - [NIED Hi-net](http://www.hinet.bosai.go.jp/)
@@ -101,6 +103,7 @@ toc: true
 
 ## Old Analog Seismograms
 
+- [Scanned Seismograms from Historical Earthquakes](http://ds.iris.edu/seismo/)
 - [Borovoye Archive Data from Underground Nuclear Tests](https://www.ldeo.columbia.edu/res/pi/Monitoring/Arch/BRV_arch_deglitched.html)
 
 ## Other Database
@@ -113,3 +116,9 @@ toc: true
 - [EARS](http://ds.iris.edu/ds/products/ears/): Receiver function database for EarthScope stations
 - [GADM](https://gadm.org): Database of Global Administrative Areas
 - [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/): An ambient noise cross-correlation based database of empirical Green's functions (EGFs) of the Western US using USArray TA data.
+- [Source Time Function](http://ds.iris.edu/spud/sourcetimefunction)
+- [Earth Model](http://ds.iris.edu/ds/products/emc/)
+- [Slab Model for Subduction Zones](http://earthquake.usgs.gov/data/slab/)
+- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): 澳大利亚区域模型
+- [国家地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
+- [全球地质资料数据中心](http://portal.onegeology.org/OnegeologyGlobal/)

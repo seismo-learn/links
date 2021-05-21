@@ -2,6 +2,8 @@
 title: Scientists
 ---
 
+## Scientists
+
 - [Charles J. Ammon](http://eqseis.geosc.psu.edu/~cammon/)
 - [Don L. Anderson](http://www.mantleplumes.org/DLA.html)
 - [Andrew Curtis](http://www.geos.ed.ac.uk/homes/acurtis/)
@@ -57,3 +59,10 @@ title: Scientists
 - [Haijiang Zhang](http://staff.ustc.edu.cn/~zhang11/)
 - [Shijie Zhong](http://anquetil.colorado.edu/szhong/)
 - [Lupei Zhu](http://www.eas.slu.edu/People/LZhu/home.html)
+
+## Research Groups
+
+- [Harvard Seismology](http://seismology.harvard.edu/)
+- [Global Seismology Group at Rice University](http://www.gseis.rice.edu/)
+- [Berkeley Global Seismology](http://seismo.berkeley.edu/wiki_br/Main_Page)
+- [University of Rhode Island Seismology Lab](https://sites.google.com/view/seismo)

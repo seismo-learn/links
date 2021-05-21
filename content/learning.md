@@ -7,6 +7,7 @@ title: Learning Resources
 ### Short Videos & Posts
 
 - [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners.
+- [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases/)
 - [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/): Explain channel code for seismic waveform data.
 
 ### Workshops & Courses
