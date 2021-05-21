@@ -5,7 +5,7 @@ toc: true
 
 ## Document Processing
 
-- [Squoosh](https://squoosh.app/): Image compression web app provided by Google.
+- [Squoosh](https://squoosh.app/): Image compression web app provided by Google
 - [PDF2JPG](https://pdf2jpg.net/): Free PDF to JPG online converter
 - [Smallpdf](https://smallpdf.com/): All-in-one easy-to-use online PDF tools
 - [Convertio](https://convertio.co/): Convert your files to any formats (300+ formats supported)
@@ -17,8 +17,8 @@ toc: true
 
 ## Web
 
-- [IPIP](https://www.ipip.net/): The best IP database I've used
-- [Logoly](https://www.logoly.pro/): A Simple Online Logo Generator
+- [IPIP](https://www.ipip.net/): The best IP geolocation database
+- [Logoly](https://www.logoly.pro/): A simple online logo generator
 
 ## Programming
 
@@ -35,7 +35,7 @@ toc: true
 
 ## ESL (English as a Second Language)
 
-- [Grammarly](www.grammarly.com): Free writing assistant to check your grammar
+- [Grammarly](https://www.grammarly.com): Free writing assistant to check your grammar
 
 ## Science
 
