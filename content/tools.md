@@ -16,8 +16,8 @@ toc: true
 ### IRIS
 
 - [IRIS-DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations
-- [IRIS GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps
 - [IRIS Data Request Status](http://www.iris.edu/ds/nodes/dmc/data/request-status/)
+- [IRIS GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps
 - [IRIS Message Center](http://ds.iris.edu/message-center/)
 - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
