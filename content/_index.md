@@ -4,18 +4,18 @@ cards:
   - name: Journals
     link: journals
     icon: fa-book-open
-  - name: Codes
-    link: codes
-    icon: fa-code
   - name: Scientists
     link: scientists
     icon: fa-user
-  - name: Database
-    link: database
-    icon: fa-database
+  - name: Codes
+    link: codes
+    icon: fa-code
   - name: Learning
     link: learning
     icon: fa-graduation-cap
+  - name: Database
+    link: database
+    icon: fa-database
   - name: Jobs
     link: jobs
     icon: fa-ad
