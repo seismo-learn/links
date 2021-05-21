@@ -123,5 +123,4 @@ toc: true
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**\ stralian
   **S**\ eismological **Re**\ ference **M**\ odel
 - [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
-- [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
 - [中国全国地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
