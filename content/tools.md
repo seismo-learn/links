@@ -11,6 +11,7 @@ toc: true
 - [Google Maps API](https://developers.google.com/maps/get-started/)
 - [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
 - [Periodic Table of Elements](https://www.ptable.com)
+- [3D earthquake display](https://glowy-earthquakes.glitch.me)
 
 ### IRIS
 
@@ -18,6 +19,8 @@ toc: true
 - [GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps
 - [IRIS Data Request Status](http://www.iris.edu/ds/nodes/dmc/data/request-status/)
 - [IRIS Message Center](http://ds.iris.edu/message-center/)
+- [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
+- [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 - [IRIS Synthetics Engine](http://service.iris.edu/irisws/syngine/1/)
 - [Wilber 3](http://ds.iris.edu/wilber3/): Request waveform of single event
 
