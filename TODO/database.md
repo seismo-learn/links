@@ -152,16 +152,6 @@ slug: database
     - [Global heat flow database](https://ihfc-iugg.org/products/global-heat-flow-database)
     - [Global surface heat flow database (version of 2012)](http://www.lithosphere.info/downloads.html)
 
-## Arrival Time/Phase Data
-
-- [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals)
-- JMA Arrival Time Data: The difference between those two data needs to be confirmed further
-    - [JMA Arrival Time Data](https://hinetwww11.bosai.go.jp/auth/JMA/?LANG=en): Arrival time data based on JMA Unified Hypocenter Catalog | [Chinese download note](https://blog.seisman.info/trash/hinet-arrival-time-and-focal-mechanism-catalog)
-    - [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html): Arrival time data based on the Seismological Bulletin of Japan
-- [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
-- [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
-
-
 ## Data Centers/Networks/Waveforms
 
 ### Global

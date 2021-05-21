@@ -78,9 +78,9 @@ toc: true
 ## Arrival Time/Phase Data
 
 - [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals/)
+- [中国台网震相数据](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zgtwzx)
+- [中国国家台网震相数据](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_gjtwzx)
 - [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html)
-- [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
-- [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
 
 ## Seismic waveforms
 
@@ -98,7 +98,6 @@ toc: true
 - [Canadian National Seismic Network](http://www.earthquakescanada.nrcan.gc.ca/stndon/CNSN-RNSC/index-eng.php)
 - [中国地震科学探测台站数据中心](http://www.chinarraydmc.org/)
 - [国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
-
 
 ## Old Analog Seismograms
 
