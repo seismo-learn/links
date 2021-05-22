@@ -162,8 +162,10 @@ toc: true
 ### Fault Database
 
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
-- [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): Database of active faults and associated features (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone |
-  [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1)
+- [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap) |
+  [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1):
+  Database of active faults and associated features
+  (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone
 
 ### Sediment Database
 
@@ -178,5 +180,6 @@ toc: true
 
 ## Geographical Database
 
-- [GADM](https://gadm.org): Database of Global Administrative Areas |
-  [Chinese introduction](https://docs.gmt-china.org/latest/dataset/gadm/)
+- [GADM](https://gadm.org) |
+  [Chinese introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
+  Database of Global Administrative Areas 
