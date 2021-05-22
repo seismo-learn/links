@@ -7,7 +7,6 @@ toc: true
 
 ### General Tools
 
-- [Google Maps API](https://developers.google.com/maps/get-started/)
 - [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
 - [Periodic Table of Elements](https://www.ptable.com)
 
