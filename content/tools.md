@@ -14,7 +14,7 @@ toc: true
 ### Seismology
 
 - [Animations of the free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
-- [IRIS-DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations
+- [IRIS DMC MetaData Aggregator](http://ds.iris.edu/mda2/): View information of all stations
 - [IRIS GMAP](http://ds.iris.edu/gmap/): View stations on Google Maps
 - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)

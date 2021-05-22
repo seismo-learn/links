@@ -1,13 +1,3 @@
----
-title: "Database"
-date: 2020-05-10
-lastmod: 2020-05-10
-author: core-man
-draft: false
-categories: ["Geoscience database"]
-slug: database
----
-
 
 ## Comprehensive Databases and Models
 
@@ -46,28 +36,21 @@ slug: database
     - [ShakeMovieSynthetics](http://ds.iris.edu/ds/products/shakemoviesynthetics): 1D & 3D synthetic seismograms from the Global ShakeMovie project
     - [syngine](http://ds.iris.edu/ds/products/syngine): A webservice quickly returning synthetic seismograms calculate by 3D AxiSEM,  using [Instaseis](http://instaseis.net) | [Chinese introduction](https://blog.seisman.info/iris-syngine)
 - [Seismo Archives](http://ds.iris.edu/seismo-archives): Scanned Seismograms from Historical Earthquakes
-- Receiver function
-    - [EARS](http://ds.iris.edu/ds/products/ears): EarthScope Automated Receiver Survey at IRIS Products
-    - [GLImER](http://stephanerondenay.com/glimer-map/map.html): A global RF dataset
 - Shear-wave splitting
     - [SWS-DBs](http://ds.iris.edu/ds/products/sws-dbs): Shear-wave splitting databases at IRIS Products
     - [SplittingDataBase](http://splitting.gm.univ-montp2.fr/DB/index.html): A global shear-wave splitting database
     - [Automated Splitting Project](http://www.isc.ac.uk/SKS): Shear-wave splitting database at ISC
 - Surface-wave dispersion
-    - [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei): Western US Ambient Noise Cross-Correlations
     - [Global Dispersion Model GDM52](https://www.ldeo.columbia.edu/~ekstrom/Projects/SWP): Columbia University
     - [Global Surface Wave Dispersion Maps](http://ciei.colorado.edu/DispMaps): University of Colorado, Boulder
     - [China/Tibet Surface Wave Dispersion Maps](http://ciei.colorado.edu/DispMaps): University of Colorado, Boulder
     - [USArray Phase-Velocity Maps USANT12](https://www.ldeo.columbia.edu/~ekstrom/Projects/ANT/USANT12.html): Columbia University
-    - [ASWMS](http://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System and surface-wave dispersion data at IRIS Products
 
 
 ### Models
 
 - [The Reference Earth Model](https://igppweb.ucsd.edu/~gabi/rem.html)
-- [China Geophysical Reference Model](http://chinageorefmodel.org)
 - [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model | [European Seismological Reference Model](http://eurorem.bo.ingv.it/)
-- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): Australian Seismological Reference Model AuSREM
 - [AusPass](http://auspass.edu.au/research.html): Australian Passive Seismic Server Research Data Products
 - [Irina M. Artemieva's crust models](http://www.lithosphere.info/downloads.html)
 - 1D model
@@ -79,31 +62,14 @@ slug: database
     - [Global 3-D Seismic Tomography](https://www-gs.llnl.gov/nuclear-threat-reduction/nuclear-explosion-monitoring/global-3d-seismic-tomography)
     - [GAP_P4](http://www.jamstec.go.jp/pacific21/google_earth/en/kmlgenerator/tomography.html)
     - [UU-P07](http://www.atlas-of-the-underworld.org/uu-p07-model/)
-- Slab
-    - [Slab1.0](https://earthquake.usgs.gov/data/slab/index.php)
-    - [Slab2](https://github.com/usgs/slab2): [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) | [Slab2 model](https://cmerwebmap.cr.usgs.gov/catalog/item/5aa1b00ee4b0b1c392e86467)
-
 
 
 ## Geological Databases
-
-- [全国地质资料馆(中国)](http://www.ngac.org.cn/Distribute/List)
-- [One Geology: Providing geoscience data globally](http://portal.onegeology.org/OnegeologyGlobal)
-- Volcanic Data
-    - [NOAA Volcanic Data and Information](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
-    - [Volcano Discovery](https://www.volcanodiscovery.com)
-    - [Global Volcanism Program](https://volcano.si.edu)
-- Sediment
-    - [A Global Digital map of Sediment Thickness](https://igppweb.ucsd.edu/~gabi/sediment.html): Used in the CRUST1.0 model
-    - [Sediment Thickness of the World's Oceans and Marginal Seas](https://www.ngdc.noaa.gov/mgg/sedthick)
-
-
 
 ### Faults
 
 - [Global Earthquake Model Foundation's Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults): [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) | [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap)
     - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA): [Brief Introduction](http://rocksandwater.net/blog/2012/10/ata-announcement)
-    - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1)
 - [中国地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
 - [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc): [介绍](https://mp.weixin.qq.com/s/AELV6yNFjeO0y55VgoImzg)
 - [USGS Hazard Assessment Data and Models](https://earthquake.usgs.gov/data/data.php#model): Faults and Folds
@@ -116,7 +82,6 @@ slug: database
 - Geography
     - [GSHHG](http://www.soest.hawaii.edu/wessel/gshhg): A Global Self-consistent, Hierarchical, High-resolution Geography Database | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gshhg)
     - [The Digital Chart of the World for GMT 5 or later](http://www.soest.hawaii.edu/wessel/dcw) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/dcw/#)
-    - [Database of Global Administrative Areas](http://www.gadm.org): [Chinese Introduction](https://blog.seisman.info/china-administrative-areas-data) | [GMT中文社区](https://docs.gmt-china.org/latest/dataset/gadm)
     - [National Catalogue Service for Geographic Information](http://www.webmap.cn/main.do?method=index): [Chinese Introduction](https://gmt-china.org/blog/national-geographic-database)
     - GMT中文社区数据: [中国地学数据集](https://docs.gmt-china.org/latest/dataset-CN/) | [中国地学数据](https://gmt-china.org/data)
         - [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
@@ -151,6 +116,7 @@ slug: database
 - Heat flow
     - [Global heat flow database](https://ihfc-iugg.org/products/global-heat-flow-database)
     - [Global surface heat flow database (version of 2012)](http://www.lithosphere.info/downloads.html)
+
 
 ## Data Centers/Networks/Waveforms
 
@@ -200,11 +166,4 @@ slug: database
 
 - [AusPass](http://auspass.edu.au/index.html): the Australian Passive Seismic Server
 - [GeoNet](https://www.geonet.org.nz/): Geological hazard information for New Zealand
-
-
-
-## Revision history
-
-- 2019-12-25: update some links, commit to SeisMan
-- 2019-10-20: initial draft, reference to [SeisMan's links](https://link.seisman.info)
 
