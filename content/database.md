@@ -118,10 +118,10 @@ toc: true
 
 ### Receiver Function
 
-- [EARS](http://ds.iris.edu/ds/products/ears/): **E**\ arthScope **A**\ utomated
-  **R**\ eceiver **S**\ urvey
-- [GLImER](http://www.stephanerondenay.com/glimer-web.html): **G**\ lobal
-  **L**\ ithospheric **Im**\ aging using **E**\ arthquake **R**\ ecordings
+- [EARS](http://ds.iris.edu/ds/products/ears/): **E**arthScope **A**utomated
+  **R**eceiver **S**urvey
+- [GLImER](http://www.stephanerondenay.com/glimer-web.html): **G**lobal
+  **L**ithospheric **Im**aging using **E**arthquake **R**ecordings
   (teleseismic receiver functions)
 
 ### Shear-wave Splitting
@@ -145,8 +145,8 @@ toc: true
 
 - [IRIS Earth Model Collaboration](http://ds.iris.edu/ds/products/emc/)
 - [中国区域地震学参考模型](http://chinageorefmodel.org)
-- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**\ stralian
-  **S**\ eismological **Re**\ ference **M**\ odel
+- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**stralian
+  **S**eismological **Re**ference **M**odel
 - [Slab2 model](https://cmerwebmap.cr.usgs.gov/catalog/item/5aa1b00ee4b0b1c392e86467):
   A Comprehensive Subduction Zone Geometry Model |
   [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) |
