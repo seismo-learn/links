@@ -53,7 +53,7 @@ toc: true
 - [World Tremor Database](http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html)
 - [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
 
-## Focal Mechanism Catalog
+### Focal Mechanism Catalog
 
 - [Global Centroid-Moment-Tensor (CMT)](http://www.globalcmt.org/) |
   [Catalog Search](https://www.globalcmt.org/CMTsearch.html) |
@@ -75,52 +75,108 @@ toc: true
 - [European-Mediterranean Seismological Centre Moment Tensors Solutions](https://www.emsc-csem.org/Earthquake/index_tensors.php)
 - [Italy Moment Tensor Catalog](http://cnt.rm.ingv.it/en/tdmt)
 
-## Arrival Time/Phase Data
+### Earthquake Arrival Time/Phase Data
 
 - [ISC Arrival Time Data](http://www.isc.ac.uk/iscbulletin/search/arrivals/)
 - [中国台网震相数据](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zgtwzx)
 - [中国国家台网震相数据](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_gjtwzx)
 - [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html)
 
-## Seismic waveforms
+## Seismic Data Centers/Networks
+
+### Global Data Centers/Networks
 
 - [FDSN Network Codes](http://www.fdsn.org/networks/): Network codes assigned by
   the FDSN to facilitate unique identifiers for seismological data streams
-- [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/webservices/datacenters/)
+- [FDSN Web Services: Supporting Data Centers](http://www.fdsn.org/webservices/datacenters/)
 - [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/)
-- [AusPass](http://auspass.edu.au/): Australian Passive Seismic Server
+- [Observatories & Research Facilities for European Seismology (ORFEUS)](http://www.orfeus-eu.org/)
+
+### Regional Data Centers/Networks
+
+- [中国地震学科数据中心：国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
+- [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/)
 - [NIED Hi-net](http://www.hinet.bosai.go.jp/)
 - [NIED F-net](http://www.fnet.bosai.go.jp/)
-- [NIED K-net, KiK-net](http://www.kyoshin.bosai.go.jp/)
+- [NIED K-net and KiK-net](http://www.kyoshin.bosai.go.jp/)
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
+- [Alaska Earthquake Center](http://earthquake.alaska.edu/)
 - [Northern California Earthquake Data Center](http://www.ncedc.org/)
-- [Southern California Seismic Network](http://www.scsn.org)
-- [Southern California Seismic Network at Caltech](http://scedc.caltech.edu/)
+- [Southern California Seismic Network](http://www.scsn.org) |
+  [Southern California Earthquake Data Center](http://scedc.caltech.edu/)
 - [Pacific Northwest Seismic Network](http://pnsn.org/)
-- [Alaska Earthquake Information Center](http://www.aeic.alaska.edu/)
-- [Canadian National Seismic Network](http://www.earthquakescanada.nrcan.gc.ca/stndon/CNSN-RNSC/index-eng.php)
-- [中国地震科学探测台站数据中心](http://www.chinarraydmc.org/)
-- [国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
+- [Canadian Seismic Stations and Data](https://www.earthquakescanada.nrcan.gc.ca/stndon/index-en.php)
+- [European Plate Observing System (Norway): Seismological Data Services](https://epos-no.uib.no/#/data-services/seismology)
+- [Australian Passive Seismic Server: Data Portal](http://auspass.edu.au/data.html)
 
-## Old Analog Seismograms
+### Analog Seismograms
 
-- [Scanned Seismograms from Historical Earthquakes](http://ds.iris.edu/seismo/)
 - [Borovoye Archive Data from Underground Nuclear Tests](https://www.ldeo.columbia.edu/res/pi/Monitoring/Arch/BRV_arch_deglitched.html)
+- [Scanned Seismograms from Historical Earthquakes](http://ds.iris.edu/seismo/)
 
-## Other Database
+## Seismological Database
 
-- [Central Asia Fault Database](http://www.geo.uni-tuebingen.de/projekte/openfaults/)
-- [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): Database of active faults and associated features (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone.
+### Receiver Function
+
+- [EARS](http://ds.iris.edu/ds/products/ears/): **E**\ arthScope **A**\ utomated
+  **R**\ eceiver **S**\ urvey
+- [GLImER](http://www.stephanerondenay.com/glimer-web.html): **G**\ lobal
+  **L**\ ithospheric **Im**\ aging using **E**\ arthquake **R**\ ecordings
+  (teleseismic receiver functions)
+
+### Shear-wave Splitting
+
 - [Shear-wave splitting database](http://splitting.gm.univ-montp2.fr/DB/index.html)
-- [Volcanos Datas](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
-- [GLImER](http://stephanerondenay.com/glimermap/): Global database of teleseismic receiver functions
-- [EARS](http://ds.iris.edu/ds/products/ears/): Receiver function database for EarthScope stations
-- [GADM](https://gadm.org): Database of Global Administrative Areas
-- [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/): An ambient noise cross-correlation based database of empirical Green's functions (EGFs) of the Western US using USArray TA data.
-- [Source Time Function](http://ds.iris.edu/spud/sourcetimefunction)
-- [Earth Model](http://ds.iris.edu/ds/products/emc/)
-- [Slab Model for Subduction Zones](http://earthquake.usgs.gov/data/slab/)
+
+### Surface wave Dispersion
+
+- [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/):
+  An ambient noise cross-correlation based database of empirical Green's functions
+  (EGFs) of the Western US using USArray Transportable Array (TA) data
+- [Automated Surface Wave Phase Velocity Measuring System (ASWMS)](http://ds.iris.edu/ds/products/aswms):
+  USArray and Alaska surface wave tomography maps using ASWMS
+
+### Seismic Source Database
+
+- [Source Time Function](http://ds.iris.edu/ds/products/sourcetimefunction/):
+  Short-arc Rayleigh wave source-time functions
+
+## Seismological Models
+
+- [IRIS Earth Model Collaboration](http://ds.iris.edu/ds/products/emc/)
+- [中国区域地震学参考模型](http://chinageorefmodel.org)
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**\ stralian
   **S**\ eismological **Re**\ ference **M**\ odel
-- [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
+- [Slab2 model](https://cmerwebmap.cr.usgs.gov/catalog/item/5aa1b00ee4b0b1c392e86467):
+  A Comprehensive Subduction Zone Geometry Model |
+  [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) |
+  [Codes](https://github.com/usgs/slab2)
+
+## Geological Database
+
+### General Database
+
 - [中国全国地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
+- [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
+
+### Fault Database
+
+- [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
+- [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): Database of active faults and associated features (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone |
+  [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1)
+
+### Sediment Database
+
+- [A Global Digital map of Sediment Thickness](https://igppweb.ucsd.edu/~gabi/sediment.html)
+- [Sediment Thickness of the World's Oceans and Marginal Seas](https://www.ngdc.noaa.gov/mgg/sedthick)
+
+### Volcano Database
+
+- [Global Volcanism Program](https://volcano.si.edu)
+- [NOAA Volcanic Data and Information](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
+- [Volcano Discovery](https://www.volcanodiscovery.com)
+
+## Geographical Database
+
+- [GADM](https://gadm.org): Database of Global Administrative Areas |
+  [Chinese introduction](https://docs.gmt-china.org/latest/dataset/gadm/)
