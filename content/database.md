@@ -152,8 +152,8 @@ toc: true
 
 ### Receiver Function
 
-- [EARS](http://ds.iris.edu/ds/products/ears/): **E**arthScope **A**utomated
-  **R**eceiver **S**urvey
+- [IRIS Products: EARS](http://ds.iris.edu/ds/products/ears/):
+  **E**arthScope **A**utomated **R**eceiver **S**urvey
 - [GLImER](http://www.stephanerondenay.com/glimer-web.html): **G**lobal
   **L**ithospheric **Im**aging using **E**arthquake **R**ecordings
   (teleseismic receiver functions)
@@ -169,16 +169,16 @@ toc: true
 
 - [Dispersion Maps](http://ciei.colorado.edu/DispMaps) by University of Colorado, Boulder
 - [Global Dispersion Model GDM52](https://www.ldeo.columbia.edu/~ekstrom/Projects/SWP)
-- [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/):
+- [IRIS Products: ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/):
   An ambient noise cross-correlation based database of empirical Green's functions
   (EGFs) of the Western US using USArray Transportable Array (TA) data
-- [Automated Surface Wave Phase Velocity Measuring System (ASWMS)](http://ds.iris.edu/ds/products/aswms):
+- [IRIS Products: Automated Surface Wave Phase Velocity Measuring System (ASWMS)](http://ds.iris.edu/ds/products/aswms):
   USArray and Alaska surface wave tomography maps using ASWMS
 - [USArray Phase-Velocity Maps USANT12](https://www.ldeo.columbia.edu/~ekstrom/Projects/ANT/USANT12.html)
 
 ### Seismic Source Database
 
-- [Source Time Function](http://ds.iris.edu/ds/products/sourcetimefunction/):
+- [IRIS Products: Source Time Function](http://ds.iris.edu/ds/products/sourcetimefunction/):
   Short-arc Rayleigh wave source-time functions
 
 ### Seismic Data Products
@@ -192,10 +192,35 @@ toc: true
 
 ## Seismological Models
 
-- [IRIS Earth Model Collaboration](http://ds.iris.edu/ds/products/emc/)
+### Global and Reginal Reference Seismological Models
+
+- [IRIS Earth Model Collaboration (EMC)](http://ds.iris.edu/ds/products/emc/)
+- [The Reference Earth Model](https://igppweb.ucsd.edu/~gabi/rem.html)
+- [Regional Crustal Models](http://www.lithosphere.info/downloads.html) by Irina M. Artemieva
+- [Shear-wave Velocity Models](http://ciei.colorado.edu/Models) by University of Colorado, Boulder
 - [中国区域地震学参考模型](http://chinageorefmodel.org)
-- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): **Au**stralian
-  **S**eismological **Re**ference **M**odel
+- [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model
+- [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php):
+  **Au**stralian **S**eismological **Re**ference **M**odel
+- [AusPass](http://auspass.edu.au/research.html): Australian Passive Seismic
+  Server Research Data Products
+
+### 1D Reference Seismological Models
+
+- [IRIS EMC: Reference Earth Models](http://ds.iris.edu/ds/products/emc-referencemodels)
+- [TauP: Standard Models](https://www.seis.sc.edu/taup): The **StdModels**
+  folder in the source contain a few 1D models (e.g., PREM, AK135, iasp91)
+- [AK135: model, travletime tables, plots and software](http://rses.anu.edu.au/seismology/ak135/intro.html) |
+  [Traveltime tables and ellipticity corrections](http://rses.anu.edu.au/seismology/AK135tables.pdf) with the ellipticity correction method for iasp91
+
+### 3D Body Wave Tomographic Models
+
+- [Lawrence Livermore National Laboratory: Global 3-D Seismic Tomography](https://www-gs.llnl.gov/nuclear-threat-reduction/nuclear-explosion-monitoring/global-3d-seismic-tomography)
+- [GAP_P4](http://www.jamstec.go.jp/pacific21/google_earth/en/kmlgenerator/tomography.html)
+- [UU-P07](http://www.atlas-of-the-underworld.org/uu-p07-model/)
+
+### Subduction Zone Models
+
 - [Slab2](https://cmerwebmap.cr.usgs.gov/catalog/item/5aa1b00ee4b0b1c392e86467) |
   [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) |
   [Codes](https://github.com/usgs/slab2):
