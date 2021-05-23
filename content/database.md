@@ -115,7 +115,7 @@ toc: true
   [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/)
 - [台灣中央研究院地球科學研究所：强震和移动地震台网](https://www.earth.sinica.edu.tw/content/labs/slab/smdmc/index.htm)
 - [Hi-net](http://www.hinet.bosai.go.jp/) | [F-net](http://www.fnet.bosai.go.jp/) |
-- [K-net and KiK-net](http://www.kyoshin.bosai.go.jp/):
+  [K-net and KiK-net](http://www.kyoshin.bosai.go.jp/):
   National Research Institute for Earth Science and Disaster Resilience (NIED) networks
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
 - [OHP DMC](http://ohpdmc.eri.u-tokyo.ac.jp/):
