@@ -112,8 +112,8 @@ toc: true
 - [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/)
 - [中国地震科学实验场](http://www.cses.ac.cn)
 - [台灣地震科學中心](https://tec.earth.sinica.edu.tw/index.php) |
-  [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/) |
-- [Strong Motion and Mobile Seismic Networks](https://www.earth.sinica.edu.tw/content/labs/slab/smdmc/index.htm)
+  [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/)
+- [台灣中央研究院地球科學研究所：强震和移动地震台网](https://www.earth.sinica.edu.tw/content/labs/slab/smdmc/index.htm)
 - [NIED Hi-net](http://www.hinet.bosai.go.jp/)
 - [NIED F-net](http://www.fnet.bosai.go.jp/)
 - [NIED K-net and KiK-net](http://www.kyoshin.bosai.go.jp/)
