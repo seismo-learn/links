@@ -213,6 +213,5 @@ toc: true
 
 ## Geographical Database
 
-- [GADM](https://gadm.org) |
-  [Chinese introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
+- [GADM](https://gadm.org) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
   Database of Global Administrative Areas 
