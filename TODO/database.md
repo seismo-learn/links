@@ -25,25 +25,6 @@
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html): [介绍](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491776&amp;idx=1&amp;sn=e04a2c294d65a125d6d2706bce21b898&source=41#wechat_redirect)
 
 
-## Seismic Databases and Models
-
-### Models
-
-- [The Reference Earth Model](https://igppweb.ucsd.edu/~gabi/rem.html)
-- [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model | [European Seismological Reference Model](http://eurorem.bo.ingv.it/)
-- [AusPass](http://auspass.edu.au/research.html): Australian Passive Seismic Server Research Data Products
-- [Irina M. Artemieva's crust models](http://www.lithosphere.info/downloads.html)
-- 1D model
-    - [Taup](https://www.seis.sc.edu/taup): *StdModels* contain many 1D models, e.g., PREM, AK135, iasp91 etc.
-    - [IRIS EMC](http://ds.iris.edu/ds/products/emc-referencemodels): IRIS EMC - Reference Earth Models
-    - AK135: [model, travletime tables, plots and software](http://rses.anu.edu.au/seismology/ak135/intro.html) | [traveltime tables and ellipticity corrections](http://rses.anu.edu.au/seismology/AK135tables.pdf) with the ellipticity correction method for iasp91
-- [3D shear-wave velocity models from CU-Boulder](http://ciei.colorado.edu/Models)
-- 3D body-wave tomographic models
-    - [Global 3-D Seismic Tomography](https://www-gs.llnl.gov/nuclear-threat-reduction/nuclear-explosion-monitoring/global-3d-seismic-tomography)
-    - [GAP_P4](http://www.jamstec.go.jp/pacific21/google_earth/en/kmlgenerator/tomography.html)
-    - [UU-P07](http://www.atlas-of-the-underworld.org/uu-p07-model/)
-
-
 ## Geological Databases
 
 ### Faults
