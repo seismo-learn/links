@@ -199,8 +199,7 @@ toc: true
 - [Regional Crustal Models](http://www.lithosphere.info/downloads.html) by Irina M. Artemieva
 - [Shear-wave Velocity Models](http://ciei.colorado.edu/Models) by University of Colorado, Boulder
 - [中国区域地震学参考模型](http://chinageorefmodel.org)
-- [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar):
-- A new European crustal model
+- [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php):
   **Au**stralian **S**eismological **Re**ference **M**odel
 - [AusPass](http://auspass.edu.au/research.html): Australian Passive Seismic
