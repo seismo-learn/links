@@ -27,26 +27,6 @@
 
 ## Seismic Databases and Models
 
-### Databases
-
-- [IRIS Data Services Products](http://ds.iris.edu/ds/products)
-    - [globalstacks](http://ds.iris.edu/ds/products/globalstacks): Global stacks of millions of seismograms
-    - [SeisSound](http://ds.iris.edu/ds/products/seissound): The Audio/Video Seismic Waveform Visualization
-    - [SourceTimeFunction](http://ds.iris.edu/ds/products/sourcetimefunction): Short-arc Rayleigh wave source-time functions
-    - [ShakeMovieSynthetics](http://ds.iris.edu/ds/products/shakemoviesynthetics): 1D & 3D synthetic seismograms from the Global ShakeMovie project
-    - [syngine](http://ds.iris.edu/ds/products/syngine): A webservice quickly returning synthetic seismograms calculate by 3D AxiSEM,  using [Instaseis](http://instaseis.net) | [Chinese introduction](https://blog.seisman.info/iris-syngine)
-- [Seismo Archives](http://ds.iris.edu/seismo-archives): Scanned Seismograms from Historical Earthquakes
-- Shear-wave splitting
-    - [SWS-DBs](http://ds.iris.edu/ds/products/sws-dbs): Shear-wave splitting databases at IRIS Products
-    - [SplittingDataBase](http://splitting.gm.univ-montp2.fr/DB/index.html): A global shear-wave splitting database
-    - [Automated Splitting Project](http://www.isc.ac.uk/SKS): Shear-wave splitting database at ISC
-- Surface-wave dispersion
-    - [Global Dispersion Model GDM52](https://www.ldeo.columbia.edu/~ekstrom/Projects/SWP): Columbia University
-    - [Global Surface Wave Dispersion Maps](http://ciei.colorado.edu/DispMaps): University of Colorado, Boulder
-    - [China/Tibet Surface Wave Dispersion Maps](http://ciei.colorado.edu/DispMaps): University of Colorado, Boulder
-    - [USArray Phase-Velocity Maps USANT12](https://www.ldeo.columbia.edu/~ekstrom/Projects/ANT/USANT12.html): Columbia University
-
-
 ### Models
 
 - [The Reference Earth Model](https://igppweb.ucsd.edu/~gabi/rem.html)
