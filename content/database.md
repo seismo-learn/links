@@ -91,8 +91,6 @@ toc: true
 - [FDSN Network Codes](http://www.fdsn.org/networks/): Network codes assigned by
   the FDSN to facilitate unique identifiers for seismological data streams
 - [FDSN Web Services: Supporting Data Centers](http://www.fdsn.org/webservices/datacenters/)
-- [IRIS](https://www.iris.edu/hq): **I**ncorporated **R**esearch **I**nstitutions
-  for **S**eismology
 - [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/): IRIS **D**ata **M**anagement **C**enter
 - [IRIS GMap](http://ds.iris.edu/gmap/): Displays networks and stations on an
   interactive Google Map
@@ -255,4 +253,4 @@ toc: true
 ## Geographical Database
 
 - [GADM](https://gadm.org) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
-  Database of Global Administrative Areas 
+  Database of Global Administrative Areas
