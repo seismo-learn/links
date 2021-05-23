@@ -86,28 +86,61 @@ toc: true
 
 ### Global Data Centers/Networks
 
+- [FDSN](http://www.fdsn.org/about): International **F**ederation of **D**igital
+  **S**eismograph **N**etworks
 - [FDSN Network Codes](http://www.fdsn.org/networks/): Network codes assigned by
   the FDSN to facilitate unique identifiers for seismological data streams
 - [FDSN Web Services: Supporting Data Centers](http://www.fdsn.org/webservices/datacenters/)
-- [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/)
-- [Observatories & Research Facilities for European Seismology (ORFEUS)](http://www.orfeus-eu.org/)
+- [IRIS](https://www.iris.edu/hq): **I**ncorporated **R**esearch **I**nstitutions
+  for **S**eismology
+- [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/): IRIS **D**ata **M**anagement **C**enter
+- [IRIS GMap](http://ds.iris.edu/gmap/): Displays networks and stations on an
+  interactive Google Map
+- [IRIS MDA](http://ds.iris.edu/mda) |
+  [manual](http://ds.iris.edu/ds/nodes/dmc/manuals/mda/):
+  **M**eta**D**ata **A**ggregator provides a browsable list of all networks and stations archived at the IRIS DMC
+- [ORFEUS](http://www.orfeus-eu.org/): **O**bservatories & **R**esearch **F**acilities for **Eu**ropean **S**eismology
+- [CTBTO](https://www.ctbto.org/) | [Web Portal](https://access.ctbto.org/portal/index.html): **C**omprehensive Nuclear-**T**est-**B**an
+  **T**reaty **O**rganization
+- [CTBTO virtual Data Exploitation Centre (vDEC)](https://www.ctbto.org/specials/vdec/) |
+  [Request For Access](https://www.ctbto.org/specials/vdec/vdec-request-for-access/):
+  The vDEC provides access to seismic, hydroacoustic, infrasound and radionuclide data recorded by International Monitoring System (IMS).
 
-### Regional Data Centers/Networks
+### Asian Data Centers/Networks
 
 - [中国地震学科数据中心：国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
 - [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/)
-- [NIED Hi-net](http://www.hinet.bosai.go.jp/)
-- [NIED F-net](http://www.fnet.bosai.go.jp/)
-- [NIED K-net and KiK-net](http://www.kyoshin.bosai.go.jp/)
+- [中国地震科学实验场](http://www.cses.ac.cn)
+- [台灣地震科學中心](https://tec.earth.sinica.edu.tw/index.php) |
+  [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/)
+- [台灣中央研究院地球科學研究所：强震和移动地震台网](https://www.earth.sinica.edu.tw/content/labs/slab/smdmc/index.htm)
+- [Hi-net](http://www.hinet.bosai.go.jp/) | [F-net](http://www.fnet.bosai.go.jp/) |
+  [K-net, KiK-net](http://www.kyoshin.bosai.go.jp/):
+  National Research Institute for Earth Science and Disaster Resilience (NIED) networks
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
+- [OHP DMC](http://ohpdmc.eri.u-tokyo.ac.jp/):
+  **O**cean **H**emisphere **P**roject **D**ata **M**anagement **C**enter
+
+### North America Data Centers/Networks
+
 - [Alaska Earthquake Center](http://earthquake.alaska.edu/)
 - [Northern California Earthquake Data Center](http://www.ncedc.org/)
 - [Southern California Seismic Network](http://www.scsn.org) |
   [Southern California Earthquake Data Center](http://scedc.caltech.edu/)
 - [Pacific Northwest Seismic Network](http://pnsn.org/)
 - [Canadian Seismic Stations and Data](https://www.earthquakescanada.nrcan.gc.ca/stndon/index-en.php)
-- [European Plate Observing System (Norway): Seismological Data Services](https://epos-no.uib.no/#/data-services/seismology)
-- [Australian Passive Seismic Server: Data Portal](http://auspass.edu.au/data.html)
+
+### European Data Centers/Networks
+
+- [AlpArray](http://www.alparray.ethz.ch/en/home/)
+- [European Plate Observing System (Norway)](https://epos-no.uib.no/) |
+  [Seismological Data Services](https://epos-no.uib.no/#/data-services/seismology)
+
+### Oceanian Data Centers/Networks
+
+- [AusPass](http://auspass.edu.au/index.html) | [Data Portal](http://auspass.edu.au/data.html):
+  the **Aus**tralian **Pass**ive Seismic Server
+- [GeoNet](https://www.geonet.org.nz/): Geological hazard information for New Zealand
 
 ### Analog Seismograms
 
@@ -180,6 +213,5 @@ toc: true
 
 ## Geographical Database
 
-- [GADM](https://gadm.org) |
-  [Chinese introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
+- [GADM](https://gadm.org) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
   Database of Global Administrative Areas 
