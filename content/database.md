@@ -133,7 +133,8 @@ toc: true
 ### European Data Centers/Networks
 
 - [AlpArray](http://www.alparray.ethz.ch/en/home/)
-- [European Plate Observing System (Norway): Seismological Data Services](https://epos-no.uib.no/#/data-services/seismology)
+- [European Plate Observing System (Norway)](https://epos-no.uib.no/) |
+  [Seismological Data Services](https://epos-no.uib.no/#/data-services/seismology)
 
 ### Oceanian Data Centers/Networks
 
