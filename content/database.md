@@ -86,8 +86,6 @@ toc: true
 
 ### Global Data Centers/Networks
 
-- [FDSN](http://www.fdsn.org/about): International **F**ederation of **D**igital
-  **S**eismograph **N**etworks
 - [FDSN Network Codes](http://www.fdsn.org/networks/): Network codes assigned by
   the FDSN to facilitate unique identifiers for seismological data streams
 - [FDSN Web Services: Supporting Data Centers](http://www.fdsn.org/webservices/datacenters/)
