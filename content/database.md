@@ -114,9 +114,8 @@ toc: true
 - [台灣地震科學中心](https://tec.earth.sinica.edu.tw/index.php) |
   [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/)
 - [台灣中央研究院地球科學研究所：强震和移动地震台网](https://www.earth.sinica.edu.tw/content/labs/slab/smdmc/index.htm)
-- [NIED Hi-net](http://www.hinet.bosai.go.jp/)
-- [NIED F-net](http://www.fnet.bosai.go.jp/)
-- [NIED K-net and KiK-net](http://www.kyoshin.bosai.go.jp/)
+- [Hi-net](http://www.hinet.bosai.go.jp/) | [F-net](http://www.fnet.bosai.go.jp/) |
+- [K-net and KiK-net](http://www.kyoshin.bosai.go.jp/): NIED networks
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
 - [OHP DMC](http://ohpdmc.eri.u-tokyo.ac.jp/):
   **O**cean **H**emisphere **P**roject **D**ata **M**anagement **C**enter
