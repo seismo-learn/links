@@ -17,7 +17,6 @@ toc: true
 - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 - [IRIS Message Center](http://ds.iris.edu/message-center/)
-- [3D earthquake display](https://glowy-earthquakes.glitch.me)
 
 ## Computer
 
