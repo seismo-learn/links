@@ -145,7 +145,8 @@ toc: true
 ### Analog Seismograms
 
 - [Borovoye Archive Data from Underground Nuclear Tests](https://www.ldeo.columbia.edu/res/pi/Monitoring/Arch/BRV_arch_deglitched.html)
-- [Scanned Seismograms from Historical Earthquakes](http://ds.iris.edu/seismo/)
+- [Seismo Archives](http://ds.iris.edu/seismo-archives): Scanned Seismograms
+  from Historical Earthquakes
 
 ## Seismological Database
 
@@ -159,20 +160,35 @@ toc: true
 
 ### Shear-wave Splitting
 
-- [Shear-wave splitting database](http://splitting.gm.univ-montp2.fr/DB/index.html)
+- [IRIS Products: SWS-DBs](http://ds.iris.edu/ds/products/sws-dbs):
+  **S**hear-**w**ave **s**plitting **d**ata**b**ase**s**
+- [Automated Splitting Project](http://www.isc.ac.uk/SKS): ISC shear-wave
+  splitting database
 
 ### Surface wave Dispersion
 
+- [Dispersion Maps](http://ciei.colorado.edu/DispMaps) by University of Colorado, Boulder
+- [Global Dispersion Model GDM52](https://www.ldeo.columbia.edu/~ekstrom/Projects/SWP)
 - [ANCC-CIEI](http://ds.iris.edu/ds/products/ancc-ciei/):
   An ambient noise cross-correlation based database of empirical Green's functions
   (EGFs) of the Western US using USArray Transportable Array (TA) data
 - [Automated Surface Wave Phase Velocity Measuring System (ASWMS)](http://ds.iris.edu/ds/products/aswms):
   USArray and Alaska surface wave tomography maps using ASWMS
+- [USArray Phase-Velocity Maps USANT12](https://www.ldeo.columbia.edu/~ekstrom/Projects/ANT/USANT12.html)
 
 ### Seismic Source Database
 
 - [Source Time Function](http://ds.iris.edu/ds/products/sourcetimefunction/):
   Short-arc Rayleigh wave source-time functions
+
+### Seismic Data Products
+
+- [IRIS Products: globalstacks](http://ds.iris.edu/ds/products/globalstacks):
+  Global stacks of millions of seismograms
+- [IRIS Products: SeisSound](http://ds.iris.edu/ds/products/seissound):
+  The Audio/Video Seismic Waveform Visualization
+- [IRIS Products: ShakeMovieSynthetics](http://ds.iris.edu/ds/products/shakemoviesynthetics):
+  1D & 3D synthetic seismograms from the Global ShakeMovie project
 
 ## Seismological Models
 
