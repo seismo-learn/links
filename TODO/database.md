@@ -56,18 +56,7 @@
         - [GMT-China](https://docs.gmt-china.org/latest/dataset/PB2002/): PB2002: 全球板块边界数据
         - The original download [link](http://peterbird.name/oldFTP/PB2002) seems wrong. The dataset is now within `ALL_Bird_freeware.zip` at [http://peterbird.name/oldFTP](http://peterbird.name/oldFTP)
     - [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
-- Gravity
-    - [International Centre for Global Earth Models (ICGEM)](http://icgem.gfz-potsdam.de/home)
-    - [International Gravimetric Bureau (BGI)](http://bgi.omp.obs-mip.fr)
-    - [International Service for the Geoid (ISG)](http://www.isgeoid.polimi.it)
-    - [International Geodynamics and Earth Tide Service (IGETS)](http://igets.u-strasbg.fr)
-    - [International Digital Elevation Model Service (IDEMS)](https://idems.maps.arcgis.com/home/index.html)
-    - [International Gravity Field Service (IGFS)](http://igfs.topo.auth.gr)
-    - [EGM2008](https://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008): Earth Gravitational Model 2008
-    - [WGM2012 Earth's gravity anomalies](http://bgi.omp.obs-mip.fr/data-products/Grids-and-models/wgm2012)
-- Stress and strain
-    - [Strain Rate Model](https://gsrm2.unavco.org/intro/intro.html): [Introdution](https://storage.globalquakemodel.org/what/seismic-hazard/strain-rate-model)
-    - [Earth Global Stress Change](http://geophysics.geo.sunysb.edu/wen/resource/index.html)
+
 
 
 ## Geotherm
