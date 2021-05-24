@@ -266,6 +266,22 @@ toc: true
 - [NGA: World Geodetic System 1984 Data](https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84):
   Earth Gravitational Model (1984, 1996, 2008)
 
+### Earth Relief Database
+
+- [GMT: Global Earth Relief Grids](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-relief-grids) |
+  [GMT-China: 全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/) |
+  [全球地形起伏数据总结](https://blog.seisman.info/global-relief-models)
+- [Google Maps: Elevation API](https://developers.google.com/maps/documentation/elevation/start?hl=zh-cn) |
+  [Chinese Introduction](https://gmt-china.org/blog/google-maps-elevation-api)
+
+### Plate Boundary Models
+
+- [NUVEL](http://jules.unavco.org/GMT) |
+  [Chinese Introduction](https://blog.seisman.info/plate-boundary-datasets)
+- [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
+- [PB2002](http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm) |
+  [GMT-China: PB2002](https://docs.gmt-china.org/latest/dataset/PB2002/)
+
 ### Stress/Strain Database
 
 - [Earth Global Stress Change Database](http://geophysics.geo.sunysb.edu/wen/resource/index.html) by Lianxing Wen
