@@ -241,8 +241,10 @@ toc: true
   Database of active faults and associated features
   (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone, and
   Constituent Dataset of GEM GAF-DB
-- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) | [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
+- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
+  [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
 - [地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
+- [GMT-China: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN_faults/)
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
 - [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
 - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA) |
@@ -303,5 +305,16 @@ toc: true
 
 ## Geographical Database
 
-- [GADM](https://gadm.org) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
+- [GSHHG](https://docs.generic-mapping-tools.org/latest/datasets/gshhg.html) |
+  [GMT-China: 全球高分辨率海岸线数据](https://docs.gmt-china.org/latest/dataset/gshhg/):
+  **G**lobal **S**elf-consistent, **H**ierarchical, *H**igh-resolution **G**eography Database
+- [DCW](https://docs.generic-mapping-tools.org/latest/datasets/dcw.html) |
+  [GMT-China: 世界数字图表](https://docs.gmt-china.org/latest/dataset/dcw/):
+  The **D**igital **C**hart of the **W**orld **D**ata
+- [GADM](https://gadm.org) |
+  [GMT-China: 全球行政区划数据库](https://docs.gmt-china.org/latest/dataset/gadm/):
   Database of Global Administrative Areas
+- [全国地理信息资源目录服务系统](http://www.webmap.cn/main.do?method=index) |
+  [GMT-China: Brief Introduction](https://gmt-china.org/blog/national-geographic-database)
+- [GMT-China: 中国地学数据](https://gmt-china.org/data) |
+  [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
