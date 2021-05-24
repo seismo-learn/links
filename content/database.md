@@ -248,6 +248,46 @@ toc: true
 - [NOAA Volcanic Data and Information](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
 - [Volcano Discovery](https://www.volcanodiscovery.com)
 
+## Geodesy Database
+
+### Gravity Database
+
+- [International Gravity Field Service (IGFS)](http://igfs.topo.auth.gr)
+- [International Gravimetric Bureau (BGI)](https://bgi.obs-mip.fr/)
+  - [WGM2012](https://bgi.obs-mip.fr/data-products/grids-and-models/wgm2012-global-model/):
+    Earth's gravity anomalies (Bouguer, isostatic and surface free-air)
+  - [EGM2008](https://bgi.obs-mip.fr/data-products/grids-and-models/egm2008-global-model/):
+    Free-air and Bouguer gravity anomaly grids derived from the Earth Gravitational Model 2008
+- [International Service for the Geoid (ISG)](http://www.isgeoid.polimi.it)
+- [International Geodynamics and Earth Tide Service (IGETS)](http://igets.u-strasbg.fr)
+- [International Centre for Global Earth Models (ICGEM)](http://icgem.gfz-potsdam.de/home)
+- [International Digital Elevation Model Service (IDEMS)](https://idems.maps.arcgis.com/home/index.html)
+- [National Geospatial-Intelligence Agency (NGA)](https://earth-info.nga.mil/)
+- [NGA: World Geodetic System 1984 Data](https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84):
+  Earth Gravitational Model (1984, 1996, 2008)
+
+### Earth Relief Database
+
+- [GMT: Global Earth Relief Grids](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-relief-grids) |
+  [GMT-China: 全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/) |
+  [全球地形起伏数据总结](https://blog.seisman.info/global-relief-models)
+- [Google Maps: Elevation API](https://developers.google.com/maps/documentation/elevation/start?hl=zh-cn) |
+  [Chinese Introduction](https://gmt-china.org/blog/google-maps-elevation-api)
+
+### Plate Boundary Models
+
+- [NUVEL](http://jules.unavco.org/GMT) |
+  [Chinese Introduction](https://blog.seisman.info/plate-boundary-datasets)
+- [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
+- [PB2002](http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm) |
+  [GMT-China: PB2002](https://docs.gmt-china.org/latest/dataset/PB2002/)
+
+### Stress/Strain Database
+
+- [Earth Global Stress Change Database](http://geophysics.geo.sunysb.edu/wen/resource/index.html) by Lianxing Wen
+- [Global Earthquake Model: Strain Rate Model](https://gsrm2.unavco.org/intro/intro.html) |
+  [Introdution](https://storage.globalquakemodel.org/what/seismic-hazard/strain-rate-model)
+
 ## Geographical Database
 
 - [GADM](https://gadm.org) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gadm/):
