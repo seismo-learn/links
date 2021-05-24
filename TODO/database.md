@@ -47,17 +47,6 @@
     - GMT中文社区数据: [中国地学数据集](https://docs.gmt-china.org/latest/dataset-CN/) | [中国地学数据](https://gmt-china.org/data)
         - [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
         - [中国国界、省界及十段线](https://gmt-china.org/example/ex003)
-    - Earth Relief
-        - [Global Earth Relief Grids](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-relief-grids) | [全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/) | [全球地形起伏数据总结](https://blog.seisman.info/global-relief-models)
-        - [High-precision Altimetric Data](https://developers.google.com/maps/documentation/elevation/start?hl=zh-cn): [Chinese Introduction](https://gmt-china.org/blog/google-maps-elevation-api)
-- Plate Boundary Models: [Chinese Introduction](https://blog.seisman.info/plate-boundary-datasets)
-    - [NUVEL](http://jules.unavco.org/GMT)
-    - [PB2002](http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm)
-        - [GMT-China](https://docs.gmt-china.org/latest/dataset/PB2002/): PB2002: 全球板块边界数据
-        - The original download [link](http://peterbird.name/oldFTP/PB2002) seems wrong. The dataset is now within `ALL_Bird_freeware.zip` at [http://peterbird.name/oldFTP](http://peterbird.name/oldFTP)
-    - [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
-
-
 
 ## Geotherm
 
