@@ -24,18 +24,6 @@
 - [Ben Horner-Johnson's GMT & Geophysics Links](http://www.ruf.rice.edu/~ben/gmt.html)
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html): [介绍](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491776&amp;idx=1&amp;sn=e04a2c294d65a125d6d2706bce21b898&source=41#wechat_redirect)
 
-
-## Geographic & Geodesy Databases
-
-- [GMT Dataset Collections](https://docs.generic-mapping-tools.org/latest/datasets.html): [Chinese Docs](https://docs.gmt-china.org/latest/dataset/)
-- Geography
-    - [GSHHG](http://www.soest.hawaii.edu/wessel/gshhg): A Global Self-consistent, Hierarchical, High-resolution Geography Database | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/gshhg)
-    - [The Digital Chart of the World for GMT 5 or later](http://www.soest.hawaii.edu/wessel/dcw) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/dcw/#)
-    - [National Catalogue Service for Geographic Information](http://www.webmap.cn/main.do?method=index): [Chinese Introduction](https://gmt-china.org/blog/national-geographic-database)
-    - GMT中文社区数据: [中国地学数据集](https://docs.gmt-china.org/latest/dataset-CN/) | [中国地学数据](https://gmt-china.org/data)
-        - [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
-        - [中国国界、省界及十段线](https://gmt-china.org/example/ex003)
-
 ## Geotherm
 
 - [Global temperature datasets](https://www.nodc.noaa.gov/General/temperature.html)
