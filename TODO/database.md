@@ -25,18 +25,6 @@
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html): [介绍](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491776&amp;idx=1&amp;sn=e04a2c294d65a125d6d2706bce21b898&source=41#wechat_redirect)
 
 
-## Geological Databases
-
-### Faults
-
-- [Global Earthquake Model Foundation's Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults): [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) | [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap)
-    - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA): [Brief Introduction](http://rocksandwater.net/blog/2012/10/ata-announcement)
-- [中国地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
-- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc): [介绍](https://mp.weixin.qq.com/s/AELV6yNFjeO0y55VgoImzg)
-- [USGS Hazard Assessment Data and Models](https://earthquake.usgs.gov/data/data.php#model): Faults and Folds
-- [EFEHR: European Database of Seismogenic Faults](https://www.seismofaults.eu)
-
-
 ## Geographic & Geodesy Databases
 
 - [GMT Dataset Collections](https://docs.generic-mapping-tools.org/latest/datasets.html): [Chinese Docs](https://docs.gmt-china.org/latest/dataset/)
