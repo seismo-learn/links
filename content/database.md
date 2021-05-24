@@ -231,11 +231,24 @@ toc: true
 
 ### Fault Database
 
-- [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
+- [GEM GAF-DB](https://github.com/GEMScienceTools/gem-global-active-faults) |
+  [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) |
+  [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap):
+  **G**lobal **A**ctive **F**aults **D**ata**b**ase maintained by the
+  **G**lobal **E**arthquake **M**odel Foundation 
 - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap) |
   [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1):
   Database of active faults and associated features
-  (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone
+  (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone, and
+  Constituent Dataset of GEM GAF-DB
+- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) | [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
+- [地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
+- [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
+- [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
+- [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA) |
+  [Brief Introduction](http://rocksandwater.net/blog/2012/10/ata-announcement):
+  Constituent Dataset of GEM GAF-DB
+- [European Database of Seismogenic Faults](https://www.seismofaults.eu)
 
 ### Sediment Database
 
