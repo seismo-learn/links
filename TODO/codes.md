@@ -1,12 +1,3 @@
----
-title: "Codes"
-date: 2020-03-15
-lastmod: 2020-03-15
-author: core-man
-draft: false
-categories: ["Geoscience code"]
-slug: codes
----
 
 ## Seismic Data Downloading and Processing
 
@@ -760,29 +751,3 @@ slug: codes
 
 - [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
     - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
-
-
-----------------------
-## Earth Science Software Centers
-
-- [IRIS SeisCode](https://seiscode.iris.washington.edu)
-- [CIG Software](https://geodynamics.org/cig/software)
-- [iEarth](http://www.iearth.edu.au)
-- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software) (In the Australian National University)
-- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
-- [USC Software](http://www.seis.sc.edu/software.html)
-- [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
-- [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software) | [Old website](https://earthquake.usgs.gov/research/software)
-- [SPICE Software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
-- [QUEST Software](http://www.quest-itn.org/library/software)
-- [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
-- [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
-- [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
-- [MTNet](http://www.mtnet.info/main/source.html): source codes in electromagnetic community
-
-
-## Revision history
-
-- 2019-12-25: update some links，commit to  SeisMan
-- 2019-11-07: initial draft, reference to [SeisMan's links](https://link.seisman.info)
-
