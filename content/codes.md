@@ -475,16 +475,20 @@ toc: true
 
 ## Software centers
 
-- [IRIS SeisCode](https://seiscode.iris.washington.edu)
-- [CIG Software](https://geodynamics.org/cig/software)
-- [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software) | [Old website](https://earthquake.usgs.gov/research/software)
-- [SPICE Software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
-- [QUEST Software](http://www.quest-itn.org/library/software)
-- [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
-- [iEarth](http://www.iearth.edu.au)
-- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software) (In the Australian National University)
-- [USC Software](http://www.seis.sc.edu/software.html)
-- [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
-- [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
-- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software)
+- [Computational Infrastructure for Geodynamics (CIG): Software](https://geodynamics.org/cig/software)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
+- [ETH Seismology and Geodynamics: Software](https://seg.ethz.ch/software.html)
+- [Geophysical institut of the Karlsruhe Institute of Technology: Software](https://git.scc.kit.edu/GPIAG-Software)
+- [GFZ: Wave Physics and Tool](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
+- [iEarth](http://www.iearth.edu.au): A consortium of scientists from the university,
+  government and industry sectors with interests in the development and application
+  of inversion methodologies for the Earth Sciences
+- [IRIS SeisCode](https://seiscode.iris.washington.edu)
+- [MTNet](http://www.mtnet.info/main/source.html): Source codes in the electromagnetic community
+- [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
+- [QUantitative Estimation of Earth's Seismic Sources and STructure (QUEST): Software](http://www.quest-itn.org/library/software)
+- [Seismic wave Propagation and Imaging in Complex media: a European network (SPICE) software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
+- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software)
+  (In the Australian National University)
+- [University of South Carolina: Software](http://www.seis.sc.edu/software.html)
+- [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
