@@ -185,14 +185,23 @@ toc: true
   The Audio/Video Seismic Waveform Visualization
 - [IRIS Products: ShakeMovieSynthetics](http://ds.iris.edu/ds/products/shakemoviesynthetics):
   1D & 3D synthetic seismograms from the Global ShakeMovie project
+- [European Facilities for Earthquake Hazard and Risk (EFEHR): Services and Partners](http://www.efehr.org/en/efehr/Services-and-Partners)
 
 ## Seismological Models
 
 ### Global and Reginal Reference Seismological Models
 
-- [IRIS Earth Model Collaboration (EMC)](http://ds.iris.edu/ds/products/emc/)
+- [IRIS Earth Model Collaboration (EMC)](http://ds.iris.edu/ds/products/emc/) |
+  [Web Service](http://service.iris.edu/irisws/earth-model/1/)
 - [The Reference Earth Model](https://igppweb.ucsd.edu/~gabi/rem.html)
-- [Regional Crustal Models](http://www.lithosphere.info/downloads.html) by Irina M. Artemieva
+- [Crust1.0](https://igppweb.ucsd.edu/~gabi/crust1.html) |
+  [Chinese Introduction](https://blog.seisman.info/crust1):
+  A New Global Crustal Model at 1x1 Degrees
+- [LITHO1.0](https://igppweb.ucsd.edu/~gabi/litho1.0.html):
+  An updated crust and lithospheric model of the Earth
+- [LithoRef18](https://www.juanafonso.com/software):
+  A global reference model of the lithosphere and upper mantle
+- [Some regional Crustal Models](http://www.lithosphere.info/downloads.html) by Irina M. Artemieva
 - [Shear-wave Velocity Models](http://ciei.colorado.edu/Models) by University of Colorado, Boulder
 - [中国区域地震学参考模型](http://chinageorefmodel.org)
 - [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model
@@ -221,6 +230,25 @@ toc: true
   [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) |
   [Codes](https://github.com/usgs/slab2):
   A Comprehensive Subduction Zone Geometry Model
+
+## Geoscience Database/Models
+
+- [地质专业知识服务系统](http://geol.ckcest.cn/index.html) |
+  [3.0 版本介绍](http://www.cgl.cgs.gov.cn/gzdt_4169/dwdt_4172/202103/t20210330_666996.html)
+- [USGS Earthquake Hazards Program: Data and Tools](https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools)
+- [National Geophysical Data Center (NGDC)](https://www.ngdc.noaa.gov) |
+  [Data and Products](https://www.ngdc.noaa.gov/ngdcinfo/onlineaccess.html):
+  NGDC and its sister data centers are merged into the NCEI
+- [National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov) |
+  [Data](https://www.ncei.noaa.gov/access)
+- [EarthByte: Data and Models](https://www.earthbyte.org/category/resources/data-models/)
+  - [Seafloor Age](https://www.earthbyte.org/category/resources/data-models/seafloor-age/) |
+    [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age) |
+    [GMT](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-seafloor-crustal-age-grids) |
+    [GMT-China](https://docs.gmt-china.org/latest/dataset/earth-age/)
+- [Earth Models](http://www.earthmodels.org/): A platform to store and exchange
+  modeling tools and data sets related to the Earth
+- [Subduction Zone Initiation Database](https://www.szidatabase.org/data)
 
 ## Geological Database
 
