@@ -100,7 +100,7 @@ toc: true
   **T**reaty **O**rganization
 - [CTBTO virtual Data Exploitation Centre (vDEC)](https://www.ctbto.org/specials/vdec/) |
   [Request For Access](https://www.ctbto.org/specials/vdec/vdec-request-for-access/):
-  The vDEC provides access to seismic, hydroacoustic, infrasound and radionuclide data recorded by International Monitoring System (IMS).
+  The vDEC provides access to seismic, hydroacoustic, infrasound and radionuclide data recorded by International Monitoring System (IMS)
 
 ### Asian Data Centers/Networks
 
@@ -307,7 +307,7 @@ toc: true
 
 - [GSHHG](https://docs.generic-mapping-tools.org/latest/datasets/gshhg.html) |
   [GMT-China: 全球高分辨率海岸线数据](https://docs.gmt-china.org/latest/dataset/gshhg/):
-  **G**lobal **S**elf-consistent, **H**ierarchical, *H**igh-resolution **G**eography Database
+  **G**lobal **S**elf-consistent, **H**ierarchical, **H**igh-resolution **G**eography Database
 - [DCW](https://docs.generic-mapping-tools.org/latest/datasets/dcw.html) |
   [GMT-China: 世界数字图表](https://docs.gmt-china.org/latest/dataset/dcw/):
   The **D**igital **C**hart of the **W**orld **D**ata
@@ -318,3 +318,14 @@ toc: true
   [GMT-China: Brief Introduction](https://gmt-china.org/blog/national-geographic-database)
 - [GMT-China: 中国地学数据](https://gmt-china.org/data) |
   [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
+
+## Geotherm
+
+- [Global Heat Flow Database](https://ihfc-iugg.org/products/global-heat-flow-database) |
+  [Global Surface Heat Flow Database (version of 2012)](http://www.lithosphere.info/downloads.html)
+  maintained by Irina M. Artemieva
+- [Global Borehole Temperature Database](https://ihfc-iugg.org/products/global-borehole-temperature-database)
+- [Global Continental Lithosphere Age and Temperatures](http://www.lithosphere.info/TC1-age-and-temperature.html) &
+  [Regional Lithosphere Thermal Models and LAB (Greenland and Europe)](http://www.lithosphere.info/Thermal_isostasy.html)
+  maintained by Irina M. Artemieva
+- [Global Temperature Data](https://www.nodc.noaa.gov/General/temperature.html)
