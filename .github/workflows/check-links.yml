@@ -31,8 +31,8 @@ jobs:
         # 429: Too many requests
         args: >
           --accept 429
-          --verbose
           --exclude "http://localhost:1313/"
+          --verbose
           "repository/README.md"
           "website/**/*.html"
       env:
