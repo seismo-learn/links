@@ -32,7 +32,7 @@ jobs:
         args: >
           --accept 429
           --exclude "http://localhost:1313/"
-          --exclude "^https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_lsdz$"
+          --exclude "https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_lsdz"
           --exclude "http://www.kyoshin.bosai.go.jp/"
           --exclude "^https://www.fnet.bosai.go.jp/event/joho.php?LANG=en$"
           --exclude "http://www.earthmodels.org/"
