@@ -4,9 +4,6 @@ cards:
   - name: Journals
     link: journals
     icon: fa-book-open
-  - name: Scientists
-    link: scientists
-    icon: fa-user
   - name: Codes
     link: codes
     icon: fa-code
