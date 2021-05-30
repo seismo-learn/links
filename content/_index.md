@@ -7,12 +7,12 @@ cards:
   - name: Codes
     link: codes
     icon: fa-code
-  - name: Learning
-    link: learning
-    icon: fa-graduation-cap
   - name: Database
     link: database
     icon: fa-database
+  - name: Learning
+    link: learning
+    icon: fa-graduation-cap
   - name: Jobs
     link: jobs
     icon: fa-ad
