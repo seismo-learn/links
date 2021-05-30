@@ -46,6 +46,7 @@ jobs:
           --exclude "http://www.fnet.bosai.go.jp/event/joho.php?LANG=en"
           --exclude "http://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en"
           --exclude "https://www.scopus.com/home.uri"
+          --exclude "http://geol.ckcest.cn/index.html"
           --verbose
           "repository/README.md"
           "website/**/*.html"
