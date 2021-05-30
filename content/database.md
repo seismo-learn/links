@@ -113,7 +113,6 @@ toc: true
 - [Hi-net](http://www.hinet.bosai.go.jp/) | [F-net](http://www.fnet.bosai.go.jp/) |
   [K-net, KiK-net](http://www.kyoshin.bosai.go.jp/):
   National Research Institute for Earth Science and Disaster Resilience (NIED) networks
-- [Jarray](http://jarray.eri.u-tokyo.ac.jp/)
 - [OHP DMC](http://ohpdmc.eri.u-tokyo.ac.jp/):
   **O**cean **H**emisphere **P**roject **D**ata **M**anagement **C**enter
 
@@ -263,7 +262,7 @@ toc: true
   [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) |
   [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap):
   **G**lobal **A**ctive **F**aults **D**ata**b**ase maintained by the
-  **G**lobal **E**arthquake **M**odel Foundation 
+  **G**lobal **E**arthquake **M**odel Foundation
 - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap) |
   [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1):
   Database of active faults and associated features
