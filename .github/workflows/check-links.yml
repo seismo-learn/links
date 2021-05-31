@@ -31,7 +31,7 @@ jobs:
         # 429: Too many requests
         args: >
           --accept 429
-          --exclude "http://localhost:1313/"
+          --exclude "http://localhost"
           --verbose
           "repository/README.md"
           "website/**/*.html"
@@ -40,6 +40,7 @@ jobs:
 
     - name: Create Issue From File
       uses: peter-evans/create-issue-from-file@v3.0.0
+      if: github.event_name != 'pull_request'
       with:
         title: Link Checker Report
         content-filepath: ./lychee/out.md
