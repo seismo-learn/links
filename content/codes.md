@@ -249,8 +249,7 @@ toc: true
 
 ### Teleseismic surface-wave tomography
 
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-    - Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
+- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
 - [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography
 - [Finite frequency Rayleigh wave tomography](https://github.com/chukren/SurfwaveTomoPrograms)
 
@@ -267,6 +266,7 @@ toc: true
     - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
 - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
 - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
+- [CC-FJpy](https://github.com/ColinLii/CC-FJpy): A Python Package for seismic ambient noise cross-correlation and the frequency-Bessel transform method
 - [XDCpick](https://gitext.gfz-potsdam.de/chris/xdcpick): A simple tool for efficient picking of group velocity dispersion curves, in C.
 
 #### Inverting phase/group velocity maps
