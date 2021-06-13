@@ -27,6 +27,8 @@ toc: true
 - [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/): Convert seismic data from SEED format to other common format (SAC et al.) |
   [Chinese notes](https://blog.seisman.info/tags/SEED)
 - [sac2mseed](https://github.com/iris-edu/sac2mseed): Convert SAC format to minniSEED format
+- [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
+  provides a framework for manipulation of SEED data records
 - [mseed2sac](https://github.com/iris-edu/mseed2sac): Convert miniSEED format to SAC format
 - [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools): Convert WIN32 format used by Hi-net, to SAC format
 - [dataselect](https://github.com/iris-edu/dataselect): Selection and sorting for data in miniSEED format
@@ -149,25 +151,35 @@ toc: true
 
 - [Ps2D](http://www.spice-rtn.org/library/software/Ps2d.html): A very simple code for elastic wave simulation in 2D using a Pseudo-Spectral Fourier method
 
-
 ### Spectral Element Methods
 
-- [SPECFEM1D](https://github.com/geodynamics/specfem1d): A small code that allows users to learn how a spectral-element program is written
-- [SPECFEM2D](https://github.com/geodynamics/specfem2d): Simulates seismic wave propagation in a 2D heterogeneous medium, using spectral element method (spherical coordinate system)
-- [SPECFEM3D](https://github.com/geodynamics/specfem3d): Simulates seismic wave propagation in a 3D heterogeneous medium, using spectral element method (Cartesian coordinate system)
-    - DSM-SEM & AxiSEM-SEM can be found in `EXTERNAL_PACKAGES_coupled_with_SPECFEM3D`
-    - FK is not an external code, it is now called internally
-    - The coulping can be found in `specfem3D/couple_with_injection.f90`
-- [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe): Simulates seismic wave propagation in a 3D heterogeneous medium, using spectral element method (spherical coordinate system)
-- [SEM_DSM_hybrid](https://github.com/wenbowu-geo/SEM_DSM_hybrid): A hybrid method to efficiently compute teleseismic synthetics with 3D seismic strucure at source side (SEM) and 1D strucure outside the source region (DSM).
-- [RegSEM](http://www.quest-itn.org/library/software/regsem.html): Simulates seismic wave propagation in a 3D heterogeneous media, using spectral element method at the regional scale. Regional scale means distances ranging from about 1 km (local scale) to 90 degree (continental scale).
-- [AxiSEM](https://github.com/geodynamics/axisem): A parallel spectral-element method to solve 3D wave propagation in a sphere with axisymmetric or spherically symmetric visco-elastic, acoustic, anisotropic structures.
+- [SPECFEM1D](https://github.com/geodynamics/specfem1d): A small code that
+  allows users to learn how a spectral-element program is written
+- [SPECFEM2D](https://github.com/geodynamics/specfem2d): Simulates seismic wave
+  propagation in a 2D heterogeneous medium, using spectral element method
+  (spherical coordinate system)
+- [SPECFEM3D](https://github.com/geodynamics/specfem3d): Simulates seismic wave
+  propagation in a 3D heterogeneous medium, using spectral element method
+  (Cartesian coordinate system)
+- [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe):
+  Simulates seismic wave propagation in a 3D heterogeneous medium,
+  using spectral element method (spherical coordinate system)
+- [RegSEM](http://www.quest-itn.org/library/software/regsem.html):
+  Simulates seismic wave propagation in a 3D heterogeneous media,
+  using spectral element method at the regional scale. Regional scale means
+  distances ranging from about 1 km (local scale) to 90 degree (continental scale)
+- [AxiSEM](https://github.com/geodynamics/axisem): A parallel spectral-element
+  method to solve 3D wave propagation in a sphere with axisymmetric or
+  spherically symmetric visco-elastic, acoustic, anisotropic structures
 - [Instaseis](http://instaseis.net) | [Brief Introduction in Chinese](https://blog.seisman.info/iris-syngine):
   The Python interface of AxiSEM
 - [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
-- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html): Nodal Discontinuous Galerkin Method | [1D](https://github.com/seismology-RUB/NEXD-1D) | [2D](https://github.com/seismology-RUB/NEXD-2D) | [3D](https://github.com/seismology-RUB/NEXD-3D)
-- [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html): A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
-- [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html): A spectral element package for 2D wave propagation and earthquake rupture dynamics
+- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
+  Nodal Discontinuous Galerkin Method 
+- [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html):
+  A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
+- [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html):
+  A spectral element package for 2D wave propagation and earthquake rupture dynamics
 
 ### Discontinuous Galerkin Method
 
@@ -177,9 +189,19 @@ toc: true
 
 - [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
 
-### Hybrid method
+### Hybrid Methods
 
-- [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method
+
+- [Hybrid Methods in SPECFEM3D](https://github.com/geodynamics/specfem3d):
+  The coulping can be found in `specfem3D/couple_with_injection.f90` 
+  - **FK-SEM**: FK is not an external code, it is now called internally
+  - **DSM-SEM** | **AxiSEM-SEM**: within `EXTERNAL_PACKAGES_coupled_with_SPECFEM3D`
+- [SEM-DSM-coupling](https://github.com/wenbowu-geo/SEM_DSM_hybrid):
+  A hybrid method to efficiently compute teleseismic synthetics with 3D seismic
+  strucure at source side (SEM) and 1D strucure outside the source region (DSM)
+- [PSV Hybrid Method](http://geophysics.geo.sunysb.edu/wen/resource/index.html):
+  Calculating synthetic seismograms involving two-dimensional localized
+  hetergeneous structures based on GRT-FD hybrid method
 
 ---
 
@@ -230,12 +252,19 @@ toc: true
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
 - [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
 
-## Stress
+## Source Spectrum
+
+- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
+- [mtspec](https://github.com/krischer/mtspec): **M**ulti**t**aper **Spec**tral Estimation
+
+## Stress/Strain
 
 - [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
 - [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
 - [MSATSI](https://www.induced.pl/software): MATLAB package for stress tensor inversion
 - [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
+
+----
 
 ## Body-wave tomography
 
@@ -293,7 +322,8 @@ toc: true
 
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
-- [H/V Toolbox](https://github.com/krischer/HtoV-Toolbox): A toolbox to calculate surface-wave HVSR
+- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox): A toolbox that allows
+  the simple calculation of H/V ratios
 - [HV-Inv](https://w3.ual.es/GruposInv/hv-inv): Inversion of HVSR and SW dispersion
 - [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project): Measure and Inversion of HVSR written in Matlab
 - [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
@@ -366,6 +396,13 @@ toc: true
 - [SHEBA](https://github.com/jwookey/sheba): Shear-wave birefringence analysis code
 - [SplitRacer](http://www.geophysik.uni-frankfurt.de/64002762/Software): Shear-wave splitting analysis written in Matlab
 
+## Earth's interior
+
+- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
+- [FastTrip](https://github.com/lijiaqi0315/FastTrip): Fast MPI-accelerated Triplication Waveform Inversion Package
+
+----
+
 ## Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html): Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations | [Adaptive stacking at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking)
@@ -376,7 +413,7 @@ toc: true
 - [PhasePApy](https://github.com/austinholland/PhasePApy): Seismic Phase Picker and Associator, written in Python
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
 
-## Single station signal analysis
+## Single Station Signal Analysis
 
 - [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
@@ -397,14 +434,36 @@ toc: true
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
 - [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
 
-## Source Spectrum
+----
 
-- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
+## Signal Analysis
 
-## Earth's interior
+- [FFTW](http://fftw.org/): A C subroutine library for computing the
+  discrete Fourier transform (DFT)
+- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
+- [SeisSound](https://ds.iris.edu/ds/products/seissound/):
+  The Audio/Video Seismic Waveform Visualization
+- [datamovies](https://github.com/jbrussell/datamovies):
+  A couple of demo codes for sonifying data
 
-- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
-- [FastTrip](https://github.com/lijiaqi0315/FastTrip): Fast MPI-accelerated Triplication Waveform Inversion Package
+## Pattern Recognition and Machine Learning
+
+- [scikit-learn](https://scikit-learn.org/stable/index.html):
+  Machine Learning in Python
+- [Detex](https://github.com/d-chambers/Detex):
+  A Python package for subspace detection and waveform similarity clustering
+- [dbscan1d](https://github.com/d-chambers/dbscan1d):
+  An efficient 1D implementation of the DBSCAN clustering algorithm in Python
+- [Sequencer](https://github.com/dalya/Sequencer):
+  An algorithm that detects one-dimensional sequences in complex datasets in Python
+
+## Spherical Harmonics
+
+- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): **S**pherical
+  **H**armonic **AN**alysis and **SYN**thesis
+- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
+
+----
 
 ## Tectonics
 
@@ -420,18 +479,10 @@ toc: true
 
 ## Geophysics
 
-- [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
+- [distaz](http://www.seis.sc.edu/software/distaz) | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz):
+  Classic codes to calculate distance, azimuth and back-azimuth of any two points
+  at the Earth's surface 
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
-
-## Signal analysis
-
-- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
-
-## Z/H Ratio
-
-- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox): Calculate H/V ratios
-
-----
 
 ## Thermodynamic modeling
 
@@ -442,36 +493,54 @@ toc: true
 
 ----
 
-## Mathmatical library
+## Inversion Theory
 
-- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
-- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
-- [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
-- [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
-- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
-- [Delayed Rejection Adaptive Metropolis (DRAM) in Fortran](https://www.juanafonso.com/software): A simple teaching code in Fortran of the DRAM method
-- [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines for running Reversible Jump Monte-Carlo Markov chains for 1-D and 2-D spatial regression problems
-- [Malcolm Sambridge's softwares](http://rses.anu.edu.au/~malcolm/_pages/Research)
-    - [Neighbourhood Algorithm](http://rses.anu.edu.au/~malcolm/na/na.html) | [Neighbourhood Algorithm at iEarth](http://www.iearth.org.au/codes/NA)
-    - [Natural Neighbours](http://rses.anu.edu.au/geodynamics/nn/nn.html)
+- [Parameter Estimation and Inverse Problems：Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode):
+  A compilation of inverse and parameter estimation code that accompanies
+  the second edition of the textbook "Parameter Estimation and Inverse Problems"
 
-## Seismic Library
+## Linear Algebra
 
-- [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
-- [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
+- [BLAS](http://www.netlib.org/blas/): **B**asic **L**inear **A**lgebra **S**ubprograms
+  are routines that provide standard building blocks for performing basic vector and matrix operations
+- [LAPACK](http://www.netlib.org/lapack/) | [Working Notes](http://www.netlib.org/lapack/lawns/downloads/index.html) | [GitHub](https://github.com/Reference-LAPACK):
+  **L**inear **A**lgebra **PACK**age is a library of Fortran subroutines for
+  solving the most commonly occurring problems in numerical linear algebra
+- [LINPACK](http://www.netlib.org/linpack/index.html): a collection of Fortran
+  subroutines that analyze and solve linear equations and linear least-squares problems,
+  which has been largely superceded by **LAPACK**
 
-## Matlab Library
+## Gradient Methods
 
-- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
+- [LSQR](https://github.com/jacobwilliams/LSQR): A conjugate-gradient type method
+  for solving sparse linear equations and sparse least-squares problems
+- [SEISCOPE Optimization Toolbox](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=en):
+  A set of FORTRAN 90 optimization routines dedicated to the resolution of
+  unconstrained and bound constrained nonlinear minimization problems
+- [Stanford University Systems Optimization Laboratory: optimization software](https://web.stanford.edu/group/SOL/download.html)
 
-## Other Library
+## Monte Carlo Methods
 
-- [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
-    - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
+- [Malcolm Sambridge: Software](http://rses.anu.edu.au/~malcolm/_pages/Research)
+- [Marko Laine: MCMC codes](http://helios.fmi.fi/~lainema/)
+- [DRAM](https://www.juanafonso.com/software): A simple teaching code in Fortran
+  of the Delayed Rejection Adaptive Metropolis (DRAM) method
+- [emcee](https://github.com/dfm/emcee):
+  Affine Invariant Markov chain Monte Carlo Ensemble sampler written in Python
+- [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines
+  for running **R**eversible **J**ump **M**onte-**C**arlo **M**arkov **c**hains
+  for 1-D and 2-D spatial regression problems
+- [rjmcmc](https://cran.r-project.org/web/packages/rjmcmc/index.html):
+  Reversible-Jump MCMC written in R
+- [Neighborhood-Algorithm](https://github.com/nqdu/Neighborhood-Algorithm):
+  A simple NA implementation in c++
 
-## Software centers
+----
 
-- [Computational Infrastructure for Geodynamics (CIG): Software](https://geodynamics.org/cig/software)
+## Geoscience Software Centers
+
+- [ANU Seismology & Mathematical Geophysics Research Group: Software](http://rses.anu.edu.au/seismology/index.php?p=software)
+- [Computational Infrastructure for Geodynamics: Software](https://geodynamics.org/cig/software)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
 - [ETH Seismology and Geodynamics: Software](https://seg.ethz.ch/software.html)
 - [Geophysical institut of the Karlsruhe Institute of Technology: Software](https://git.scc.kit.edu/GPIAG-Software)
@@ -480,11 +549,46 @@ toc: true
   government and industry sectors with interests in the development and application
   of inversion methodologies for the Earth Sciences
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
+- [KIT Geophysical Institute: Software](https://www.gpi.kit.edu/english/498.php):
+  Finite-difference numerical methods and full waveform inversion software
+  developed by the geophysical institute of the Karlsruhe Institute of Technology
 - [MTNet](http://www.mtnet.info/main/source.html): Source codes in the electromagnetic community
-- [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
-- [QUantitative Estimation of Earth's Seismic Sources and STructure (QUEST): Software](http://www.quest-itn.org/library/software)
-- [Seismic wave Propagation and Imaging in Complex media: a European network (SPICE) software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
-- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software)
-  (In the Australian National University)
+- [NuQuake: Software](http://www.nuquake.eu/Computer_Codes)
+- [QUEST: Software](http://www.quest-itn.org/library/software): **QU**antitative
+  **E**stimation of Earth's Seismic Sources and **ST**ructure
+- [Seismo-Live](http://www.seismo-live.org/): Live Jupyter Notebooks for Seismology
+- [Seismic wave Propagation and Imaging in Complex media: a European network software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
+- [SW3D](http://seis.karlov.mff.cuni.cz/): **S**eismic **W**aves in complex **3D** structures
 - [University of South Carolina: Software](http://www.seis.sc.edu/software.html)
+- [University of Ottawau Geophysics Group: Software](https://www.uogeophysics.com/#software)
 - [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
+- [William Menke: Software](https://www.ldeo.columbia.edu/users/menke/software.html)
+
+## Geophysical Tools/Library
+
+- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
+- [UNAVCO: Software](https://www.unavco.org/software/software.html):
+  A variety of software in geodesy
+
+## Seismological Tools/Library
+
+- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
+  Numerical Methods of Exploration Seismology with algorithms in MATLAB
+- [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
+  written in the Python
+- [SEISAN](http://www.seisan.info/): Earthquake analysis software
+
+## Numerical Library
+
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/):
+  A numerical library for C and C++ programmers
+- [Netlib](http://www.netlib.org/): A collection of mathematical software, papers,
+  and databases
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
+- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
+  A software project that provides easy access to efficient and reliable geometric
+  algorithms in the form of a C++ library
+
+## Software Development Tools
+
+- [Free Intel® Software Development Tools](https://software.intel.com/content/www/us/en/develop/articles/free-intel-software-developer-tools.html)
