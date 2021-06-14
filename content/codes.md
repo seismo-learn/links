@@ -466,7 +466,7 @@ toc: true
 
 ----
 
-### Gravity
+## Gravity
 
 - [Harmonica](https://www.fatiando.org/harmonica/latest/):
   Forward modeling, inversion, and processing gravity and magnetic data
@@ -480,7 +480,7 @@ toc: true
 - [SphGraGLQ](https://github.com/nqdu/SphGraGLQ): A fast and adaptive gravity
   forward computation method by Gauss-Legendre Quadrature in spherical coordinates in C
 
-### InSAR/GPS
+## InSAR/GPS
 
 - [GMTSAR](https://topex.ucsd.edu/gmtsar/): An InSAR processing system based on GMT
 - [SDM - Geodetic finite-fault slip inversion](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
