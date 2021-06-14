@@ -635,11 +635,3 @@
 
 - [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
 - [Ghostscript](https://www.ghostscript.com/): an interpreter for the PostScript language and PDF files | [Download](https://www.ghostscript.com/download/gsdnld.html) & [Old releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases)
-
-
-## Thermodynamics
-
-- [Perple_X](http://www.perplex.ethz.ch/): calculating and displaying phase diagrams, phase equilibria, and thermodynamic data | [Documentation](http://www.perplex.ethz.ch/perplex_documentation.html) | [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html) | [Chinese tutorial at bilibili](https://www.bilibili.com/video/BV1TC4y1Y7Jq?spm_id_from=333.905.b_72656c61746564.3)
-- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/): calculates model phase equilibria involving the HPx-eos and/or individual end-members from the Holland & Powell dataset
-- [BurnMan](https://burnman.org/): A thermodynamic and geophysics toolkit for the Earth and planetary sciences
-

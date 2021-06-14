@@ -487,10 +487,16 @@ toc: true
 
 ## Thermodynamic modeling
 
-- [Perple_X](http://www.perplex.ethz.ch/): calculating and displaying phase diagrams, phase equilibria, and thermodynamic data.
-  | [Documentation](http://www.perplex.ethz.ch/perplex_documentation.html) | [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html)
-- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/)
-- [BurnMan](https://burnman.org/): A thermodynamic and geophysics toolkit for the Earth and planetary sciences
+- [Perple_X](http://www.perplex.ethz.ch/) |
+  [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html) |
+  [A tutorial (in Chinese)](https://www.bilibili.com/video/BV1TC4y1Y7Jq?spm_id_from=333.905.b_72656c61746564.3):
+  A collection of Fortran77 programs for calculating and displaying phase diagrams,
+  phase equilibria, and thermodynamic data
+- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/):
+  Calculating model phase equilibria involving the HPx-eos
+  and/or individual end-members from the Holland & Powell dataset
+- [BurnMan](https://burnman.org/): An open source mineral physics toolbox written
+  in Python to generate physical properties for the Earth and other planets
 
 ----
 
