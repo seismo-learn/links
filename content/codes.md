@@ -466,26 +466,46 @@ toc: true
 
 ----
 
-## Tectonics
+## Gravity
 
-- [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for the interactive visualisation of plate-tectonics
+- [Harmonica](https://www.fatiando.org/harmonica/latest/):
+  Forward modeling, inversion, and processing gravity and magnetic data
+- [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html):
+  Carrying out 3D forward modelling and inversion of gravity data
+- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software):
+  A very simple matlab code to illustrate the basics of gravity modelling and inversion
+- [moho-inversion-tesseroids](https://github.com/pinga-lab/paper-moho-inversion-tesseroids):
+  Fast non-linear gravity inversion in spherical coordinates with application to
+  the South American Moho
+- [SphGraGLQ](https://github.com/nqdu/SphGraGLQ): A fast and adaptive gravity
+  forward computation method by Gauss-Legendre Quadrature in spherical coordinates in C
 
-## Geodesy
+## InSAR/GPS
 
-- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
+- [GMTSAR](https://topex.ucsd.edu/gmtsar/): An InSAR processing system based on GMT
+- [SDM - Geodetic finite-fault slip inversion](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
+  Inverting co-seismic surface deformation data (GPS, InSAR, etc.) for fault slip
+  distribution written in Fortran
 
 ## Geodynamics
 
-- [CitcomS](https://github.com/geodynamics/citcoms): solve compressible thermochemical convection problems relevant to Earth's mantle.
+- [CitcomS](https://github.com/geodynamics/citcoms): Solve compressible
+  thermochemical convection problems relevant to Earth's mantle
 
 ## Geophysics
 
-- [distaz](http://www.seis.sc.edu/software/distaz) | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz):
-  Classic codes to calculate distance, azimuth and back-azimuth of any two points
-  at the Earth's surface
-- [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
+- [distaz](http://www.seis.sc.edu/software/distaz) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/utilities/distaz/):
+  Calculate distance, azimuth and back-azimuth of any two points at the Earth's surface 
+- [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic
+  thickness written in Python and Fortran
 
-## Thermodynamic modeling
+## Tectonics
+
+- [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for
+  the interactive visualisation of plate-tectonics
+
+## Thermodynamic Modeling
 
 - [Perple_X](http://www.perplex.ethz.ch/) |
   [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html) |
@@ -500,6 +520,13 @@ toc: true
   and/or individual end-members from the Holland & Powell dataset
 - [BurnMan](https://burnman.org/): An open source mineral physics toolbox written
   in Python to generate physical properties for the Earth and other planets
+
+## Visualization
+
+- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data)
+- [Ghostscript](https://www.ghostscript.com/) |
+  [Releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases):
+  An interpreter for the PostScript language and PDF files
 
 ----
 
