@@ -429,11 +429,25 @@ toc: true
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [ts-PWS](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
+  Time-scale phase weighted stacking written in C
 
-## Seismic data digitization and correction
+## Seismic Data Digitization and Correction
 
-- [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
-- [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
+- [ATacR](https://seiscode.iris.washington.edu/projects/atacr): Automated Tilt
+  and Compliance Removal (for ocean bottoms seismometers) written in Matlab
+- [Automatic detection of clipped seismic waveform](https://github.com/jinhaizhang2020/Automatic-detection-of-clipped-seismic-waveform):
+  The code seems to be related to **CWPAR**.
+- [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration):
+  Clipped Waveform Pickup and Restoration written in Matlab
+- [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html):
+  A digitization software for analog seismograms written in Matlab
+- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal
+  orientations based on Raleigh-wave arrival angle written in Python
+- [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical
+  component noise from tilt and compliance effects written in Python
+- [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer
+  orientation written in Python
 
 ----
 
