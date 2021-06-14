@@ -175,7 +175,7 @@ toc: true
   The Python interface of AxiSEM
 - [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
 - [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
-  Nodal Discontinuous Galerkin Method 
+  Nodal Discontinuous Galerkin Method
 - [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html):
   A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
 - [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html):
@@ -193,7 +193,7 @@ toc: true
 
 
 - [Hybrid Methods in SPECFEM3D](https://github.com/geodynamics/specfem3d):
-  The coulping can be found in `specfem3D/couple_with_injection.f90` 
+  The coulping can be found in `specfem3D/couple_with_injection.f90`
   - **FK-SEM**: FK is not an external code, it is now called internally
   - **DSM-SEM** | **AxiSEM-SEM**: within `EXTERNAL_PACKAGES_coupled_with_SPECFEM3D`
 - [SEM-DSM-coupling](https://github.com/wenbowu-geo/SEM_DSM_hybrid):
@@ -505,19 +505,28 @@ toc: true
 - [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for
   the interactive visualisation of plate-tectonics
 
+## Thermodynamic Modeling
+
+- [Perple_X](http://www.perplex.ethz.ch/) |
+  [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html) |
+  [A tutorial (in Chinese)](https://www.bilibili.com/video/BV1TC4y1Y7Jq?spm_id_from=333.905.b_72656c61746564.3):
+  A collection of Fortran77 programs for calculating and displaying phase diagrams,
+  phase equilibria, and thermodynamic data
+- [HeFESTo](https://sites.epss.ucla.edu/lithgow-bertelloni/hefesto/) |
+  [GitHub](https://github.com/stixrude/HeFESToRepository):
+  Helmholtz Free Energy Self-consistent Thermodynamics
+- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/):
+  Calculating model phase equilibria involving the HPx-eos
+  and/or individual end-members from the Holland & Powell dataset
+- [BurnMan](https://burnman.org/): An open source mineral physics toolbox written
+  in Python to generate physical properties for the Earth and other planets
+
 ## Visualization
 
 - [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data)
 - [Ghostscript](https://www.ghostscript.com/) |
   [Releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases):
   An interpreter for the PostScript language and PDF files
-
-## Thermodynamic modeling
-
-- [Perple_X](http://www.perplex.ethz.ch/): calculating and displaying phase diagrams, phase equilibria, and thermodynamic data.
-  | [Documentation](http://www.perplex.ethz.ch/perplex_documentation.html) | [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html)
-- [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/)
-- [BurnMan](https://burnman.org/): A thermodynamic and geophysics toolkit for the Earth and planetary sciences
 
 ----
 
