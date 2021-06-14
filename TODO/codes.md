@@ -604,38 +604,6 @@
 - [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical component noise from tilt and compliance effects written in Python
 
 ---------------------
-## Geosciences
-
-### Tectonics
-
-- [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for the interactive visualisation of plate-tectonics
-
-
-### Gravity
-
-- [Harmonica](https://www.fatiando.org/#projects): Forward modeling, inversion, and processing gravity and magnetic data
-- [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
-- [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
-- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
-- [SphGraGLQ](https://github.com/nqdu/SphGraGLQ): A fast and adaptive gravity forward computation method by Gauss-Legendre Quadrature in spherical coordinates in C
-
-### GPS & InSAR
-
-- [GMTSAR](https://topex.ucsd.edu/gmtsar/): An InSAR processing system based on GMT
-- [SDM](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Geodetic finite-fault slip inversion based on co-seismic surface deformation data (GPS, InSAR, etc.)
-
-
-### Geophysics
-
-- [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
-- [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
-- [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic thickness written in Python and Fortran
-
-### Analyzing and Visualization
-
-- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
-- [Ghostscript](https://www.ghostscript.com/): an interpreter for the PostScript language and PDF files | [Download](https://www.ghostscript.com/download/gsdnld.html) & [Old releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases)
-
 
 ## Thermodynamics
 
