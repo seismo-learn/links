@@ -250,6 +250,7 @@ toc: true
 ## Seismicity
 
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
+- [sd](http://bemlar.ism.ac.jp/zhuang/software.html): **S**tochastic **d**eclustering based on the space-time ETAS model
 - [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
 
 ## Source Spectrum
