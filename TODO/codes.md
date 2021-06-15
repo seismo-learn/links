@@ -432,18 +432,6 @@
 - [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
 - [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity from earthquake data written in Python
 
-
-### Noise HVSR
-
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
-- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
-- [hvsrpy](https://pypi.org/project/hvsrpy/): A Python package for horizontal-to-vertical spectral ratio processing
-- [HV-Inv](https://w3.ual.es/GruposInv/hv-inv): Inversion of HVSR and SW dispersion
-- [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project): Measurement and Inversion of HVSR written in Matlab
-- [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
-- [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
-
-
 ### Receiver Function Measurements and Inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)

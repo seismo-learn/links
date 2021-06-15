@@ -44,7 +44,8 @@ toc: true
 - [GISMO](http://geoscience-community-codes.github.io/GISMO/): Data download, processing and visulization software written in Matlab
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion cureve et al.
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
+  research and application written in C++
 
 -------
 
@@ -319,7 +320,8 @@ toc: true
 ### Surface-wave dispersion calculation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
+  research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
 - [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum): Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
@@ -400,14 +402,22 @@ toc: true
 
 ## Noise HVSR
 
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
-- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
-- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox): A toolbox that allows
-  the simple calculation of H/V ratios
-- [HV-Inv](https://w3.ual.es/GruposInv/hv-inv): Inversion of HVSR and SW dispersion
-- [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project): Measure and Inversion of HVSR written in Matlab
-- [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
-- [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
+- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute
+  and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS
+- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
+  research and application written in C++
+- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox):
+  A toolbox that allows the simple calculation of H/V ratios
+- [HV-Inv](https://w3.ual.es/GruposInv/hv-inv):
+  Forward calculation and inversion of H/V spectral ratios
+- [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true):
+  An open-source Python tool for Geopsy HVSR post-processing
+- [hvsrpy](https://github.com/jpvantassel/hvsrpy): A Python package for horizontal-to-vertical
+  spectral ratio processing
+- [HV-TEST](https://github.com/AlbaMat/HV-TEST): A tool for the verification
+  of the reliability and clarity of the H/V peak according to the SESAME criteria
+- [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project):
+  Measure and Inversion of HVSR written in MATLAB
 
 ## Scattering and Intrinsic Attenuation
 
@@ -505,7 +515,8 @@ toc: true
 ## Array seismology
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
+  research and application written in C++
 - [ts-PWS](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
   Time-scale phase weighted stacking written in C
 
