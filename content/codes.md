@@ -409,6 +409,19 @@ toc: true
 - [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
 - [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
 
+## Scattering and Intrinsic Attenuation
+
+- [CodaNorm](https://github.com/cormorant/CodaNorm):
+  Calculating the seismic quality factor using the coda normalization method
+- [MuRAT](https://github.com/LucaDeSiena/MuRAT): Multi-resolution seismic attenuation
+  tomography using Body and Coda Waves written in MATLAB
+- [psphoton](https://github.com/nmancinelli/psphoton):
+  Monte Carlo simulation of elastic-wave scattering processes in Earth's interior
+- [PSPHOTON_POSO](https://github.com/nmancinelli/PSPHOTON_POSO): Model Po/So envelopes
+- [qopen](https://github.com/trichter/qopen): Separation of intrinsic and scattering Q by envelope inversion
+- [usattenuation](https://github.com/trichter/usattenuation):
+  Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
+
 ## Shear Wave Splitting
 
 - [SplitLab](http://splitting.gm.univ-montp2.fr) |
