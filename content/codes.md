@@ -416,14 +416,31 @@ toc: true
 
 ## Single Station Signal Analysis
 
-- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
-- [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
-- [Pycheron](https://github.com/sandialabs/pycheron): A Python library for quality control of seismic data based on IRIS MUSTANG
-- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance): An open-source software system for evaluating seismic station performance and data quality
-- [IRIS DMC Noise Toolkit](https://github.com/iris-edu/noise-toolkit): Compute power spectral densities and perform microseism energy computations and frequency dependent polarization analysis
-- [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data to quantify temporal correlations and simultaneously estimate rates, offsets, and other functional dependencies.
-- [TF-SIGNAL](http://www.nuquake.eu/Computer_Codes/tfsig.htm): Computation and visualization of time-frequency representations of time signals using one or more of seven alternative methods of time-frequency analysis
-- [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html): a MatLab GUI and set of inline functions for performing various non-linear thresholding operations using the Continuous Wavelet Transform
+- [IRIS DMC Noise Toolkit](https://github.com/iris-edu/noise-toolkit):
+  Compute power spectral densities and perform microseism energy computations
+  and frequency dependent polarization analysis
+- [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html):
+  a MatLab GUI and set of inline functions for performing various non-linear
+  thresholding operations using the Continuous Wavelet Transform
+- [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data
+  to quantify temporal correlations and simultaneously estimate rates, offsets,
+  and other functional dependencies
+- [MUSTANG](http://service.iris.edu/mustang) | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
+  A quality assurance system that provides metrics pertaining to seismic data quality
+- [Pycheron](https://github.com/sandialabs/pycheron):
+  A Python library for quality control of seismic data based on IRIS MUSTANG
+- [Polfre](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
+  Time-Frequency Dependent Polarization written in Fortran
+- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance):
+  An open-source software system for evaluating seismic station performance and data quality
+- [Station Analysis Tools](https://robporritt.wordpress.com/software) |
+  [IRIS site](https://seiscode.iris.washington.edu/projects/station-analysis-tools):
+  A set of c routines for computation of power spectral densities, coherence,
+  probability density functions, and a handful of other tools for monitoring
+  the health of a station
+- [TF-SIGNAL](http://www.nuquake.eu/Computer_Codes/tfsig.htm):
+  Computation and visualization of time-frequency representations of time signals
+  using one or more of seven alternative methods of time-frequency analysis
 
 ## Array seismology
 
@@ -431,6 +448,13 @@ toc: true
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [ts-PWS](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
   Time-scale phase weighted stacking written in C
+
+### Seismic Interferometry
+
+- [inter_source_interferometry](https://github.com/trichter/inter_source_interferometry):
+  Inter-source interferometry by cross-correlation of coda waves written in Python
+- [ThreeStation](https://github.com/NoiseCIEI/ThreeStation):
+  Three-station interferometry written in Python
 
 ## Seismic Data Digitization and Correction
 

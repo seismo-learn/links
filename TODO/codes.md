@@ -551,7 +551,6 @@
 
 
 ----------------------
-## Seismic Data Analysis
 
 ### Phase Picking
 
@@ -564,19 +563,3 @@
 - [PhaseNet](https://github.com/wayneweiqiang/PhaseNet): A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
 - [PhasePApy](https://github.com/austinholland/PhasePApy): Seismic Phase Picker and Associator, written in Python
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
-
-
-### Seismic interferometry
-
-- [inter_source_interferometry](https://github.com/trichter/inter_source_interferometry): Inter-source interferometry by cross-correlation of coda waves written in Python
-- [ThreeStation](https://github.com/NoiseCIEI/ThreeStation): Three-station interferometry
-
-
-### Single Station Signal Analysis
-
-- [Polfre](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Time-Frequency Dependent Polarization written in Fortran
-- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
-- [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
-- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance): An open-source software system for evaluating seismic station performance and data quality
-- [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data to quantify temporal correlations and simultaneously estimate rates, offsets, and other functional dependencies.
-- [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html): a MatLab GUI and set of inline functions for performing various non-linear thresholding operations using the Continuous Wavelet Transform
