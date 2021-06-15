@@ -540,17 +540,3 @@
 - [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
 - [ss-precursors](https://github.com/nmancinelli/ss-precursors): SS Precursor Workflow by Nicholas Mancinelli
 
-
-----------------------
-
-### Phase Picking
-
-- [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html): Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations | [Adaptive stacking at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking)
-- [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat): A Python/Matplotlib Tool for Measuring Teleseismic Arrival Times
-- [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
-- [CrazyTremor](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to display and picking multi-channel seismic data
-- [mccc](https://github.com/xumi1993/mccc): Determines optimum relative delay times for seismograms by multi-channel cross-correlation
-- [generalized-phase-detection](https://github.com/interseismic/generalized-phase-detection): Generalized Seismic Phase Detection with Deep Learning
-- [PhaseNet](https://github.com/wayneweiqiang/PhaseNet): A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
-- [PhasePApy](https://github.com/austinholland/PhasePApy): Seismic Phase Picker and Associator, written in Python
-- [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
