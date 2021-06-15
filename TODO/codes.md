@@ -524,16 +524,7 @@
 - [PSPHOTON_POSO](https://github.com/nmancinelli/PSPHOTON_POSO): Code in development to model Po/So envelopes
 
 
-### Shear Wave Splitting
 
-- [SplitLab](http://splitting.gm.univ-montp2.fr): Shear-wave birefringence analysis code, written in Matlab | [An updated version](https://robporritt.wordpress.com/software)
-- [MFAST](http://mfast-package.geo.vuw.ac.nz): Multiple Filter Automatic Splitting Technique written in Fortran
-- [MSAT](https://github.com/andreww/MSAT): MATLAB Seismic Anisotropy Toolkit
-- [multisplit](https://github.com/ftilmann/multisplit): Shear-wave birefringence analysis code
-- [SHEBA](https://github.com/jwookey/sheba): Shear-wave birefringence analysis code
-- [SplitRacer](http://www.geophysik.uni-frankfurt.de/64002762/Software): Shear-wave splitting analysis written in Matlab
-- [SplitPy](https://paudetseis.github.io/SplitPy/): Teleseismic shear-wave (SKS) Splitting Toolbox written in Python
-- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 
 ### Imaging of Earth interior
 
