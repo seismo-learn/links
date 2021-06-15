@@ -346,10 +346,10 @@ toc: true
 - [GMT-China: 中国地学数据](https://gmt-china.org/data) |
   [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
 
-## Geotherm
+## Geotherm Database
 
 - [Global Heat Flow Database](https://ihfc-iugg.org/products/global-heat-flow-database) |
-  [Global Heat Flow Database](https://engineering.und.edu/research/global-heat-flow-database/) provided by the University of North Dakota] |
+  [Global Heat Flow Database](https://engineering.und.edu/research/global-heat-flow-database/) provided by the University of North Dakota |
   [Global Surface Heat Flow Database (version of 2012)](http://www.lithosphere.info/downloads.html) maintained by Irina M. Artemieva
 - [Global Borehole Temperature Database](https://ihfc-iugg.org/products/global-borehole-temperature-database)
 - [Global Continental Lithosphere Age and Temperatures](http://www.lithosphere.info/TC1-age-and-temperature.html) &
