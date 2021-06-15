@@ -349,8 +349,8 @@ toc: true
 ## Geotherm
 
 - [Global Heat Flow Database](https://ihfc-iugg.org/products/global-heat-flow-database) |
-  [Global Surface Heat Flow Database (version of 2012)](http://www.lithosphere.info/downloads.html)
-  maintained by Irina M. Artemieva
+  [Global Heat Flow Database](https://engineering.und.edu/research/global-heat-flow-database/) provided by the University of North Dakota] |
+  [Global Surface Heat Flow Database (version of 2012)](http://www.lithosphere.info/downloads.html) maintained by Irina M. Artemieva
 - [Global Borehole Temperature Database](https://ihfc-iugg.org/products/global-borehole-temperature-database)
 - [Global Continental Lithosphere Age and Temperatures](http://www.lithosphere.info/TC1-age-and-temperature.html) &
   [Regional Lithosphere Thermal Models and LAB (Greenland and Europe)](http://www.lithosphere.info/Thermal_isostasy.html)
