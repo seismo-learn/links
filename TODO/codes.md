@@ -535,15 +535,6 @@
 - [SplitPy](https://paudetseis.github.io/SplitPy/): Teleseismic shear-wave (SKS) Splitting Toolbox written in Python
 - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 
-
-### Ambient Noise Inversion
-
-- [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity changes using ambient seismic noise
-- [yam](https://github.com/trichter/yam): Yet another monitoring tool using correlations of ambient noise written in Python
-- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
-- [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
-
-
 ### Imaging of Earth interior
 
 - [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
