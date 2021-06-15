@@ -328,27 +328,6 @@ toc: true
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
   Python framework for seismic noise tomography
 
-## Noise HVSR
-
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
-- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
-- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox): A toolbox that allows
-  the simple calculation of H/V ratios
-- [HV-Inv](https://w3.ual.es/GruposInv/hv-inv): Inversion of HVSR and SW dispersion
-- [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project): Measure and Inversion of HVSR written in Matlab
-- [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
-- [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
-
-## Ambient Noise Monitoring
-
-- [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity
-  changes using ambient seismic noise
-- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of
-  ambient noise cross-correlation functions written in Python, with noise monitoring
-  and surface wave dispersion analysis
-- [yam](https://github.com/trichter/yam): Yet another monitoring tool using
-  correlations of ambient noise written in Python
-
 ## Receiver Function
 
 ### Synthetic RF
@@ -402,6 +381,29 @@ toc: true
 - [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
 - [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
+
+----
+
+## Ambient Noise Monitoring
+
+- [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity
+  changes using ambient seismic noise
+- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of
+  ambient noise cross-correlation functions written in Python, with noise monitoring
+  and surface wave dispersion analysis
+- [yam](https://github.com/trichter/yam): Yet another monitoring tool using
+  correlations of ambient noise written in Python
+
+## Noise HVSR
+
+- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
+- [HtoV-Toolbox](https://github.com/krischer/HtoV-Toolbox): A toolbox that allows
+  the simple calculation of H/V ratios
+- [HV-Inv](https://w3.ual.es/GruposInv/hv-inv): Inversion of HVSR and SW dispersion
+- [OpenHVSR](https://www.samuelbignardi.com/en/openhvsr-project): Measure and Inversion of HVSR written in Matlab
+- [HV-TEST](https://zenodo.org/record/260131#.XhMFYxczY1J): A tool for the verification of the reliability and clarity of the H/V peak according to the SESAME criteria
+- [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
 
 ## Shear Wave Splitting
 
