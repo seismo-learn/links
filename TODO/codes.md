@@ -514,14 +514,7 @@
 - [travel time and waveform modelling near fault zone](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=6) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
-### Intrinsic Attenuation and Scattering
 
-- [CodaNorm](https://github.com/cormorant/CodaNorm): a software package for the body-wave attenuation calculation by coda-normalization method
-- [MuRAT](https://github.com/LucaDeSiena/MuRAT): a Matlab Package for Seismic Attenuation Tomography at multiple Earth scales using Body and Coda Waves
-- [qopen](https://github.com/trichter/qopen): Separation of intrinsic and scattering Q by envelope inversion
-- [usattenuation](https://github.com/trichter/usattenuation): Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
-- [psphoton](https://github.com/nmancinelli/psphoton): Monte Carlo simulation of elastic-wave scattering processes in Earth's interior
-- [PSPHOTON_POSO](https://github.com/nmancinelli/PSPHOTON_POSO): Code in development to model Po/So envelopes
 
 
 ### Shear Wave Splitting
