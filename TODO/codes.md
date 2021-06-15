@@ -526,8 +526,3 @@
 
 
 
-### Imaging of Earth interior
-
-- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
-- [ss-precursors](https://github.com/nmancinelli/ss-precursors): SS Precursor Workflow by Nicholas Mancinelli
-

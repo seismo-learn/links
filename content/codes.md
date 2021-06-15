@@ -199,7 +199,8 @@ toc: true
 - [SEM-DSM-coupling](https://github.com/wenbowu-geo/SEM_DSM_hybrid):
   A hybrid method to efficiently compute teleseismic synthetics with 3D seismic
   strucure at source side (SEM) and 1D strucure outside the source region (DSM)
-- [PSV Hybrid Method](http://geophysics.geo.sunysb.edu/wen/resource/index.html):
+- [PSV Hybrid Method](http://geophysics.geo.sunysb.edu/wen/resource/index.html) |
+  [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid):
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
 
@@ -337,7 +338,10 @@ toc: true
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
-- [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD).
+- [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html) |
+  [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid_RF):
+  Calculating synthetic RF in two-dimensional localized hetergeneous structures
+  based on PSV Hybrid method (GRT-FD)
 
 ### RF measurements and inversion
 
@@ -426,8 +430,12 @@ toc: true
 
 ## Earth's interior
 
-- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
-- [FastTrip](https://github.com/lijiaqi0315/FastTrip): Fast MPI-accelerated Triplication Waveform Inversion Package
+- [FastTrip](https://github.com/lijiaqi0315/FastTrip): Fast MPI-accelerated Triplication
+  Waveform Inversion Package
+- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html) |
+  [GitHub](https://github.com/Geolab-USTC/PKPprecursor):
+  Locating seismic scatterers in the lower mantle, using PKP precursor onsets
+- [ss-precursors](https://github.com/nmancinelli/ss-precursors): SS Precursor Workflow
 
 ----
 
