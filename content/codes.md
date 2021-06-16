@@ -43,7 +43,10 @@ toc: true
 - [ObsPy](https://github.com/obspy/obspy/wiki): Data download, processing and visulization software written in Python
 - [GISMO](http://geoscience-community-codes.github.io/GISMO/): Data download, processing and visulization software written in Matlab
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion cureve et al.
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
 
@@ -90,7 +93,14 @@ toc: true
 - [aser](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms based on Generalized Ray Theory
 - [Ray theory](http://www.spice-rtn.org/library/software/Raytheory.html): Ray-theoretical approach to the calculation of synthetic seismograms in global Earth models
 - [Generalized ray in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
-- [Asymptotic ray theory in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
+- [Generalized ray in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
+- [Asymptotic ray theory in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [WKBJ method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
 
 ### Reflectivity/Wavenumber integration for 1D layered Earth
@@ -100,13 +110,19 @@ toc: true
 - [grtm](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms in stratified vertically transversely isotropic media using the generalized reflection and transmission coefficient method
 - [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software): Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
-- [Wavenumber integration method in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [Wavenumber integration method in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [Discrete wavenumber method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
 - [multitel3](https://github.com/YunyiQian/multitel3): A hybrid method of ray theory and haskell matrix to calculate teleseismic body wave Green's functions in RTZ components
 
 ### Modal Summation method for 1D layered Earth
 
-- [Modal Summation in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [Modal Summation in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 
 ### Reflectivity/Wavenumber integration for 1D layered spherical Earth
 
@@ -234,7 +250,10 @@ toc: true
 ## Focal Mechanism
 
 - [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [W Phase](http://eost.u-strasbg.fr/wphase): Moment tensor inversion using W phase
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec): Package for determining and displaying double-couple earthquake focal mechanisms based on polarities and amplitude ratios
 - [HASH](https://earthquake.usgs.gov/research/software/#HASH): Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
@@ -276,57 +295,134 @@ toc: true
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html): Teleseismic tomography based on fast marching method | [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT)
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
 
-
 ## Surface-wave Tomography
 
-### Teleseismic Surface-wave Tomography
+### Earthquake Surface-wave Dispersion
 
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
-- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography
-- [Finite frequency Rayleigh wave tomography](https://github.com/chukren/SurfwaveTomoPrograms)
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
+    - [Tutorilas: Surface Waves](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/)
+    - [User Questions and Answers: The use of the two-station technique to obtain phase velocities](http://www.eas.slu.edu/eqc/eqc_cps/Questions/)
+- [Huajian Yao: Codes and Software](http://yaolab.ustc.edu.cn/resources.php?i=28):
+  Surface wave two-station dispersion analysis GUI software (in Matlab)
+  - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI):
+    Automatic surface wave two-station dispersion analysis GUI software (in Matlab)
+- [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode
+  surface wave dispersion using the Linear Radon Transform (LRT) written in MATLAB
+- [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html):
+  Surface Wave **M**ultiple **F**ilter **A**nalysis
 
-### Ambient Noise Surface-wave Tomography
+### Ambient Noise Surface-wave Dispersion
 
-#### Measuring traveltime delay
-
-- [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-    - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
-    - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-    - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
-    - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
+- [ASWMS](https://ds.iris.edu/ds/products/aswms) |
+  [GitHub](https://github.com/jinwar/matgsdf):
+  **A**utomated **S**urface **W**ave Phase Velocity **M**easuring **S**ystem written in MATLAB, measuring the phase and amplitude of surface waves and then generate
+  surface-wave tomography maps using the Eikonal and Helmhotza tomography
 - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of
   ambient noise cross-correlation functions written in Python, with noise monitoring
   and surface wave dispersion analysis
-- [SeisNoise.jl](https://github.com/tclements/SeisNoise.jl): Ambient Noise Cross-Correlation in Julia
+- [CU-Boulder: Research Products](http://ciei.colorado.edu/Products)
+    - [Ambient Noise Cross-Correlation](http://ciei.colorado.edu/Products/) |
+      [GitHub](https://github.com/NoiseCIEI/ANCC):
+      Ambient noise data processing code and database for processing written in C
+    - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor):
+      Seismic Ambient Noise Cross-Correlation in Parallel written in C
+    - [AFTAN](http://ciei.colorado.edu/Products/) |
+      [GitHub](https://github.com/NoiseCIEI/AFTAN) |
+      [Python package](https://github.com/NoisyLeon/pyaftan):
+      **A**utomatic **F**requency-**T**ime **An**alysis analysis of ambient noise
+      cross-correlations written in Fortran
+- [Huajian Yao: Codes and Software](http://yaolab.ustc.edu.cn/resources.php?i=28) |
+  [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=5):
+    - `NoiseCorr`: Ambient noise cross-correlation codes for daily long SAC format data in Matlab
+    - `EGFAnalysisTimeFreq`: Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
+- [Lapo Boschi: Software](http://hestia.lgs.jussieu.fr/~boschil/downloads.html):
+  Ambient-noise cross-correlation and dispersion-curve measurement in the frequency domain written in Python
+- [Martin Schimmel: Software](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software)
+    - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
+      [IRIS Webinar](https://www.youtube.com/watch?v=qr5EFhQzPwg):
+      Ambient noise processing tools written in Fortran
+    - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
+      Fast and efficient **p**hase **c**ross-**c**orrelation written in C
+    - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
+      Fast and efficient phase cross-correlation written in Python
+    - [TS_PWS0_UG](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
+      Group velocity determination using phase coherence and resampling strategies
 - [CC-FJpy](https://github.com/ColinLii/CC-FJpy): A Python Package for seismic
   ambient noise cross-correlation and the frequency-Bessel transform method
 - [GSpecDisp](https://github.com/Hamzeh-Sadeghi/GSpecDisp): A Matlab package for
   phase-velocity dispersion measurement from ambient-noise correlations
+- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise
+  cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB
+- [SeisNoise.jl](https://github.com/tclements/SeisNoise.jl):
+  Ambient Noise Cross-Correlation in Julia
 - [XDCpick](https://gitext.gfz-potsdam.de/chris/xdcpick): A simple tool for
-  efficient picking of group velocity dispersion curves, in C
+  efficient picking of group velocity dispersion curves written in C
 
-#### Inverting phase/group velocity maps
+### Surface-wave Tomography
 
-- [tomo_sp_cu_s](http://ciei.colorado.edu/Products/tomo_sp_cu_s-v1.1.tgz): Surface wave tomography based on ray theory | [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-- [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
-- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
+- [ASWMS](https://ds.iris.edu/ds/products/aswms) |
+  [GitHub](https://github.com/jinwar/matgsdf):
+  **A**utomated **S**urface **W**ave Phase Velocity **M**easuring **S**ystem written in MATLAB, measuring the phase and amplitude of surface waves and then generate
+  surface-wave tomography maps using the Eikonal and Helmhotza tomography
+- [FMST](http://rses.anu.edu.au/~nick/surftomo.html) |
+  [iEarth](http://www.iearth.org.au/codes/FMST):
+  Traveltime tomography in 2-D spherical shell coordinates based on fast marching method
+- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel
+  time tomography based on Reversible jump Markov chain Monte Carlo algorithm
+- [tomo_sp_cu_s](http://ciei.colorado.edu/Products/) |
+  [GitHub](https://github.com/NoiseCIEI/RayTomo):
+  Ray theoretic surface wave tomography
+- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise
+  cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB
+- [SurfwaveTomoPrograms](https://github.com/chukren/SurfwaveTomoPrograms):
+  Finite frequency Rayleigh wave tomography programs
 
-### Direct Surface-wave Tomography
+### Surface-wave Dispersion Inversion
 
-- [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
-- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
+    - [srfpython](https://github.com/obsmax/srfpython): Compute, display, and
+      invert 1D depth models based on CPS330 written in Python
+- [MCDisp](https://github.com/xin2zhang/MCDisp): Surface wave dispersion inversion
+  using Monte Carlo methohd written in Python
+- [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion
+  inversion code written in MATLAB
 
-### Surface-wave dispersion calculation
+### Direct Inversion of Surface-wave Dispersion Data
 
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [DSurfTomo](https://github.com/HongjianFang/DSurfTomo):
+  Direct inversion of surface dispersion data based on ray tracing written in Fortran
+- [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo):
+  Direct Surface Wave Radial Anisotropy Tomography written in Fortran
+- [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo):
+  Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing
+- [3D Monte Carlo Direct Inversion](https://blogs.ed.ac.uk/imaging/research/codes/) |
+  [GitHub](https://github.com/xin2zhang/MCTomo):
+  3D Monte Carlo tomography using both body and surface wave data
+
+### Surface-wave Dispersion Forward Calculation
+
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
-- [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
-- [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum): Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
-- [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
+- [senskernel](http://ciei.colorado.edu/Products/) |
+  [GitHub](https://github.com/NoiseCIEI/SensKernel):
+  Phase/Group velocities Sensitivity Kernels
+- [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum):
+  Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
+- [Vphase](http://www.spice-rtn.org/library/software/vphase.html):
+  A training code to calculation of phase velocity dispersion curves
 
-#### Surfave-wave Tomography Workflow
+### Surfave-wave Tomography Workflow
 
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
   Python framework for seismic noise tomography
@@ -337,7 +433,10 @@ toc: true
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  Collection of programs for calculating theorectical seismogram, receiver function,
+  surface wave dispersion curve et al.
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html) |
