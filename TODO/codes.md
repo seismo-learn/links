@@ -360,73 +360,6 @@
 - [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html): 3-D First Arrival Seismic Tomography programs
 - [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=4) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
-
-### Earthquake surface-wave phase/group velocity dispersion
-
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-    - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI): Automatic Surface Wave Two-station Dispersion Analysis (Matlab GUI)
-- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-    - [Surface Waves](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/): CPS330's tutorial on surface wave
-    - [two-station technique to obtain phase velocities](http://www.eas.slu.edu/eqc/eqc_cps/Questions/QA0008/index.html)
-- [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Surface Wave Multiple Filter Analysis
-
-
-### Ambient noise surface-wave phase/group velocity dispersion
-
-- [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-    - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
-    - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
-    - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=5) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-    - `NoiseCorr` : Ambient noise cross-correlation codes for daily long SAC format data in Matlab
-    - `EGFAnalysisTimeFreq` : Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
-- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
-- [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
-- [Martin Schimmel's codes](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software)
-    - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Ambient Noise Processing Tools for Phase Cross Correlation and time-frequency Phase Weighted Stack written in Fortran | [IRIS Webinar](https://www.youtube.com/watch?v=qr5EFhQzPwg)
-    - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in C
-    - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in Python
-- [Lapo Boschi's codes](http://hestia.lgs.jussieu.fr/~boschil/downloads.html): Ambient-noise cross-correlation and dispersion-curve measurement in the frequency domain written in Python
-- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
-
-### Inverting 2D surface-wave phase/group velocity maps
-
-- [tomo_sp_cu_s](http://ciei.colorado.edu/Products/): Surface wave tomography based on ray theory | [github](https://github.com/NoiseCIEI/RayTomo)
-- [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
-- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
-- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
-- [SurfwaveTomoPrograms](https://github.com/chukren/SurfwaveTomoPrograms): finite frequency Rayleigh wave tomography programs (Two-plane wave with 2D sensitivity kernel; [Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x), [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
-- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
-
-
-### Other methods to measure surface-wave dispersion data & phase/group velocity maps
-
-- [NoisePy](https://github.com/NoiseCIEI/NoisePy): Some simple methods for seismic surface wave analysis written in Python
-- [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
-
-
-### Inversion from phase/group velocities
-
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-    - [srfpython](https://github.com/obsmax/srfpython): compute, display, invert 1D depth models based on CPS330 written in Python
-- [MCDisp](https://github.com/xin2zhang/MCDisp): Surface wave dispersion inversion using Monte Carlo methohd written in Python
-- [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
-
-
-### Direct inversion of surface-wave dispersion data
-
-- [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran written in Fortran
-- [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran | [zenodo](https://zenodo.org/record/3592528#.XyzC2s8zZhF)
-- [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo): Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing written in Fortran
-- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data | [GitHub](https://github.com/xin2zhang/MCTomo)
-
-
-### Workflows for surface-wave tomography
-
-- [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography): Python framework for seismic noise tomography
-
-
 ### Rayleigh-wave HV
 
 - [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
@@ -454,11 +387,9 @@
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
 
-
 ### Inversion of teleseismic waveforms
 
 - [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover Green's functions of receiver-side structures from teleseismic waveforms
-
 
 ### Joint Inversion of Seismological Data
 
@@ -470,7 +401,6 @@
 - [jointBSVpVs](https://github.com/HongjianFang/jointBSVpVs): Joint inversion of body and surface wave data for Vp/Vs
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
 
-
 ### Multi-observable Modelling and Inversion of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
@@ -479,7 +409,6 @@
     - [LitMod_3D](https://www.juanafonso.com/software): 3D integrated geophysical-petrological interactive forward modelling of the lithosphere and underlying upper mantle | new version in [Github](https://github.com/javfurchu/litmod)
     - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
 - [JDSurfG](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface Wave Tomography and Bouguer Gravity
-
 
 ### Full Waveform Inversion
 
@@ -500,10 +429,3 @@
 - [GERMAINE](https://github.com/daniel-koehn/GERMAINE): 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
 - [travel time and waveform modelling near fault zone](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=6) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-
-
-
-
-
-
-
