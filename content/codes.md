@@ -295,13 +295,13 @@ toc: true
       [iEarth](http://www.iearth.org.au/codes/FMTOMO):
       3-D traveltime tomography based on fast marching method written in Fortran
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html) |
-      [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT):
+      [iEarth](http://www.iearth.org.au/codes/FMTT):
       Teleseismic tomography based on fast marching method written in Fortran
 - [SIMUL2000](http://www.geology.wisc.edu/~thurber/simul2000/): Cliff Thurber's traveltime tomography codes
 - [Haijiang Zhang](http://ess.ustc.edu.cn/faculties/detail-134.html)'s tomoDD |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=4):
-  double-difference tomography:
+  Double difference tomography
 - [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html):
   3-D **F**irst **A**rrival **S**eismic **T**omography programs
 - [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html) |
@@ -440,6 +440,14 @@ toc: true
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
   Python framework for seismic noise tomography
 
+### Rayleigh-wave Ellipticity
+
+- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
+  [GitHub](https://github.com/berbellini/DOP-E):
+  Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
+- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity
+  from earthquake data written in Python
+
 ## Receiver Function
 
 ### Synthetic RF
@@ -470,14 +478,6 @@ toc: true
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
 - [Some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): Ammon's & Cheng's codes
-
-### Rayleigh-wave Ellipticity
-
-- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
-  [GitHub](https://github.com/berbellini/DOP-E):
-  Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
-- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity
-  from earthquake data written in Python
 
 ## Joint inversion of seismological data
 
