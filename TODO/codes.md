@@ -350,21 +350,6 @@
 ---------------------------
 ## Seismic Imaging
 
-### Body-wave tomography
-
-- [Nick Rawlinson's softwares](http://rses.anu.edu.au/~nick)
-    - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html): 3-D traveltime tomography based on fast marching method | [FMTOMO at iEarth](http://www.iearth.org.au/codes/FMTOMO)
-    - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html): Teleseismic tomography based on fast marching method | [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT)
-- [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
-- [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html): 2-D traveltime inversion and amplitude modeling programs | [A modified version](https://github.com/hzhu212/rayinvr)
-- [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html): 3-D First Arrival Seismic Tomography programs
-- [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=4) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-
-### Rayleigh-wave HV
-
-- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
-- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity from earthquake data written in Python
-
 ### Receiver Function Measurements and Inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
