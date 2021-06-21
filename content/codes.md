@@ -526,7 +526,7 @@ toc: true
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr):
   2D Acoustic frequency-domain Full Waveform modeling and inversion code
 
-### Multi-observable Modelling and Inversion of Geophysical Data
+## Multi-observable Modelling and Inversion of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling and inversion of geophysical data
     - [LitMod_2D](https://www.juanafonso.com/software) |
