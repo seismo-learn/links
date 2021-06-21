@@ -450,11 +450,6 @@ toc: true
 
 ## Receiver Function
 
-### Synthetic RF
-
-
-### Measurement and Inversion of RF
-
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology written in Python
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html) |
   [Chinese note](https://blog.seisman.info/hk-install):
