@@ -271,8 +271,12 @@ toc: true
 ## Seismicity
 
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
-- [sd](http://bemlar.ism.ac.jp/zhuang/software.html): **S**tochastic **d**eclustering based on the space-time ETAS model
-- [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
+- [GR_EST](https://github.com/MatteoTaroniINGV/GR_EST): An OCTAVE/MATLAB toolbox
+  to estimate Gutenberg–Richter law parameters and their uncertainties
+- [sd](http://bemlar.ism.ac.jp/zhuang/software.html): **S**tochastic **d**eclustering
+  based on the space-time ETAS model
+- [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP):
+  A GUI to analyse catalogue data
 
 ## Source Spectrum
 
@@ -281,10 +285,15 @@ toc: true
 
 ## Stress/Strain
 
-- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
-- [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
-- [MSATSI](https://www.induced.pl/software): MATLAB package for stress tensor inversion
-- [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
+- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress
+  changes on mapped faults and earthquake nodal planes
+- [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement,
+  strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
+- [MSATSI](https://www.induced.pl/software): Stress tensor inversion written in MATLAB
+- [SATSI](https://www.usgs.gov/software/satsi): **S**patial **A**nd **T**emporal
+  **S**tress **I**nversion from focal mechanisms
+- [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): An iterative joint
+  inversion for stress and fault orientations from focal mechanisms written in MATLAB or Python
 
 ----
 
