@@ -480,7 +480,7 @@ toc: true
   [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3):
   A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
 - [FuncLab](https://seiscode.iris.washington.edu/projects/funclab) (invalid link) |
-  [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)：
+  [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised):
   A Matlab based GUI for handling receiver functions
 - [h-k c](https://github.com/ljt-uiuc/H-k-c) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
