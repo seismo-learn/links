@@ -530,13 +530,13 @@ toc: true
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling and inversion of geophysical data
     - [LitMod_2D](https://www.juanafonso.com/software) |
-      [A new version in [Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users):
+      [A new version in Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users):
       An interactive software to perform multi-observable forward modelling of
       geophysical data for 2D whole lithospheric structure of the Earth and/or
       other terrestrial planets
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
     - [LitMod_3D](https://www.juanafonso.com/software) |
-      [A new version in [Github](https://github.com/javfurchu/litmod):
+      [A new version in Github](https://github.com/javfurchu/litmod):
       3D integrated geophysical-petrological interactive modelling of the lithosphere
       and underlying upper mantle using a variety of input datasets:
       potential fields (gravity and magnetic), surface heat flow, elevation (isostasy),
