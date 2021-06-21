@@ -164,9 +164,15 @@ toc: true
 - [3DFE_GSM](http://www.nuquake.eu/Computer_Codes/request.htm)
 - [3DFE_REF](http://www.nuquake.eu/Computer_Codes/request.htm)
 
+### Boundary Element Methods
+
+- [AstroSeis](https://github.com/ytian159/AstroSeis):
+  Asteroid seismic wavefield modeling written in MATLAB
+
 ### Pseudo-Spectral Methods
 
-- [Ps2D](http://www.spice-rtn.org/library/software/Ps2d.html): A very simple code for elastic wave simulation in 2D using a Pseudo-Spectral Fourier method
+- [Ps2D](http://www.spice-rtn.org/library/software/Ps2d.html): A very simple code
+  for elastic wave simulation in 2D using a Pseudo-Spectral Fourier method
 
 ### Spectral Element Methods
 
@@ -200,11 +206,13 @@ toc: true
 
 ### Discontinuous Galerkin Method
 
-- [SeisSol](https://github.com/SeisSol/SeisSol): a scientific software for the numerical simulation of seismic wave phenomena and earthquake dynamics
+- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
+  wave phenomena and earthquake dynamics
 
 ### Surface waves in 3D structures
 
-- [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
+- [Couplage](http://www.quest-itn.org/library/software/couplage):
+  Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 ### Hybrid Methods
 
@@ -456,11 +464,25 @@ toc: true
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
+    - [disba](https://github.com/keurfonluu/disba): Numba-accelerated computation
+      of surface wave dispersion that implements a subset of codes from CPS330 written in Python
+    - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code
+      for surface wave, receiver functions and shear wave splitting,
+      given tilted hexagonal symmetric media
+    - [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers
+      for the CPS and Rftn libraries for layered models in seismology
+    - [pysurf96](https://github.com/miili/pysurf96): Python wrapper for
+      modelling surface wave dispersion curves from surf96 in CPS330 written in Python
+    - [srfpython](https://github.com/obsmax/srfpython): compute, display,
+      invert 1D depth models based on CPS330 written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/) |
   [GitHub](https://github.com/NoiseCIEI/SensKernel):
   Phase/Group velocities Sensitivity Kernels
+- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD):
+  Compute surface wave dispersion curves and receiver functions in anisotropic
+  models with hexagonally symmetry
 - [TheoreticalDispersionSpectrum](https://github.com/ColinLii/TheoreticalDispersionSpectrum):
   Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html):
@@ -486,6 +508,7 @@ toc: true
   [Chinese note](https://blog.seisman.info/hk-install):
   Receiver function package (synthetic RF, deconvolution, and H-k stacking)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [Python wrapper: PyLayeredModel](https://github.com/harrymd/PyLayeredModel) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
@@ -519,6 +542,9 @@ toc: true
   Generalized H-k after harmonic correction on receiver functions 
 - [IRFFM](http://www.iearth.org.au/codes/IRFFM/): An interactive Java program for
   joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
+- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD):
+  Compute surface wave dispersion curves and receiver functions in anisotropic
+  models with hexagonally symmetry
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab):
   MATLAB functions and scripts for working with receiver functions
 - [psdm](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
@@ -528,6 +554,8 @@ toc: true
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid_RF):
   Calculating synthetic RF in two-dimensional localized hetergeneous structures
   based on PSV Hybrid method (GRT-FD)
+- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave,
+  receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by
   reversible-jump Markov-chain Monte Carlo written in Fortran
 - [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation along with post-processing

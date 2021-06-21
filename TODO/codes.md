@@ -110,35 +110,6 @@
 - [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html): Traveltime calculation for transversely isotropic (TI) spherically symmetric models
 - [Surface Wave Ray Tracing with Azimuthal Anisotropy](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html): Surface Wave Ray Tracing with Azimuthal Anisotropy | [Lapo Boschi's homepage](http://hestia.lgs.jussieu.fr/~boschil/downloads.html)
 
-
-## Surface-wave dispersion forward calculation
-
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-    - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
-    - [disba](https://github.com/keurfonluu/disba): Numba-accelerated computation of surface wave dispersion that implements a subset of codes from CPS330 written in Python
-    - [srfpython](https://github.com/obsmax/srfpython): compute, display, invert 1D depth models based on CPS330 written in Python
-    - [pysurf96](https://github.com/miili/pysurf96): Python wrapper for modelling surface wave dispersion curves from surf96 in CPS330 written in Python
-    - [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers for the CPS and Rftn libraries for layered models in seismology
-- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD): Forward code to compute surface wave dispersion curves and receiver functions in anisotropic models with hexagonally symmetry
-- [senskernel](http://ciei.colorado.edu/Products/): Calculate sensitivity kernal of group velocity and phase velocity | [github](https://github.com/NoiseCIEI/SensKernel)
-- [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
-- [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
-
-
-## Synthetic Receiver Function
-
-- [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-    - [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers for the CPS and Rftn libraries for layered models in seismology
-- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
-- [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
-- [Jeffrey Park's codes](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Receiver Function Analysis Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
-- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
-- [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
-- [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD)
-- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD): Forward code to compute surface wave dispersion curves and receiver functions in anisotropic models with hexagonally symmetry
-
-
 ## Synthetic Seismograms
 
 ### Ray theory in 1D layered Earth
@@ -149,7 +120,6 @@
 - [Asymptotic ray theory in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [WKBJ method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
 - [CRT](http://seis.karlov.mff.cuni.cz/software/sw3dcd21/crt/crt.htm): Complete ray tracing subroutine package
-
 
 ### Reflectivity method in 1D layered Earth
 
@@ -216,23 +186,6 @@
 - [OpenSWPC](https://github.com/tktmyd/OpenSWPC): 2D/3D Finite-Difference Seismic Wave Simulation
 - [FD](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/fd/fd.htm): 2-D P-SV elastic second-order finite difference
 
-
-### Finite Element Methods
-
-- [3DFE_GSM](http://www.nuquake.eu/Computer_Codes/request.htm)
-- [3DFE_REF](http://www.nuquake.eu/Computer_Codes/request.htm)
-
-
-### Boundary Element Methods
-
-- [AstroSeis](https://github.com/ytian159/AstroSeis): MATLAB codes for asteroid seismic wavefield modeling
-
-
-### Pseudo-Spectral Methods
-
-- [Ps2D](http://www.spice-rtn.org/library/software/Ps2d.html): A very simple code for elastic wave simulation in 2D using a Pseudo-Spectral Fourier method
-
-
 ### Spectral Element Methods
 
 - [SPECFEM1D](https://github.com/geodynamics/specfem1d): A small code that allows users to learn how a spectral-element program is written
@@ -254,14 +207,6 @@
 - [sem2dpack](https://github.com/jpampuero/sem2dpack): A spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics.
 
 
-### Discontinuous Galerkin Method
-
-- [SeisSol](https://github.com/SeisSol/SeisSol): a scientific software for the numerical simulation of seismic wave phenomena and earthquake dynamics
-
-
-### Surface waves in 3D structures
-
-- [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 
 ---------------
