@@ -494,7 +494,7 @@ toc: true
 ## Full Waveform Inversion
 
 - [IFOS2D](https://www.gpi.kit.edu/english/498.php?tab=%5B245%5D#tabpanel-245) |
-  [GitLab](https://git.scc.kit.edu/GPIAG-Software/IFOS2D)):
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/IFOS2D):
   2D elastic full waveform inversion
 - [IFOS3D](https://www.gpi.kit.edu/english/498.php?tab=%5B245%5D#tabpanel-245) |
   [GitLab](https://git.scc.kit.edu/GPIAG-Software/IFOS3D):
@@ -526,13 +526,26 @@ toc: true
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr):
   2D Acoustic frequency-domain Full Waveform modeling and inversion code
 
-## Multi-observable modelling of geophysical data
+## Multi-observable Modelling and Inversion of Geophysical Data
 
-- [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
-    - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets
+- [LitMod](https://www.juanafonso.com/software): Multi-observable modelling and inversion of geophysical data
+    - [LitMod_2D](https://www.juanafonso.com/software) |
+      [A new version in Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users):
+      An interactive software to perform multi-observable forward modelling of
+      geophysical data for 2D whole lithospheric structure of the Earth and/or
+      other terrestrial planets
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
-    - [LitMod_3D](https://www.juanafonso.com/software): A 3D version LitMod | [Github code](https://github.com/javfurchu/litmod)
-    - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code(s) in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
+    - [LitMod_3D](https://www.juanafonso.com/software) |
+      [A new version in Github](https://github.com/javfurchu/litmod):
+      3D integrated geophysical-petrological interactive modelling of the lithosphere
+      and underlying upper mantle using a variety of input datasets:
+      potential fields (gravity and magnetic), surface heat flow, elevation (isostasy),
+      seismics, magnetotellurics and geochemical
+    - [LitMod_4INV](https://www.juanafonso.com/software):
+      A fully nonlinear probabilistic inversion codes in spherical coordinates for
+      the compositional and thermal structure of the lithosphere and upper mantle
+- [JDSurfG](https://github.com/nqdu/JDSurfG): Joint Inversion of Direct Surface
+  Wave Tomography and Bouguer Gravity
 
 ----
 
