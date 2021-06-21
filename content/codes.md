@@ -481,8 +481,20 @@ toc: true
 
 ## Joint Inversion of Seismological Data
 
-- [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
-- [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
+- [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/):
+  A workshop in Peking University in 2017 for joint inversion of surface-wave dispersion data and receiver function
+- [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): **SEIS**mological inversion tools for
+  **F**lat and **I**sotropic **L**ayered structure in the **O**cean
+- [BayHunter](https://github.com/jenndrei/BayHunter): McMC transdimensional Bayesian
+  inversion of surface wave dispersion and receiver functions in Python
+- [Huajian Yao: Codes and Software](http://yaolab.ustc.edu.cn/resources.php?i=28):
+  Inversion of Vs, Vp/Vs, and interface depth using dispersion data and Rayleigh wave ellipticity
+- [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code
+  for inverting Vs and anisotropy
+- [jointBSVpVs](https://github.com/HongjianFang/jointBSVpVs):
+  Joint inversion of body and surface wave data for Vp/Vs
+- [RfSurfHmc](https://github.com/nqdu/RfSurfHmc): Joint inversion of Receiver
+  Function and Surface Wave Disperion by Hamilton Monte Carlo Method
 
 ## Waveform Inversion
 
