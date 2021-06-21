@@ -668,7 +668,7 @@ toc: true
 ## Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html) |
-  [Code at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
+  [iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
   Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations
 - [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat):
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python
