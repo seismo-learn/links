@@ -264,33 +264,8 @@
 - [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 
-### Other hybrid methods
-
-- [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method.
-
-
-### Other forward modelling
-
-- [Waveform modelling of fault zone](https://earth.usc.edu/~ybz/): Yehuda Ben-Zion's codes used to model point/line dislocation in fault zone layers.
-- [CPSPy](https://github.com/NoisyLeon/CPSPy): Python interface for CPS330
-
-
 ---------------
 ## Seismic Source
-
-### Earthquake Location
-
-- [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation for earthquake hypocenters
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html): Double-difference earthquake location
-- [HypoRelocate](https://github.com/sun1022/hypoRelocate): High-resolution earthquake relocation method
-- [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location): Locate earthquakes and determine magnitudes in a local or regional seismic network
-- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc): Probabilistic, Non-Linear, Global-Search Earthquake Location in 3D Media.
-- [PhaseLink](https://github.com/interseismic/PhaseLink): A deep learning approach to seismic phase association
-- [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
-- [Velest](https://seg.ethz.ch/software/velest.html): 1-D inversion of velocities and hypocenter locations
-    - This code is modified to be used in [REAL](https://github.com/Dal-mzhang/REAL)
-- [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake location via parallel tempering and principal component sampling.
-
 
 ### Focal Mechanism
 
@@ -316,20 +291,3 @@
 - [RPGEN](https://www.induced.pl/software/radiation-of-psshsv-waves-from-shear-tensile-source-model): Radiation of P/S/SH/SV waves from shear-tensile source model
 - [MT_DECOMPOSITION](https://www.ig.cas.cz/mt-decomposition): A Matlab software package for the moment tensor decomposition
 - [PCA-DECOMPOSITION](https://www.ig.cas.cz/en/pca-decomposition): A Matlab software package for the Principal Component Decomposition of seismic traces for extracting the common wavelet
-
-
-### Seismicity
-
-- [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
-- [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
-- [GR_EST](https://github.com/MatteoTaroniINGV/GR_EST): An OCTAVE/MATLAB Toolbox to Estimate Gutenberg–Richter Law Parameters and Their Uncertainties
-
-
-### Stress/Strain
-
-- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
-- [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement, strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
-- [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
-- [MSATSI](https://www.induced.pl/software): MATLAB package for stress tensor inversion
-- [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
-
