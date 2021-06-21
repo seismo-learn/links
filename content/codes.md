@@ -208,7 +208,6 @@ toc: true
 
 ### Hybrid Methods
 
-
 - [Hybrid Methods in SPECFEM3D](https://github.com/geodynamics/specfem3d):
   The coulping can be found in `specfem3D/couple_with_injection.f90`
   - **FK-SEM**: FK is not an external code, it is now called internally
@@ -220,6 +219,11 @@ toc: true
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid):
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
+
+## Waveform Forward Modelling
+
+- [Yehuda Ben-Zion: Downloads](https://earth.usc.edu/~ybz/):
+  Model point/line dislocation in fault zone
 
 ---
 
@@ -282,8 +286,12 @@ toc: true
 ## Seismicity
 
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
-- [sd](http://bemlar.ism.ac.jp/zhuang/software.html): **S**tochastic **d**eclustering based on the space-time ETAS model
-- [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
+- [GR_EST](https://github.com/MatteoTaroniINGV/GR_EST): An OCTAVE/MATLAB toolbox
+  to estimate Gutenberg–Richter law parameters and their uncertainties
+- [sd](http://bemlar.ism.ac.jp/zhuang/software.html): **S**tochastic **d**eclustering
+  based on the space-time ETAS model
+- [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP):
+  A GUI to analyse catalogue data
 
 ## Source Spectrum
 
@@ -292,10 +300,15 @@ toc: true
 
 ## Stress/Strain
 
-- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
-- [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
-- [MSATSI](https://www.induced.pl/software): MATLAB package for stress tensor inversion
-- [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
+- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress
+  changes on mapped faults and earthquake nodal planes
+- [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement,
+  strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
+- [MSATSI](https://www.induced.pl/software): Stress tensor inversion written in MATLAB
+- [SATSI](https://www.usgs.gov/software/satsi): **S**patial **A**nd **T**emporal
+  **S**tress **I**nversion from focal mechanisms
+- [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): An iterative joint
+  inversion for stress and fault orientations from focal mechanisms written in MATLAB or Python
 
 ----
 
@@ -675,7 +688,7 @@ toc: true
 ## Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html) |
-  [Code at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
+  [iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
   Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations
 - [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat):
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python
