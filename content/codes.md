@@ -271,24 +271,45 @@ toc: true
 
 ## Focal Mechanism
 
-- [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
+- [gCAP](http://www.eas.slu.edu/People/LZhu/home.html) |
+  [Oh My CAP](https://github.com/wangliang1989/oh-my-cap) |
+  [Chinese note](https://blog.seisman.info/gcap-install):
+  Focal mechanism inversion using cut and paste method
+- [CAPjoint](https://github.com/bqpseismology/CAPjoint) |
+  [CAPjoint examples](https://github.com/wangliang1989/capjoint): 
+  Joint Inversion of Moderate Earthquake Source Parameters
+- [gCAPjoint](https://github.com/bqpseismology/gCAPjoint):
+  Full Moment Tensor Inversion of Moderately Strong Earthquakes with Local and Teleseismic Waveforms
+- [CAPsf](https://doi.org/10.1785/0220190349): Invert source mechanisms for single‐force events
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
-  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/) |
+  [Moment Tensor Workshop (2012)](http://www.eas.slu.edu/eqc/eqc_cps/workshop.html):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [W Phase](http://eost.u-strasbg.fr/wphase): Moment tensor inversion using W phase
-- [focmec](https://seiscode.iris.washington.edu/projects/focmec): Package for determining and displaying double-couple earthquake focal mechanisms based on polarities and amplitude ratios
-- [HASH](https://earthquake.usgs.gov/research/software/#HASH): Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
-- [FPFIT](https://www.usgs.gov/software/fpfit-fpplot-and-fppage): Calculate and plot fault-plane solutions from first-motion data
-- [ISOLA](http://www.spice-rtn.org/library/software/ISOLA.html): Retrieve isolated asperities from regional or local waveforms based on multiple-point source representation and iterative deconvolution
+- [Moment-Tensor Inversion](http://eqseis.geosc.psu.edu/cammon/HTML/MTinvDocs/mtinv01.html)
+- [W Phase](http://eost.u-strasbg.fr/wphase): W Phase source inversion
+- [HASH](https://www.usgs.gov/software/hash-12#:~:text=HASH%20is%20designed%20to%20produce,2264%2D2276%2C%202002.):
+  Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
+- [focmec](https://seiscode.iris.washington.edu/projects/focmec):
+  Determining and displaying double-couple earthquake focal mechanisms
+- [FPFIT](https://www.usgs.gov/software/fpfit-fpplot-and-fppage):
+  Calculate and plotfault-plane solutions from first-motion data
+- [hybridMT](https://www.induced.pl/software): Moment tensor inversion and refinement written in MATLAB
+- [fociMT](https://www.induced.pl/software): A stand-alone command line application
+  for seismic moment tensor inversion, which is an integral part of hybridMT
+- [FOCI](https://www.induced.pl/software): A stand-alone Windows GUI application
+  for performing the seismic moment tensor inversion and source parameters assessment
+- [ISOLA](http://www.spice-rtn.org/library/software/ISOLA.html): Retrieve isolated
+  asperities from regional or local waveforms based on multiple-point source
+  representation and iterative deconvolution
 - [MTfit](https://github.com/djpugh/MTfit): Bayesian Moment Tensor Fitting
-- [pyTDMT](https://github.com/fabriziobernardi/pydmt): time-domain focal mechanism inversion, written in Python
-- [hybridMT](https://www.induced.pl/software): MATLAB package for moment tensor inversion and refinement
-    - [fociMT](https://www.induced.pl/software): A stand-alone command line application for seismic moment tensor inversion, which is an integral part of hybridMT package
-- [FOCI](https://www.induced.pl/software): A stand-alone Windows GUI application for performing the seismic moment tensor inversion and source parameters assessment
-- [RPGEN](https://www.induced.pl/software/radiation-of-psshsv-waves-from-shear-tensile-source-model): Radiation of P/S/SH/SV waves from shear-tensile source model
-- [MT_DECOMPOSITION](https://www.ig.cas.cz/mt-decomposition): A Matlab software package for the moment tensor decomposition
-- [PCA-DECOMPOSITION](https://www.ig.cas.cz/en/pca-decomposition): A Matlab software package for the Principal Component Decomposition of seismic traces for extracting the common wavelet
+- [MT_DECOMPOSITION](https://www.ig.cas.cz/mt-decomposition):
+  Moment tensor decomposition written in MATLAB
+- [PCA-DECOMPOSITION](https://www.ig.cas.cz/en/pca-decomposition):
+   Principal Component Decomposition of seismic traces for extracting the common wavelet written in MATLAB
+- [pyTDMT](https://github.com/fabriziobernardi/pydmt): Time Domain Moment Tensor Inversion
+- [RPGEN](https://www.induced.pl/software/radiation-of-psshsv-waves-from-shear-tensile-source-model):
+  Calculates P-wave, S-wave, SH-wave and SV-wave radiation pattern using shear-tensile source model
 
 ## Seismicity
 
