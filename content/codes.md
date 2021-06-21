@@ -220,7 +220,7 @@ toc: true
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
 
-### Waveform Forward Modelling
+## Waveform Forward Modelling
 
 - [Yehuda Ben-Zion: Downloads](https://earth.usc.edu/~ybz/):
   Model point/line dislocation in fault zone
