@@ -479,10 +479,52 @@ toc: true
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
 - [Some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): Ammon's & Cheng's codes
 
-## Joint inversion of seismological data
+## Joint Inversion of Seismological Data
 
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
+
+## Waveform Inversion
+
+- [Fault zone travel time and waveform modelling](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=6)
+- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover
+  Green's functions of receiver-side structures from teleseismic waveforms
+
+## Full Waveform Inversion
+
+- [IFOS2D](https://www.gpi.kit.edu/english/498.php?tab=%5B245%5D#tabpanel-245) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/IFOS2D)):
+  2D elastic full waveform inversion
+- [IFOS3D](https://www.gpi.kit.edu/english/498.php?tab=%5B245%5D#tabpanel-245) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/IFOS3D):
+  3D elastic full waveform inversion
+- [DENISE](https://github.com/daniel-koehn/DENISE-Black-Edition):
+  2D time-domain isotropic (visco)elastic FD modeling and full waveform inversion code for P/SV-waves
+- [2DNoise_Adjoint_tomography](https://github.com/ustcchaozhang/2DNoise_Adjoint_tomography):
+  2D ambient noise adjoint tomography and joint inversion of ambient noise and teleseismic body-wave
+- [2DZH_Adjoint_tomography](https://github.com/ustcchaozhang/2DZH_Adjoint_tomography):
+  2D ZH Amplitude Ratios adjoint tomography
+- [ASKI](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/aski.html):
+  Seismic Full Waveform Inversion and sensitivity/resolution analysis
+- [FWI.jl](https://github.com/JuliaInv/FWI.jl): Solving the 2D and 3D acoustic
+  full waveform inversion on a regular rectangular mesh written in Julia
+- [GERMAINE](https://github.com/daniel-koehn/GERMAINE):
+  2D frequency-domain acoustic/SH/TE-mode FD modelling and full waveform inversion code
+- [LASIF](http://www.lasif.net): **LA**rge-scale **S**eismic **I**nversion **F**ramework
+  to perform adjoint full seismic waveform inversions
+- [Salvus](https://mondaic.com/product): A scalable software suite for waveform
+  modeling and inversion across the scales
+- [SAVA](https://github.com/daniel-koehn/SAVA): 3D seismic finite-difference modelling,
+  Full Waveform Inversion (FWI) and Reverse Time Migration (RTM) code for wave
+  propagation in isotropic (visco)-acoustic/elastic and anisotropic orthorhombic/triclinic elastic media
+- [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
+- [SeisElastic2D](https://github.com/crewesleo/SeisElastic2D):
+  An open-source package for multiparameter FWI in isotropic-, anisotropic- and visco-elastic media
+- [SES3D](https://cos.ethz.ch/software/production/ses3d.html):
+  Simulation of elastic wave propagation and waveform inversion in a spherical section
+- [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr):
+  2D Acoustic frequency-domain Full Waveform modeling and inversion code
 
 ## Multi-observable modelling of geophysical data
 
@@ -491,22 +533,6 @@ toc: true
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
     - [LitMod_3D](https://www.juanafonso.com/software): A 3D version LitMod | [Github code](https://github.com/javfurchu/litmod)
     - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code(s) in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
-
-## Full Waveform Inversion
-
-- [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
-- [ASKI](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/aski.html): Modularized program suite for sensitivity analysis and iterative full waveform inversion
-- [FWI.jl](https://github.com/JuliaInv/FWI.jl): 2D/3D acoustic FWI in Julia
-- [IFOS2D](https://git.scc.kit.edu/GPIAG-Software/IFOS2D): 2D elastic full waveform inversion
-- [IFOS3D](https://git.scc.kit.edu/GPIAG-Software/IFOS3D): 3D elastic full waveform inversion
-- [DENISE-SH](https://github.com/daniel-koehn/DENISE-SH): 2D SH-wave full waveform modeling and inversion
-- [DENISE](https://github.com/daniel-koehn/DENISE-Black-Edition): 2D PSV-wave full waveform modeling and inversion
-- [GERMAINE](https://github.com/daniel-koehn/GERMAINE): 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
-- [SAVA](https://github.com/daniel-koehn/SAVA): 3D seismic modelling, FWI and RTM code for wave propagation in isotropic (visco)-acoustic/elastic and anisotropic orthorhombic/triclinic elastic media
-- [SES3D](https://cos.ethz.ch/software/production/ses3d.html): Simulation of elastic wave propagation and waveform inversion in a spherical section
-- [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
-- [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
-- [Salvus](https://salvus.io): Full waveform modelling and inversion
 
 ----
 
