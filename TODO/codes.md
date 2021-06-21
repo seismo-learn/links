@@ -267,20 +267,6 @@
 ---------------
 ## Seismic Source
 
-### Earthquake Detection
-
-- [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
-- [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Template detecting and locating of small earthquakes
-- [GPU-MatchLocate1.0](https://github.com/MinLiu19/GPU-MatchLocate1.0): A GPU version of Match&Locate
-- [FastMatchedFilter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
-- [FAST](https://github.com/stanford-futuredata/FAST): End-to-end earthquake detection pipeline via efficient time series similarity search
-- [SEC-C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
-- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): A python package for the detection and analysis of repeating and near-repeating earthquakes
-- [RT_EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-Time implementation of EQcorrscan methods
-- [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
-- [repeating-earthquake](https://github.com/core-man/repeating-earthquake): Search repeating earthquakes based on cross-correlation of seismic waveforms of event pairs at same stations.
-
-
 ### Focal Mechanism
 
 - [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
