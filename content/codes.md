@@ -240,16 +240,27 @@ toc: true
 - [dynamic_earthquake_triggering](https://github.com/yunndlalala/dynamic_earthquake_triggering): A package for detecting dynamic earthquake triggering written in Python
 
 
-## Earthquake location
+## Earthquake Location
 
-- [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation for earthquake hypocenters
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html): Double-difference earthquake location
-- [HypoRelocate](https://github.com/sun1022/hypoRelocate): High-resolution earthquake relocation method
-- [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location): Locate earthquakes and determine magnitudes in a local or regional seismic network
-- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc): Probabilistic, Non-Linear, Global-Search Earthquake Location in 3D Media.
-- [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
-- [Velest](https://seg.ethz.ch/software/velest.html): 1-D inversion of velocities and hypocenter locations
-    - This code is modified to be used in [REAL](https://github.com/Dal-mzhang/REAL)
+- [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation of
+  earthquake hypocenters based on waveform cross-correlation data
+- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html):
+  Double-difference earthquake location
+- [HypoRelocate](https://github.com/sun1022/hypoRelocate):
+  High-resolution earthquake relocation method
+- [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location):
+  Locate earthquakes and determine magnitudes in a local or regional seismic network
+- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc)
+  Probabilistic, non-linear, global-search earthquake location in 3D Media
+- [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake
+  location via parallel tempering and principal component sampling
+- [PhaseLink](https://github.com/interseismic/PhaseLink):
+  A deep learning approach to seismic phase association
+- [REAL](https://github.com/Dal-mzhang/REAL): **R**apid **E**arthquake
+  **A**ssociation and **L**ocation written in C
+- [Velest](https://seg.ethz.ch/software/velest.html) |
+  A modified version in [REAL](https://github.com/Dal-mzhang/REAL):
+  1-D inversion of velocities and hypocenter locations
 
 ## Focal Mechanism
 

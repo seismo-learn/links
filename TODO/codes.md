@@ -281,20 +281,6 @@
 - [repeating-earthquake](https://github.com/core-man/repeating-earthquake): Search repeating earthquakes based on cross-correlation of seismic waveforms of event pairs at same stations.
 
 
-### Earthquake Location
-
-- [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation for earthquake hypocenters
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html): Double-difference earthquake location
-- [HypoRelocate](https://github.com/sun1022/hypoRelocate): High-resolution earthquake relocation method
-- [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location): Locate earthquakes and determine magnitudes in a local or regional seismic network
-- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc): Probabilistic, Non-Linear, Global-Search Earthquake Location in 3D Media.
-- [PhaseLink](https://github.com/interseismic/PhaseLink): A deep learning approach to seismic phase association
-- [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
-- [Velest](https://seg.ethz.ch/software/velest.html): 1-D inversion of velocities and hypocenter locations
-    - This code is modified to be used in [REAL](https://github.com/Dal-mzhang/REAL)
-- [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake location via parallel tempering and principal component sampling.
-
-
 ### Focal Mechanism
 
 - [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
