@@ -223,18 +223,25 @@ toc: true
 
 ---
 
-## Earthquake detection
+## Earthquake Detection
 
-- [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
-- [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Template detecting and locating of small earthquakes
-- [GPU-MatchLocate1.0](https://github.com/MinLiu19/GPU-MatchLocate1.0): A GPU version of Match&Locate
-- [FastMatchedFilter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
-- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): A python package for the detection and analysis of repeating and near-repeating earthquakes
-- [RT-EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-time implementation of EQcorrscan's matched-filter earthquake detection
-- [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
-- [FAST](https://github.com/stanford-futuredata/FAST): End-to-end earthquake detection pipeline via efficient time series similarity search
-- [dynamic_earthquake_triggering](https://github.com/yunndlalala/dynamic_earthquake_triggering): A package for detecting dynamic earthquake triggering written in Python
-
+- [REAL](https://github.com/Dal-mzhang/REAL): **R**apid **E**arthquake
+  **A**ssociation and **L**ocation written in C
+- [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Detect and locate
+  small events from continuous seismic waveforms using templates
+- [GPU-MatchLocate1.0](https://github.com/MinLiu19/GPU-MatchLocate1.0):
+  An improved match and locate method using GPU
+- [FastMatchedFilter](https://github.com/beridel/fast_matched_filter):
+  An efficient seismic matched-filter search for both CPU and GPU architectures
+- [dynamic_earthquake_triggering](https://github.com/yunndlalala/dynamic_earthquake_triggering):
+  Detecting dynamic earthquake triggering written in Python
+- [FAST](https://github.com/stanford-futuredata/FAST): End-to-end earthquake
+  detection pipeline via efficient time series similarity search
+- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): Detection and analysis
+  of repeating and near-repeating earthquakes written in Python
+- [RT-EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-time
+  implementation of EQcorrscan method
+- [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector written in Python
 
 ## Earthquake location
 
