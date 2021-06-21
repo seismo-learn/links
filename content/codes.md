@@ -440,7 +440,7 @@ toc: true
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
   Python framework for seismic noise tomography
 
-### Rayleigh-wave Ellipticity
+## Rayleigh-wave Ellipticity
 
 - [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
   [GitHub](https://github.com/berbellini/DOP-E):
