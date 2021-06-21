@@ -288,7 +288,7 @@ toc: true
   surface wave dispersion curve et al.
 - [Moment-Tensor Inversion](http://eqseis.geosc.psu.edu/cammon/HTML/MTinvDocs/mtinv01.html)
 - [W Phase](http://eost.u-strasbg.fr/wphase): W Phase source inversion
-- [HASH](https://www.usgs.gov/software/hash-12#:~:text=HASH%20is%20designed%20to%20produce,2264%2D2276%2C%202002.)):
+- [HASH](https://www.usgs.gov/software/hash-12#:~:text=HASH%20is%20designed%20to%20produce,2264%2D2276%2C%202002.):
   Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec):
   Determining and displaying double-couple earthquake focal mechanisms
