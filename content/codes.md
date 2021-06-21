@@ -208,7 +208,6 @@ toc: true
 
 ### Hybrid Methods
 
-
 - [Hybrid Methods in SPECFEM3D](https://github.com/geodynamics/specfem3d):
   The coulping can be found in `specfem3D/couple_with_injection.f90`
   - **FK-SEM**: FK is not an external code, it is now called internally
@@ -220,6 +219,11 @@ toc: true
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid):
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
+
+## Waveform Forward Modelling
+
+- [Yehuda Ben-Zion: Downloads](https://earth.usc.edu/~ybz/):
+  Model point/line dislocation in fault zone
 
 ---
 
@@ -673,7 +677,7 @@ toc: true
 ## Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html) |
-  [Code at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
+  [iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
   Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations
 - [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat):
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python

@@ -264,17 +264,6 @@
 - [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 
-### Other hybrid methods
-
-- [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method.
-
-
-### Other forward modelling
-
-- [Waveform modelling of fault zone](https://earth.usc.edu/~ybz/): Yehuda Ben-Zion's codes used to model point/line dislocation in fault zone layers.
-- [CPSPy](https://github.com/NoisyLeon/CPSPy): Python interface for CPS330
-
-
 ---------------
 ## Seismic Source
 
