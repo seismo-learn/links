@@ -452,32 +452,65 @@ toc: true
 
 ### Synthetic RF
 
-- [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
+
+### Measurement and Inversion of RF
+
+- [rf](https://github.com/trichter/rf): Receiver function calculation in seismology written in Python
+- [hk](http://www.eas.slu.edu/People/LZhu/home.html) |
+  [Chinese note](https://blog.seisman.info/hk-install):
+  Receiver function package (synthetic RF, deconvolution, and H-k stacking)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
-- [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
+- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software):
+  Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
+- [RF codes from some famous group codes](https://github.com/rmartinshort/RecieverFunctions)
+    - Charles J. Ammon's codes
+    - Cheng's codes, including Qingju Wu's maximum entrop deconvolution method (`burgays`)
+- Charles J. Ammon's RF codes:
+  [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
+- Jeffrey Park's RF codes | 
+  [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) |
+  [Updates](http://jparkcodes.blogspot.com):
+  - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn):
+    Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace
+  - [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick)
+  - [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii)
+- [CCP](http://www.eas.slu.edu/People/LZhu/home.html) |
+  [Chinses note](https://blog.seisman.info/ccp-install):
+  Common-Conversion-Point (CCP) stacking of receiver functions
+- [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en) |
+  [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3)
+  A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
+- [FuncLab](https://seiscode.iris.washington.edu/projects/funclab) (invalid link) |
+  [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)：
+  A Matlab based GUI for handling receiver functions
+- [h-k c](https://github.com/ljt-uiuc/H-k-c) |
+  [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=3):
+  Generalized H-k after harmonic correction on receiver functions 
+- [IRFFM](http://www.iearth.org.au/codes/IRFFM/): An interactive Java program for
+  joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
+- [processRFmatlab](https://github.com/iwbailey/processRFmatlab):
+  MATLAB functions and scripts for working with receiver functions
+- [psdm](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=2):
+  A wave equation migration method for receiver function imaging
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html) |
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid_RF):
   Calculating synthetic RF in two-dimensional localized hetergeneous structures
   based on PSV Hybrid method (GRT-FD)
-
-### RF measurements and inversion
-
-- [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
-- [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
-- [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
-- [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
-- [CrazySeismic](http://faculty.sustech.edu.cn/wp-content/uploads/2020/08/2020080323260850.zip): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
-- [FuncLab](https://seiscode.iris.washington.edu/projects/funclab): a Matlab based GUI for handling receiver functions (link does work) | [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)
-- [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
-- [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
-- [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
-- [Some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): Ammon's & Cheng's codes
+- [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by
+  reversible-jump Markov-chain Monte Carlo written in Fortran
+- [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation along with post-processing
+  (e.g., hk, harmonic decompositino, CCP) written in Python
+- [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions
+  using Reversible jump Markov chain Monte Carlo algorithm
+- [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive GUI tool to simulate P or S receiver functions
+- [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing
+  receiver functions and shear wave spliting
 
 ## Joint Inversion of Seismological Data
 
@@ -628,8 +661,10 @@ toc: true
   Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations
 - [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat):
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python
-- [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en):
-  A MATLAB GUI-based package to process single channel seismic data
+- [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en) |
+  [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3)
+  A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
 - [CrazyTremor](https://www.kevinchao.com/crazytremor):
   A MATLAB GUI-based package to display and picking multi-channel seismic data
 - [generalized-phase-detection](https://github.com/interseismic/generalized-phase-detection):
