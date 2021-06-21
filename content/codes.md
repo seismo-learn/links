@@ -477,7 +477,7 @@ toc: true
   Common-Conversion-Point (CCP) stacking of receiver functions
 - [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
-  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3)
+  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3):
   A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
 - [FuncLab](https://seiscode.iris.washington.edu/projects/funclab) (invalid link) |
   [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)：
@@ -501,7 +501,7 @@ toc: true
   reversible-jump Markov-chain Monte Carlo written in Fortran
 - [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation along with post-processing
   (e.g., hk, harmonic decompositino, CCP) written in Python
-- [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions
+- [rj-RF](http://www.iearth.org.au/codes/rj-RF): Receiver Function Inversion
   using Reversible jump Markov chain Monte Carlo algorithm
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive GUI tool to simulate P or S receiver functions
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing
@@ -670,7 +670,7 @@ toc: true
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python
 - [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
-  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3)
+  [bilibili](https://www.bilibili.com/video/BV1e54y1i7FM?p=3):
   A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
 - [CrazyTremor](https://www.kevinchao.com/crazytremor):
   A MATLAB GUI-based package to display and picking multi-channel seismic data
