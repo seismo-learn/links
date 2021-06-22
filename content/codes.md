@@ -142,32 +142,55 @@ toc: true
 - [GEMINI](http://www.spice-rtn.org/library/software/GEMINI.html): Calculation of synthetic seismograms for global, spherically symmetric media based in direct evaluation of Green's functions
 - [DGRFN](https://www.usgs.gov/software/direct-greens-function-synthetic-seismograms): Calculate synthetic seismograms on a radially stratified model
 
+### Boundary Element Methods
+
+- [AstroSeis](https://github.com/ytian159/AstroSeis):
+  Asteroid seismic wavefield modeling written in MATLAB
+
+### Discontinuous Galerkin Method
+
+- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
+  wave phenomena and earthquake dynamics
+
 ### Finite Difference Methods
 
-- [SOFI2D](https://git.scc.kit.edu/GPIAG-Software/SOFI2D): 2D finite-difference seismic P-SV simulation
-- [SOFI2D_sh](https://git.scc.kit.edu/GPIAG-Software/SOFI2D_sh): 2D finite-difference seismic SH-wave simulation
-- [SOFI3D](https://git.scc.kit.edu/GPIAG-Software/SOFI3D): 3D finite-difference seismic wave simulation
-- [FD2D](http://www.spice-rtn.org/library/software/Fd2d.html): A very simple training code for 2D finite difference
-- [FD3S](http://www.spice-rtn.org/library/software/FD3S.html): 3D finite-difference seismic wave simulation in a spherical section
-- [FD1D](http://www.nuquake.eu/Computer_Codes/1dfd.htm)
-    - [1DFD_DS](http://www.spice-rtn.org/library/software/1DFDDS.html): 1D finite-difference seismic simulation using the displacement-stress staggered-grid
-    - [1DFD_DVS](http://www.spice-rtn.org/library/software/1DFDDVS.html): 1D finite-difference seismic simulation using the displacement-velocity-stress staggered-grid
-    - [1DFD_VS](http://www.spice-rtn.org/library/software/1DFDVS.html): 1D finite-difference seismic simulation using the velocity-stress staggered-grid
-- [2DFD_DVS](http://www.nuquake.eu/Computer_Codes/2dfd.htm): Computation of seismic wavefields in 2D heterogeneous structures with planar free surface due to linear double-couple source or linear single force or plane-wave incidence
-- [FDSim3D](http://www.nuquake.eu/Computer_Codes/3dfd.htm): Computation of seismic wavefields in 3D heterogeneous surface geological structures with planar free surface due to surface and near-surface point double couple sources or by a vertically incident plane wave.
-- [SEISMIC_CPML](https://github.com/geodynamics/seismic_cpml): 2D/3D Finite-Difference Seismic Wave Simulation + CPML
-- [SW4](https://github.com/geodynamics/sw4): 3D Finite-Difference Seismic Wave Simulation (4th order)
-- [OpenSWPC](https://github.com/tktmyd/OpenSWPC): 2D/3D Finite-Difference Seismic Wave Simulation
+- [SOFI2D](https://www.gpi.kit.edu/english/498.php?tab=%5B243%5D#tabpanel-243) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/SOFI2D/) |
+  [A note (in Chinese)](https://blog.seisman.info/sofi2d-notes):
+  2-D viscoelastic and elastic wave simulations for P- and SV-waves
+- [SOFI2D_sh](https://www.gpi.kit.edu/english/498.php?tab=%5B243%5D#tabpanel-243) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/SOFI2D_sh):
+  2-D viscoelastic and elastic wave simulations for SH-waves
+- [SOFI3D](https://www.gpi.kit.edu/english/498.php?tab=%5B243%5D#tabpanel-243) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software/SOFI3D):
+  3-D viscoelastic, elastic, and acoustic wave simulations
+- [FD1D](http://www.nuquake.eu/Computer_Codes/1dfd.htm) |
+  [1DFD_DS](http://www.spice-rtn.org/library/software/1DFDDS.html) |
+  [1DFD_DVS](http://www.spice-rtn.org/library/software/1DFDDVS.html) |
+  [1DFD_VS](http://www.spice-rtn.org/library/software/1DFDVS.html):
+  1D finite-difference seismic simulation using the displacement-stress (DS), 
+  displacement-velocity-stress (DVS), and velocity-stress (VS) staggered-grids
+- [2DFD_DVS](http://www.nuquake.eu/Computer_Codes/2dfd.htm):
+  Computation of seismic wavefields in 2D heterogeneous structures
+- [FD](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/fd/fd.htm):
+  2-D P-SV elastic second-order finite difference
+- [FD2D](http://www.spice-rtn.org/library/software/Fd2d.html):
+  A very simple training code for 2D finite difference
+- [FD3S](http://www.spice-rtn.org/library/software/FD3S.html):
+  3D finite-difference seismic wave simulation in a spherical section
+- [FDSim3D](http://www.nuquake.eu/Computer_Codes/3dfd.htm):
+  Computation of seismic wavefields in 3D heterogeneous surface geological structures
+- [OpenSWPC](https://github.com/tktmyd/OpenSWPC):
+  2D/3D finite-difference seismic wave simulation
+- [SEISMIC_CPML](https://github.com/geodynamics/seismic_cpml):
+  2D/3D finite-difference seismic wave simulation with Convolutional or
+  Auxiliary Perfectly Matched Layer (C-PML or ADE-PML) conditions
+- [SW4](https://github.com/geodynamics/sw4): 3D finite-difference seismic wave simulation (4th order)
 
 ### Finite Element Methods
 
 - [3DFE_GSM](http://www.nuquake.eu/Computer_Codes/request.htm)
 - [3DFE_REF](http://www.nuquake.eu/Computer_Codes/request.htm)
-
-### Boundary Element Methods
-
-- [AstroSeis](https://github.com/ytian159/AstroSeis):
-  Asteroid seismic wavefield modeling written in MATLAB
 
 ### Pseudo-Spectral Methods
 
@@ -209,11 +232,6 @@ toc: true
 - [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
   wave phenomena and earthquake dynamics
 
-### Surface waves in 3D structures
-
-- [Couplage](http://www.quest-itn.org/library/software/couplage):
-  Modelling of propagation of surface waves in 3D structures by mode coupling method
-
 ### Hybrid Methods
 
 - FK-SPECFEM2D: [Ping Tong](https://personal.ntu.edu.sg/tongping/index.html)
@@ -228,6 +246,11 @@ toc: true
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid):
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
+
+### Surface waves in 3D structures
+
+- [Couplage](http://www.quest-itn.org/library/software/couplage):
+  Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 ## Waveform Forward Modelling
 
