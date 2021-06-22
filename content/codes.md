@@ -210,6 +210,8 @@ toc: true
 
 ### Discontinuous Galerkin Method
 
+- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
+  Nodal Discontinuous Galerkin Method
 - [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
   wave phenomena and earthquake dynamics
 
@@ -285,13 +287,6 @@ toc: true
   A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
 - [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html):
   A spectral element package for 2D wave propagation and earthquake rupture dynamics
-
-### Discontinuous Galerkin Method
-
-- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
-  Nodal Discontinuous Galerkin Method
-- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
-  wave phenomena and earthquake dynamics
 
 ### Hybrid Methods
 
