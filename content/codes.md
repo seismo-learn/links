@@ -72,17 +72,37 @@ toc: true
 
 ## Traveltime Calculation/Ray Tracing
 
-- [TauP](http://www.seis.sc.edu/taup/): Calculate traveltimes, ray parameters, ray paths, reflection points, piercing points of seismic phases, supporting custom Earth models | [Chinese notes](https://blog.seisman.info/tags/TauP)
-- [obspy.taup](http://docs.obspy.org/packages/obspy.taup.html): TauP, rewritten in Python
+- [TauP](http://www.seis.sc.edu/taup/) |
+  [Tutorials (in Chinese)](https://seismo-learn.org/software/taup/):
+  Calculate traveltimes, ray parameters, ray paths, reflection points,
+  piercing points of seismic phases, supporting custom Earth models
+- [obspy.taup](http://docs.obspy.org/packages/obspy.taup.html): TauP written in Python
+- [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html):
+  Traveltime calculation for transversely isotropic (TI) spherically symmetric models
 - [Cake](https://pyrocko.org): Traveltime calculation software, written in Python.
-- [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html): Traveltime calculation for transversely isotropic (TI) spherically symmetric models
-- [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode): 3D traveltime calculation using Fast Marching Method
-- [pySeismicFMM](https://github.com/gozwei/pySeismicFMM): 3D traveltime calculation using Fast Marching Method, C codes with a Python interface
-- [Surface Wave Ray Tracing with Azimuthal Anisotropy](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html): Surface Wave Ray Tracing with Azimuthal Anisotropy
-- iaspei-tau traveltime table package
-    - Arthur Snoke's version: Traveltime calculator for iasp91 and AK135 models | [IASPEI](http://www.iaspei.org/downloads) | [IRIS code](https://seiscode.iris.washington.edu/projects/iaspei-tau)
-    - [B.L.N. Kennett and Ray Buland's version](http://rses.anu.edu.au/seismology/soft/ttsoft.html): Calculation of travel times and ellipticity corrections for iasp91 and AK135 models | [Some revisions to compile the codes](https://github.com/seisman/TravelTimeEllipcityCorrection)
-    - [George Helffrich's version](https://members.elsi.jp/~george/sac-bugs.html#ttimes): Traveltime calculator for iasp91, AK135, PREM etc.
+- [fast_methods](https://github.com/jvgomez/fast_methods): N-Dimensional Fast Methodswritten in C++
+- [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode) |
+  [iEarth](http://www.iearth.org.au/codes/3Dfastmarching/):
+   3D traveltime calculation using Fast Marching Method in spherical coordinates written in Fortran
+- [Lapo Boschi: Software](http://hestia.lgs.jussieu.fr/~boschil/downloads.html) |
+  [SPICE](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html):
+  Surface Wave Ray Tracing with Azimuthal Anisotropy
+- [pykonal](https://github.com/malcolmw/pykonal): 2D/3D traveltime calculator
+  using Fast Marching Method for eikonal equation in Cartesian and spherical coordinates
+- [pySeismicFMM](https://github.com/gozwei/pySeismicFMM): 
+  2D/3D travel time calculation in based on the Fast Marching Method written in Python
+- [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
+- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm): Fast marching method
+  in Cartesian coordinates written in Python
+- **iaspei-tau** traveltime table package
+    - Arthur Snoke's version at [IASPEI](http://www.iaspei.org/downloads) or
+      [IRIS](https://seiscode.iris.washington.edu/projects/iaspei-tau):
+      Traveltime calculator for iasp91 and AK135 models
+    - B.L.N. Kennett and Ray Buland's [version](http://rses.anu.edu.au/seismology/soft/ttsoft.html) |
+      [A revised version](https://github.com/seisman/TravelTimeEllipcityCorrection):
+      Calculation of travel times and ellipticity corrections for iasp91 and AK135 models 
+    - George Helffrich's [version](https://members.elsi.jp/~george/sac-bugs.html#ttimes):
+      Traveltime calculator for iasp91, AK135, PREM etc.
 
 -----
 
