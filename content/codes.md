@@ -5,22 +5,50 @@ toc: true
 
 ## Data Request Tools
 
-- [SOD](http://www.seis.sc.edu/sod): the best seismic data request tool. |
-  [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes/) |
-  [Recipes](https://github.com/seisman/SODrecipes)
-- [ObsPy](https://github.com/obspy/obspy/wiki): Data download, processing and visulization software written in Python
-- [HinetPy](https://seisman.github.io/HinetPy/): Request and process Hi-net data, written in Python
-- [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts): Data request scripts written in Perl |
-  [Chinese note](https://blog.seisman.info/web-service-fetch-scripts/)
-- [IRIS DMC Web Services](http://service.iris.edu/): IRIS Web service for requesting seismic data
-- [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed/): Data request client written in Java
-- [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast/): Seismic data request by sending email |
-  [Chinese note](https://blog.seisman.info/tags/breq_fast/)
-- [IRIS Wilber 3](http://www.iris.edu/wilber3/find_event): A web GUI to request waveform data of individual seismic events |
-  [Chinese note](https://blog.seisman.info/wilber3/)
-- [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly retrieve geophysical timeseries data from data centers
-- [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch): Download and/or process strong motion data from various networks
-- [obspyDMT](https://github.com/kasra-hosseini/obspyDMT): A Python Toolbox for Retrieving, Processing and Management of Seismological Datasets
+- [FDSN Web Services](http://www.fdsn.org/webservices) |
+  [A note in Chinese](https://blog.seisman.info/web-service-clients)
+- [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
+    - [Web Services](http://service.iris.edu):
+      [FDSNWS](http://service.iris.edu/fdsnws/) |
+      [IRISWS](http://service.iris.edu/irisws/) |
+      [PH5WS](http://service.iris.edu/ph5ws/),
+      [Tutorials](https://ds.iris.edu/ds/nodes/dmc/tutorials/accessing-ph5-archive-with-fetchdata/),
+      [wiki](https://github.com/PIC-IRIS/PH5/wiki) |
+      [clients](http://service.iris.edu/clients/): e.g., 
+      [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) with
+      [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
+    - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly
+      retrieve geophysical timeseries data from data centers
+    - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
+      [notes in Chinese](https://blog.seisman.info/tags/breq_fast):
+      Seismic data request by sending email 
+    - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event) |
+      [A note in Chinese](https://blog.seisman.info/wilber3):
+      A web GUI to request waveform data of individual seismic events 
+    - [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed):
+      Data request client written in Java
+- [SOD](http://www.seis.sc.edu/sod) |
+  [Tutorial (in Chinese)](https://seismo-learn.org/software/sod/) |
+  [Recipes](https://github.com/seismo-learn/SOD-recipes):
+  The best seismic data request tool
+- [ObsPy](https://github.com/obspy/obspy/wiki):
+  Data download, processing and visulization software written in Python
+- [SAC](http://www.iris.edu/ds/nodes/dmc/forms/sac/) |
+  [Chinese Manual](https://seisman.github.io/SAC_Docs_zh/) |
+  [English Manual](https://ds.iris.edu/files/sac-manual/) |
+  [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
+  [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
+  The most commonly used seismic data processing and plotting software
+- [FnetPy](https://github.com/seisman/FnetPy):
+  A Python package to request seismic waveform data from F-net
+- [HinetPy](https://seisman.github.io/HinetPy/):
+  Request and process Hi-net data, written in Python
+- [obspyDMT](https://github.com/kasra-hosseini/obspyDMT): A Python Toolbox
+  for Retrieving, Processing and Management of Seismological Datasets
+- [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl):
+  Julia language support for geophysical time series data
+- [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch):
+  Download and/or process strong motion data from various networks
 
 ## Seismic Data Format Conversion
 
@@ -72,19 +100,41 @@ toc: true
 
 ## Plotting
 
-- [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/): the most popular mapping tools in Earth Science
+- [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/):
+  The most popular mapping tools in Earth Science
+    - [GMT China Community](https://gmt-china.org) | [Reference Manual (in Chinese)](https://docs.gmt-china.org/latest/)
+    - [try-GMT](https://github.com/GenericMappingTools/try-gmt):
+      Try `GMT`, `PyGMT`, and `GMT.jl` online! All in one place!
+    - [pssac](http://www.eas.slu.edu/People/LZhu/home.html) |
+      [notes (in Chinese)](https://blog.seisman.info/tags/pssac) |
+      [pssac2](https://blog.seisman.info/tags/pssac2):
+      GMT4-style SAC trace plotting
 - [PyGMT](https://www.pygmt.org): Python interface of GMT (still under development)
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [JPlotResp](http://www.isti2.com/JPlotResp/): Plot amplitude and phase of instrumental responses in RESP format. | [Chinese note](https://blog.seisman.info/jplotresp)
-- [MoPad](http://www.larskrieger.de/mopad/): Analysis and visulization of seismic moment tensor, focal mechanism. | [Chinese note](https://blog.seisman.info/mopad)
-- [obspy-mopad](https://docs.obspy.org/packages/autogen/obspy.imaging.scripts.mopad.html): similar to MoPad, provided by ObsPy
-- [pssac](http://www.eas.slu.edu/People/LZhu/home.html): GMT-style SAC trace plotting for GMT4 | [pssac notes](https://blog.seisman.info/tags/pssac)
-- [SeisTomoPy](https://github.com/stephaniedurand/SeisTomoPy): Visulization of 3D tomography models and calculate traveltime in 3D model
-- [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php): Web-Based Tools for Exploring Seismic Tomography and Other Models of Earth’s Deep Interior
-- [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): a set of programs for tomographic model visualization written in MatLab 6.1 script
-- [3D Focal Mechanisms](https://www.usgs.gov/software/3d-focal-mechanisms): View earthquake focal mechanism symbols three dimensionally
-- [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python programmable filters/sources to allow ParaView open-source, multi-platform data analysis and visualization application to display EMC netCDF/GeoCSV models along with other auxiliary Earth data.
+- [GMT.jl](https://github.com/GenericMappingTools/GMT.jl): GMT Library Wrapper for Julia
+- [matplotlib](https://matplotlib.org/): A comprehensive library for creating
+  static, animated, and interactive visualizations in Python
+- [ObsPy](https://github.com/obspy/obspy): Data download, processing and
+  visulization software written in Python
+- [obspy.imaging.scripts.mopad](https://docs.obspy.org/packages/autogen/obspy.imaging.scripts.mopad.html):
+  MoPaD command line utility
+- [MoPad](http://www.larskrieger.de/mopad/) |
+  [A note in Chinese](https://blog.seisman.info/mopad):
+  Moment tensor Plotting and Decomposition
+- [3D Focal Mechanisms](https://www.usgs.gov/software/3d-focal-mechanisms):
+  View earthquake focal mechanism symbols three dimensionally
+- [EMC-DesktopTools](http://ds.iris.edu/ds/products/emc-desktoptools/)
+  - [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python
+    programmable filters/sources to allow ParaView open-source, multi-platform
+    data analysis and visualization application to display EMC netCDF/GeoCSV models
+    along with other auxiliary Earth data
 - [EMC visualization tools](http://ds.iris.edu/dms/products/emc/horizontalSlice.html)
+- [SeisTomoPy](https://github.com/stephaniedurand/SeisTomoPy):
+  Visulization of 3D tomography models and calculate traveltime in 3D model
+- [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php):
+  Web-based tools for the interactive visualisation, analysis, and quantitative
+  comparison of global-scale, volumetric (3-D) data sets of the subsurface
+- [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): A set of programs for
+  tomographic model visualization written in MatLab 6.1 script
 
 -------
 
@@ -1077,6 +1127,7 @@ toc: true
   government and industry sectors with interests in the development and application
   of inversion methodologies for the Earth Sciences
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
+- [ISTI: software](https://www.isti.com/software): Instrumental Software Technologies, Inc.
 - [KIT Geophysical Institute: Software](https://www.gpi.kit.edu/english/498.php):
   Finite-difference numerical methods and full waveform inversion software
   developed by the geophysical institute of the Karlsruhe Institute of Technology
