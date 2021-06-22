@@ -98,7 +98,7 @@ toc: true
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
 
--------
+----
 
 ## Plotting
 
@@ -138,7 +138,7 @@ toc: true
 - [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): A set of programs for
   tomographic model visualization written in MatLab 6.1 script
 
--------
+----
 
 ## Traveltime Calculation/Ray Tracing
 
@@ -174,7 +174,7 @@ toc: true
     - George Helffrich's [version](https://members.elsi.jp/~george/sac-bugs.html#ttimes):
       Traveltime calculator for iasp91, AK135, PREM etc.
 
------
+----
 
 ## Synthetic Seismograms
 
@@ -383,7 +383,7 @@ toc: true
 - [Yehuda Ben-Zion: Downloads](https://earth.usc.edu/~ybz/):
   Model point/line dislocation in fault zone
 
----
+----
 
 ## Seismic Source
 
@@ -519,6 +519,8 @@ toc: true
 - [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html) |
   [A modified version](https://github.com/hzhu212/rayinvr):
   2-D traveltime inversion and amplitude modeling programs 
+
+----
 
 ## Surface-wave Tomography
 
@@ -669,6 +671,8 @@ toc: true
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html):
   A training code to calculation of phase velocity dispersion curves
 
+----
+
 ## Seismic Imaging
 
 ### Rayleigh-wave Ellipticity
@@ -763,13 +767,6 @@ toc: true
 - [sws_tools](https://github.com/michaelgrund/sws_tools):
   MATLAB tools for modeling and plotting of shear-wave splitting data
 
-### Waveform Inversion
-
-- [Fault zone travel time and waveform modelling](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
-  [bilibili](https://www.bilibili.com/video/av841708479?p=6)
-- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover
-  Green's functions of receiver-side structures from teleseismic waveforms
-
 ### Scattering and Intrinsic Attenuation
 
 - [CodaNorm](https://github.com/cormorant/CodaNorm):
@@ -782,6 +779,13 @@ toc: true
 - [qopen](https://github.com/trichter/qopen): Separation of intrinsic and scattering Q by envelope inversion
 - [usattenuation](https://github.com/trichter/usattenuation):
   Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
+
+### Waveform Inversion
+
+- [Fault zone travel time and waveform modelling](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=6)
+- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover
+  Green's functions of receiver-side structures from teleseismic waveforms
 
 ### Joint Inversion of Seismological Data
 
