@@ -88,59 +88,100 @@ toc: true
 
 ## Synthetic Seismograms
 
-### Ray Theory for 1D layered Earth
+### Ray Theory for 1D Layered Earth
 
-- [aser](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms based on Generalized Ray Theory
-- [Ray theory](http://www.spice-rtn.org/library/software/Raytheory.html): Ray-theoretical approach to the calculation of synthetic seismograms in global Earth models
-- [Generalized ray in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al.
-- [Generalized ray in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+- [aser](http://www.eas.slu.edu/People/LZhu/home.html):
+  Calculate synthetic seismograms based on Generalized Ray Theory
+- Asymptotic ray theory in [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [Asymptotic ray theory in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+- [CRT](http://seis.karlov.mff.cuni.cz/software/sw3dcd21/crt/crt.htm):
+  Complete ray tracing subroutine package
+- Generalized ray in [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [WKBJ method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
+- [Ray theory](http://www.spice-rtn.org/library/software/Raytheory.html):
+  Ray-theoretical approach to the calculation of synthetic seismograms in global Earth models
+- WKBJ method in [seisan](http://seisan.info) at
+  [Seismology at GEUS: Seismological software](http://seis.geus.net)
 
-### Reflectivity/Wavenumber integration for 1D layered Earth
+### Reflectivity/Wavenumber Integration for 1D Layered Earth
 
-- [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese notes](https://blog.seisman.info/fk-notes)
-- [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and transmission coefficient method with the peak-trough averaging technique for fast and accurate Green's function calculations, especially for surface sources
-- [grtm](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms in stratified vertically transversely isotropic media using the generalized reflection and transmission coefficient method
-- [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software): Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
-- [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
-- [Wavenumber integration method in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+- [fk](http://www.eas.slu.edu/People/LZhu/home.html) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/fk/):
+  Calculate synthetic seismograms in layered isotropic models using frequency-wavenumber method
+- Discrete wavenumber method in [seisan](http://seisan.info): at
+  [Seismology at GEUS: Seismological software](http://seis.geus.net)
+- [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and
+  transmission coefficient method
+- [grtm: VTI media](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms
+  in stratified vertically transversely isotropic media using the generalized
+  reflection and transmission coefficient method
+- [multitel3](https://github.com/YunyiQian/multitel3): A hybrid method of ray
+  theory and haskell matrix to calculate teleseismic body wave Green's functions
+  in RTZ components
+- [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
+  Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
+- [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html):
+  Calculating the response of a layered uniform solid layers to excitation by
+  a point moment tensor source using the reflectivity method
+- [rf_respknt](https://github.com/Chuanming-Liu/rf_respknt): Reflection matrix
+  approach to computing the seismic response of a cylindrically symmetric medium
+- [RMATRIX](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/rmatrix/rmatrix.htm):
+  Calculate the frequency-dependent transmission coefficients written in Fortran
+- [Syn_seis](https://github.com/akuhara/Syn_seis): Compute synthetic seismograms
+  for an incidence P or SV wave to 1-D layered structure
+- [telewavesim](https://paudetseis.github.io/Telewavesim/): Calculate teleseismic
+  body-wave synthetics using the matrix propagator method written in Python and Fortran
+- Wavenumber integration method in [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+  [Python wrapper: PyLayeredModel](https://github.com/harrymd/PyLayeredModel) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [Discrete wavenumber method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
-- [multitel3](https://github.com/YunyiQian/multitel3): A hybrid method of ray theory and haskell matrix to calculate teleseismic body wave Green's functions in RTZ components
 
-### Modal Summation method for 1D layered Earth
+### Modal Summation Method for 1D Layered Earth
 
-- [Modal Summation in CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
+- Modal Summation in [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
 
-### Reflectivity/Wavenumber integration for 1D layered spherical Earth
+### Reflectivity/Wavenumber Integration for 1D Layered Spherical Earth
 
-- [yaseis](https://seiscode.iris.washington.edu/projects/yaseis): Calculate synthetic seismograms in spherically layered isotropic models, using frequency-wavenumber method
+- [yaseis](https://seiscode.iris.washington.edu/projects/yaseis): Calculate synthetic
+  seismograms in spherically layered isotropic models
 
-### Normal modes summation for 1D layered spherical Earth
+### Normal Modes Summation for 1D Layered Spherical Earth
 
-- [Mineos](https://github.com/geodynamics/mineos): Computes synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes
+- [Mineos](https://github.com/geodynamics/mineos): Computes synthetic seismograms
+  in a spherically symmetric non-rotating Earth by summing normal modes
+- Colleen Dalton's [Mineos](https://github.com/jbrussell/MINEOS):
+  All the tools one should need to compile and run the MINEOS program
+  - [Matlab to MINEOS](https://github.com/jbrussell/matlab_to_mineos):
+    Wrapper scripts for running MINEOS through MATLAB
+  - [MINEOS_synthetics](https://github.com/jbrussell/MINEOS_synthetics):
+    Calculate dispersion tables and synthetic seismograms for layered models
+    using MINEOS and idagrn6 housed within MATLAB wrappers
+- `DISPER80`: Calculation of normal modes, which is a very old fortran code.
 - [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
-- [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html): Normal-mode based computation of seismograms for spherically symmetric Earth models
-- [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
-- DISPER80: Calculation of normal modes, which is a very old fortran code. You have to ask for it from someone who conducts surface-wave studies.
+- [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html):
+  Normal-mode based computation of seismograms for spherically symmetric Earth models
+- [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
+  Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
 
-### Direct solution method
+### Direct Solution Method for 1D Layered Spherical Earth
 
-- [DSM](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/software/software.htm): Computing synthetic seismograms in spherically symmetric transversely isotropic (TI) media using the Direct Solution Method
-- [GEMINI](http://www.spice-rtn.org/library/software/GEMINI.html): Calculation of synthetic seismograms for global, spherically symmetric media based in direct evaluation of Green's functions
-- [DGRFN](https://www.usgs.gov/software/direct-greens-function-synthetic-seismograms): Calculate synthetic seismograms on a radially stratified model
+- [DSM](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/software/software.htm) |
+  [An updated version](https://www.eri.u-tokyo.ac.jp/people/takeuchi/software/index.html):
+  Computing synthetic seismograms in spherically symmetric transversely isotropic
+  (TI) media using the Direct Solution Method
+- [DGRFN](https://www.usgs.gov/software/direct-greens-function-synthetic-seismograms):
+  Calculate synthetic seismograms in a spherically layered model
+- [GEMINI](http://www.spice-rtn.org/library/software/GEMINI.html):
+  Calculation of synthetic seismograms for global, spherically symmetric media
+  based in direct evaluation of Green's functions (The files seem wrong)
 
 ### Finite Difference Methods
 
@@ -498,6 +539,9 @@ toc: true
       invert 1D depth models based on CPS330 written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
+- [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc):
+  Solves surface-wave eigenproblem (air-solid interface seismic waves) in
+  laterally homogeneous media with piecewise smooth elastic structure
 - [senskernel](http://ciei.colorado.edu/Products/) |
   [GitHub](https://github.com/NoiseCIEI/SensKernel):
   Phase/Group velocities Sensitivity Kernels
