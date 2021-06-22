@@ -992,10 +992,6 @@ toc: true
 - [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer
   orientation written in Python
 
-----
-
-## Signal Processing
-
 ### Signal Analysis
 
 - [FFTW](http://fftw.org/): A C subroutine library for computing the
