@@ -52,16 +52,34 @@ toc: true
 
 ## Seismic Data Format Conversion
 
-- [rdseed](http://ds.iris.edu/ds/nodes/dmc/forms/rdseed/): Convert seismic data from SEED format to other common format (SAC et al.) |
-  [Chinese notes](https://blog.seisman.info/tags/SEED)
-- [sac2mseed](https://github.com/iris-edu/sac2mseed): Convert SAC format to minniSEED format
+- [ObsPy](https://github.com/obspy/obspy) |
+  [Waveform Import/Export Plug-ins](https://docs.obspy.org/packages/index.html) |
+  [Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read):
+  Data download, processing and visulization software written in Python
+- [SAC](http://www.iris.edu/ds/nodes/dmc/forms/sac/) |
+  [Chinese Manual](https://seisman.github.io/SAC_Docs_zh/) |
+  [English Manual](https://ds.iris.edu/files/sac-manual/) |
+  [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
+  [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
+  The most commonly used seismic data processing and plotting software
+- [CubeTools](https://digos.eu/downloads-docs/): Data Format conversion software for CUBE data
+- [dataselect](https://seiscode.iris.washington.edu/projects/dataselect):
+  Selection and sorting for data in miniSEED format
+- [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/):
+  A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
-- [mseed2sac](https://github.com/iris-edu/mseed2sac): Convert miniSEED format to SAC format
-- [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools): Convert WIN32 format used by Hi-net, to SAC format
-- [dataselect](https://github.com/iris-edu/dataselect): Selection and sorting for data in miniSEED format
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [msmod](https://seiscode.iris.washington.edu/projects/msmod): A small program to modify miniSEED header values
+- [msmod](https://seiscode.iris.washington.edu/projects/msmod): A small program
+  to modify miniSEED header values
+- [mseed2sac](https://github.com/iris-edu/mseed2sac):
+  Convert miniSEED format to SAC format
+- [sac2mseed](https://seiscode.iris.washington.edu/projects/sac2mseed): Convert SAC format to minniSEED format
+- [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools):
+  Convert WIN32 format used by Hi-net, to SAC format
+- [rdseed](https://github.com/iris-edu-legacy/rdseed) |
+  [IRIS](http://ds.iris.edu/pub/programs) |
+  [notes in Chinese](https://blog.seisman.info/tags/SEED):
+  Convert seismic data from SEED format and other formats
 
 ## Seismic Data Processing
 
