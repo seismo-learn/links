@@ -149,7 +149,7 @@ toc: true
 
 ----
 
-## Traveltime Calculation/Ray Tracing
+## Traveltime and Ray Tracing
 
 - [TauP](http://www.seis.sc.edu/taup/) |
   [Tutorials (in Chinese)](https://seismo-learn.org/software/taup/):
