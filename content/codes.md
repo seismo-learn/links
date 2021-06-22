@@ -85,18 +85,26 @@ toc: true
 
 ### Seismic Data Processing
 
-- [SAC](http://www.iris.edu/ds/nodes/dmc/forms/sac/): The most commonly used seismic data processing and plotting software |
+- [SAC](http://www.iris.edu/ds/nodes/dmc/forms/sac/) |
+  [Chinese Manual](https://seisman.github.io/SAC_Docs_zh/) |
   [English Manual](https://ds.iris.edu/files/sac-manual/) |
-  [Chinese Manual](https://seisman.github.io/SAC_Docs_zh/)
-- [ObsPy](https://github.com/obspy/obspy/wiki): Data download, processing and visulization software written in Python
-- [GISMO](http://geoscience-community-codes.github.io/GISMO/): Data download, processing and visulization software written in Matlab
-- [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
+  [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
+  [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
+  The most commonly used seismic data processing and plotting software
+- [ObsPy](https://github.com/obspy/obspy/wiki):
+  Data download, processing and visulization software written in Python
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
+- [GISMO](http://geoscience-community-codes.github.io/GISMO/):
+  Data download, processing and visulization software written in Matlab
+- [hinet_decon](https://github.com/tktmyd/hinet_decon): Deconvolve Hi-net velocity
+  record by its seismometer response by using inverse filtering technique
+- [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl):
+  Julia language support for geophysical time series data
 
 ----
 
