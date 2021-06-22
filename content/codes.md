@@ -3,7 +3,7 @@ title: Scientific Research Codes
 toc: true
 ---
 
-## Seismic Data Fetching/Processing
+## Seismic Data Fetching and Processing
 
 ### Data Request Tools
 
