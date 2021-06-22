@@ -142,6 +142,16 @@ toc: true
 - [GEMINI](http://www.spice-rtn.org/library/software/GEMINI.html): Calculation of synthetic seismograms for global, spherically symmetric media based in direct evaluation of Green's functions
 - [DGRFN](https://www.usgs.gov/software/direct-greens-function-synthetic-seismograms): Calculate synthetic seismograms on a radially stratified model
 
+### Boundary Element Methods
+
+- [AstroSeis](https://github.com/ytian159/AstroSeis):
+  Asteroid seismic wavefield modeling written in MATLAB
+
+### Discontinuous Galerkin Method
+
+- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
+  wave phenomena and earthquake dynamics
+
 ### Finite Difference Methods
 
 - [SOFI2D](https://www.gpi.kit.edu/english/498.php?tab=%5B243%5D#tabpanel-243) |
@@ -176,16 +186,6 @@ toc: true
   2D/3D finite-difference seismic wave simulation with Convolutional or
   Auxiliary Perfectly Matched Layer (C-PML or ADE-PML) conditions
 - [SW4](https://github.com/geodynamics/sw4): 3D finite-difference seismic wave simulation (4th order)
-
-### Boundary Element Methods
-
-- [AstroSeis](https://github.com/ytian159/AstroSeis):
-  Asteroid seismic wavefield modeling written in MATLAB
-
-### Discontinuous Galerkin Method
-
-- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
-  wave phenomena and earthquake dynamics
 
 ### Finite Element Methods
 
