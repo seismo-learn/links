@@ -100,7 +100,9 @@ toc: true
 
 ----
 
-## Plotting
+## Plotting and Visualization
+
+### Plotting
 
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/):
   The most popular mapping tools in Earth Science
@@ -137,6 +139,13 @@ toc: true
   comparison of global-scale, volumetric (3-D) data sets of the subsurface
 - [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): A set of programs for
   tomographic model visualization written in MatLab 6.1 script
+
+### Visualization
+
+- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data)
+- [Ghostscript](https://www.ghostscript.com/) |
+  [Releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases):
+  An interpreter for the PostScript language and PDF files
 
 ----
 
@@ -1077,13 +1086,6 @@ toc: true
   and/or individual end-members from the Holland & Powell dataset
 - [BurnMan](https://burnman.org/): An open source mineral physics toolbox written
   in Python to generate physical properties for the Earth and other planets
-
-### Visualization
-
-- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data)
-- [Ghostscript](https://www.ghostscript.com/) |
-  [Releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases):
-  An interpreter for the PostScript language and PDF files
 
 ----
 
