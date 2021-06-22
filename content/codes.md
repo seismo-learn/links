@@ -508,6 +508,11 @@ toc: true
 - [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion
   inversion code written in MATLAB
 
+### Surfave-wave Tomography Workflow
+
+- [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
+  Python framework for seismic noise tomography
+
 ### Direct Inversion of Surface-wave Dispersion Data
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo):
@@ -552,11 +557,6 @@ toc: true
   Theoretical Dispersion Spectrum calculation by the Generalized Reflection and Transmission Method
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html):
   A training code to calculation of phase velocity dispersion curves
-
-### Surfave-wave Tomography Workflow
-
-- [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography):
-  Python framework for seismic noise tomography
 
 ## Rayleigh-wave Ellipticity
 
