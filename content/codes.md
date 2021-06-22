@@ -82,19 +82,41 @@ toc: true
 
 ## Plotting
 
-- [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/): the most popular mapping tools in Earth Science
+- [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/):
+  The most popular mapping tools in Earth Science
+    - [GMT China Community](https://gmt-china.org) | [Reference Manual (in Chinese)](https://docs.gmt-china.org/latest/)
+    - [try-GMT](https://github.com/GenericMappingTools/try-gmt):
+      Try `GMT`, `PyGMT`, and `GMT.jl` online! All in one place!
+    - [pssac](http://www.eas.slu.edu/People/LZhu/home.html) |
+      [notes (in Chinese)](https://blog.seisman.info/tags/pssac) |
+      [pssac2](https://blog.seisman.info/tags/pssac2):
+      GMT4-style SAC trace plotting
 - [PyGMT](https://www.pygmt.org): Python interface of GMT (still under development)
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [JPlotResp](http://www.isti2.com/JPlotResp/): Plot amplitude and phase of instrumental responses in RESP format. | [Chinese note](https://blog.seisman.info/jplotresp)
-- [MoPad](http://www.larskrieger.de/mopad/): Analysis and visulization of seismic moment tensor, focal mechanism. | [Chinese note](https://blog.seisman.info/mopad)
-- [obspy-mopad](https://docs.obspy.org/packages/autogen/obspy.imaging.scripts.mopad.html): similar to MoPad, provided by ObsPy
-- [pssac](http://www.eas.slu.edu/People/LZhu/home.html): GMT-style SAC trace plotting for GMT4 | [pssac notes](https://blog.seisman.info/tags/pssac)
-- [SeisTomoPy](https://github.com/stephaniedurand/SeisTomoPy): Visulization of 3D tomography models and calculate traveltime in 3D model
-- [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php): Web-Based Tools for Exploring Seismic Tomography and Other Models of Earth’s Deep Interior
-- [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): a set of programs for tomographic model visualization written in MatLab 6.1 script
-- [3D Focal Mechanisms](https://www.usgs.gov/software/3d-focal-mechanisms): View earthquake focal mechanism symbols three dimensionally
-- [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python programmable filters/sources to allow ParaView open-source, multi-platform data analysis and visualization application to display EMC netCDF/GeoCSV models along with other auxiliary Earth data.
+- [GMT.jl](https://github.com/GenericMappingTools/GMT.jl): GMT Library Wrapper for Julia
+- [matplotlib](https://matplotlib.org/): A comprehensive library for creating
+  static, animated, and interactive visualizations in Python
+- [ObsPy](https://github.com/obspy/obspy): Data download, processing and
+  visulization software written in Python
+- [obspy.imaging.scripts.mopad](https://docs.obspy.org/packages/autogen/obspy.imaging.scripts.mopad.html):
+  MoPaD command line utility
+- [MoPad](http://www.larskrieger.de/mopad/) |
+  [A note in Chinese](https://blog.seisman.info/mopad):
+  Moment tensor Plotting and Decomposition
+- [3D Focal Mechanisms](https://www.usgs.gov/software/3d-focal-mechanisms):
+  View earthquake focal mechanism symbols three dimensionally
+- [EMC-DesktopTools](http://ds.iris.edu/ds/products/emc-desktoptools/)
+  - [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python
+    programmable filters/sources to allow ParaView open-source, multi-platform
+    data analysis and visualization application to display EMC netCDF/GeoCSV models
+    along with other auxiliary Earth data
 - [EMC visualization tools](http://ds.iris.edu/dms/products/emc/horizontalSlice.html)
+- [SeisTomoPy](https://github.com/stephaniedurand/SeisTomoPy):
+  Visulization of 3D tomography models and calculate traveltime in 3D model
+- [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php):
+  Web-based tools for the interactive visualisation, analysis, and quantitative
+  comparison of global-scale, volumetric (3-D) data sets of the subsurface
+- [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): A set of programs for
+  tomographic model visualization written in MatLab 6.1 script
 
 -------
 
@@ -1087,6 +1109,7 @@ toc: true
   government and industry sectors with interests in the development and application
   of inversion methodologies for the Earth Sciences
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
+- [ISTI: software](https://www.isti.com/software): Instrumental Software Technologies, Inc.
 - [KIT Geophysical Institute: Software](https://www.gpi.kit.edu/english/498.php):
   Finite-difference numerical methods and full waveform inversion software
   developed by the geophysical institute of the Karlsruhe Institute of Technology
