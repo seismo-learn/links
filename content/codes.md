@@ -20,7 +20,7 @@ toc: true
     - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly
       retrieve geophysical timeseries data from data centers
     - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
-      [notes in Chinese](https://blog.seisman.info/tags/breq_fast)：
+      [notes in Chinese](https://blog.seisman.info/tags/breq_fast):
       Seismic data request by sending email 
     - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event) |
       [A note in Chinese](https://blog.seisman.info/wilber3):
