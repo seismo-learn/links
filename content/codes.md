@@ -703,7 +703,7 @@ toc: true
   surface wave dispersion curve et al.
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software):
   Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
-- [RF codes from some famous group codes](https://github.com/rmartinshort/RecieverFunctions)
+- [RF codes](https://github.com/rmartinshort/RecieverFunctions)
     - Charles J. Ammon's codes
     - Cheng's codes, including Qingju Wu's maximum entrop deconvolution method (`burgays`)
 - Charles J. Ammon's RF codes:
