@@ -89,26 +89,7 @@
 - [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php): Web-Based Tools for Exploring Seismic Tomography and Other Models of Earth’s Deep Interior
 - [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): a set of programs for tomographic model visualization written in MatLab 6.1 script
 
-
-
 ---------------------------
-## Traveltime Calculation/Ray Tracing
-
-- [TauP](http://www.seis.sc.edu/TauP): Calculate travel times, ray paths, pierce and turning points etc. | [Chinese introduction](https://blog.seisman.info/tags/TauP)
-- [obspy.taup](http://docs.obspy.org/packages/obspy.taup.html): TauP, rewritten in Python
-- iaspei-tau traveltime table package
-    - Arthur Snoke's version: Traveltime calculator for iasp91 and AK135 models | [IASPEI](http://www.iaspei.org/downloads) | [IRIS code](https://seiscode.iris.washington.edu/projects/iaspei-tau)
-    - [B.L.N. Kennett and Ray Buland's version](http://rses.anu.edu.au/seismology/soft/ttsoft.html): Calculation of travel times and ellipticity corrections for iasp91 and AK135 models | [Some revisions to compile the codes](https://github.com/seisman/TravelTimeEllipcityCorrection)
-    - [George Helffrich's version](https://members.elsi.jp/~george/sac-bugs.html#ttimes): Traveltime calculator for iasp91, AK135, PREM etc.
-- [Cake](https://pyrocko.org): Traveltime calculation software, written in Python
-- [fast_methods](https://github.com/jvgomez/fast_methods): N-Dimensional Fast Methods: Fast Marching, Fast Sweeping, Group Marching, Fast Iterative, etc. in Cartesian coordinate written in C++
-- [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode): 3D traveltime calculation using Fast Marching Method in spherical coordinates written in Fortran | [FM3D at iEarth](http://www.iearth.org.au/codes/3Dfastmarching/)
-- [pykonal](https://github.com/malcolmw/pykonal): 2D/3D traveltime calculator using Fast Marching Method for eikonal equation in Cartesian and spherical coordinates
-- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm): Fast marching method in Cartesian coordinates written in Python
-- [pySeismicFMM](https://github.com/gozwei/pySeismicFMM): Python based travel time calculation in regular 2D and 3D grids in Cartesian and geographic coordinates using Fast Marching Method
-- [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
-- [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html): Traveltime calculation for transversely isotropic (TI) spherically symmetric models
-- [Surface Wave Ray Tracing with Azimuthal Anisotropy](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html): Surface Wave Ray Tracing with Azimuthal Anisotropy | [Lapo Boschi's homepage](http://hestia.lgs.jussieu.fr/~boschil/downloads.html)
 
 ## Synthetic Seismograms
 
