@@ -1091,7 +1091,7 @@ toc: true
 
 ### Inversion Theory
 
-- [Parameter Estimation and Inverse Problems：Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode):
+- [Parameter Estimation and Inverse Problems: Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode):
   A compilation of inverse and parameter estimation code that accompanies
   the second edition of the textbook "Parameter Estimation and Inverse Problems"
 
