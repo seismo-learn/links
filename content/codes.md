@@ -708,7 +708,7 @@ toc: true
 - [FuncLab](https://seiscode.iris.washington.edu/projects/funclab) (invalid link) |
   [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised):
   A Matlab based GUI for handling receiver functions
-- [h-k c](https://github.com/ljt-uiuc/H-k-c) |
+- [h-k-c](https://github.com/ljt-uiuc/H-k-c) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=3):
   Generalized H-k after harmonic correction on receiver functions 
