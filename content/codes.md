@@ -509,7 +509,9 @@ toc: true
 
 ----
 
-## Body-wave Tomography
+## Seismic Tomography
+
+### Body-wave Tomography
 
 - [Nick Rawlinson: Software](http://rses.anu.edu.au/~nick)
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html) |
@@ -528,10 +530,6 @@ toc: true
 - [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html) |
   [A modified version](https://github.com/hzhu212/rayinvr):
   2-D traveltime inversion and amplitude modeling programs 
-
-----
-
-## Surface-wave Tomography
 
 ### Earthquake Surface-wave Dispersion
 
