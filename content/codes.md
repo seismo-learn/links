@@ -5,22 +5,50 @@ toc: true
 
 ## Data Request Tools
 
-- [SOD](http://www.seis.sc.edu/sod): the best seismic data request tool. |
-  [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes/) |
-  [Recipes](https://github.com/seisman/SODrecipes)
-- [ObsPy](https://github.com/obspy/obspy/wiki): Data download, processing and visulization software written in Python
-- [HinetPy](https://seisman.github.io/HinetPy/): Request and process Hi-net data, written in Python
-- [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts): Data request scripts written in Perl |
-  [Chinese note](https://blog.seisman.info/web-service-fetch-scripts/)
-- [IRIS DMC Web Services](http://service.iris.edu/): IRIS Web service for requesting seismic data
-- [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed/): Data request client written in Java
-- [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast/): Seismic data request by sending email |
-  [Chinese note](https://blog.seisman.info/tags/breq_fast/)
-- [IRIS Wilber 3](http://www.iris.edu/wilber3/find_event): A web GUI to request waveform data of individual seismic events |
-  [Chinese note](https://blog.seisman.info/wilber3/)
-- [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly retrieve geophysical timeseries data from data centers
-- [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch): Download and/or process strong motion data from various networks
-- [obspyDMT](https://github.com/kasra-hosseini/obspyDMT): A Python Toolbox for Retrieving, Processing and Management of Seismological Datasets <span class="badge badge-primary">Python</span>
+- [FDSN Web Services](http://www.fdsn.org/webservices) |
+  [A note in Chinese](https://blog.seisman.info/web-service-clients)
+- [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
+    - [Web Services](http://service.iris.edu):
+      [FDSNWS](http://service.iris.edu/fdsnws/) |
+      [IRISWS](http://service.iris.edu/irisws/) |
+      [PH5WS](http://service.iris.edu/ph5ws/),
+      [Tutorials](https://ds.iris.edu/ds/nodes/dmc/tutorials/accessing-ph5-archive-with-fetchdata/),
+      [wiki](https://github.com/PIC-IRIS/PH5/wiki) |
+      [clients](http://service.iris.edu/clients/): e.g., 
+      [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) with
+      [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
+    - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly
+      retrieve geophysical timeseries data from data centers
+    - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
+      [notes in Chinese](https://blog.seisman.info/tags/breq_fast):
+      Seismic data request by sending email 
+    - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event) |
+      [A note in Chinese](https://blog.seisman.info/wilber3):
+      A web GUI to request waveform data of individual seismic events 
+    - [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed):
+      Data request client written in Java
+- [SOD](http://www.seis.sc.edu/sod) |
+  [Tutorial (in Chinese)](https://seismo-learn.org/software/sod/) |
+  [Recipes](https://github.com/seismo-learn/SOD-recipes):
+  The best seismic data request tool
+- [ObsPy](https://github.com/obspy/obspy/wiki):
+  Data download, processing and visulization software written in Python
+- [SAC](http://www.iris.edu/ds/nodes/dmc/forms/sac/) |
+  [Chinese Manual](https://seisman.github.io/SAC_Docs_zh/) |
+  [English Manual](https://ds.iris.edu/files/sac-manual/) |
+  [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
+  [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
+  The most commonly used seismic data processing and plotting software
+- [FnetPy](https://github.com/seisman/FnetPy):
+  A Python package to request seismic waveform data from F-net
+- [HinetPy](https://seisman.github.io/HinetPy/):
+  Request and process Hi-net data, written in Python
+- [obspyDMT](https://github.com/kasra-hosseini/obspyDMT): A Python Toolbox
+  for Retrieving, Processing and Management of Seismological Datasets
+- [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl):
+  Julia language support for geophysical time series data
+- [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch):
+  Download and/or process strong motion data from various networks
 
 ## Seismic Data Format Conversion
 
