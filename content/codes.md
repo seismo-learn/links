@@ -8,17 +8,15 @@ toc: true
 - [FDSN Web Services](http://www.fdsn.org/webservices) |
   [A note in Chinese](https://blog.seisman.info/web-service-clients)
 - [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
-    - [Web Services](http://service.iris.edu)
-        - [FDSNWS](http://service.iris.edu/fdsnws/)
-        - [IRISWS](http://service.iris.edu/irisws/)
-        - [PH5WS](http://service.iris.edu/ph5ws/) |
-          [Accessing PH5 Archive with FetchData](https://ds.iris.edu/ds/nodes/dmc/tutorials/accessing-ph5-archive-with-fetchdata/) |
-          [wiki](https://github.com/PIC-IRIS/PH5/wiki):
-          Provide PH5 data and metadata
-        - [clients](http://service.iris.edu/clients/)
-          - [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) |
-            [a note in Chinese](https://blog.seisman.info/web-service-fetch-scripts):
-            Data request scripts written in Perl
+    - [Web Services](http://service.iris.edu):
+      [FDSNWS](http://service.iris.edu/fdsnws/) |
+      [IRISWS](http://service.iris.edu/irisws/) |
+      [PH5WS](http://service.iris.edu/ph5ws/),
+      [Tutorials](https://ds.iris.edu/ds/nodes/dmc/tutorials/accessing-ph5-archive-with-fetchdata/),
+      [wiki](https://github.com/PIC-IRIS/PH5/wiki) |
+      [clients](http://service.iris.edu/clients/): e.g., 
+      [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) with
+      [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
     - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly
       retrieve geophysical timeseries data from data centers
     - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
