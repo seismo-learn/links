@@ -201,6 +201,7 @@ toc: true
 
 - [SPECFEM1D](https://github.com/geodynamics/specfem1d): A small code that
   allows users to learn how a spectral-element program is written
+- [Specfem1d](https://github.com/nqdu/Specfem1d): An implementation of Spectrum Element Method for 1-D wave equation
 - [SPECFEM2D](https://github.com/geodynamics/specfem2d): Simulates seismic wave
   propagation in a 2D heterogeneous medium, using spectral element method
   (spherical coordinate system)
@@ -210,26 +211,31 @@ toc: true
 - [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe):
   Simulates seismic wave propagation in a 3D heterogeneous medium,
   using spectral element method (spherical coordinate system)
-- [RegSEM](http://www.quest-itn.org/library/software/regsem.html):
-  Simulates seismic wave propagation in a 3D heterogeneous media,
-  using spectral element method at the regional scale. Regional scale means
-  distances ranging from about 1 km (local scale) to 90 degree (continental scale)
 - [AxiSEM](https://github.com/geodynamics/axisem): A parallel spectral-element
   method to solve 3D wave propagation in a sphere with axisymmetric or
   spherically symmetric visco-elastic, acoustic, anisotropic structures
+- [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
 - [Instaseis](http://instaseis.net) | [Brief Introduction in Chinese](https://blog.seisman.info/iris-syngine):
   The Python interface of AxiSEM
-- [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
-- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
-  Nodal Discontinuous Galerkin Method
+- [RegSEM](http://www.quest-itn.org/library/software/regsem.html):
+  Simulates seismic wave propagation in a 3D heterogeneous media using spectral
+  element method at the regional scale (1 km to 90 degree)
 - [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html):
   A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
 - [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html):
   A spectral element package for 2D wave propagation and earthquake rupture dynamics
 
+### Discontinuous Galerkin Method
+
+- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
+  Nodal Discontinuous Galerkin Method
+- [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
+  wave phenomena and earthquake dynamics
+
 ### Hybrid Methods
 
-- [Hybrid Methods in SPECFEM3D](https://github.com/geodynamics/specfem3d):
+- FK-SPECFEM2D: [Ping Tong](https://personal.ntu.edu.sg/tongping/index.html)
+- Hybrid Methods in [SPECFEM3D](https://github.com/geodynamics/specfem3d):
   The coulping can be found in `specfem3D/couple_with_injection.f90`
   - **FK-SEM**: FK is not an external code, it is now called internally
   - **DSM-SEM** | **AxiSEM-SEM**: within `EXTERNAL_PACKAGES_coupled_with_SPECFEM3D`
