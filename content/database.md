@@ -271,7 +271,7 @@ toc: true
 - [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
   [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
 - [地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
-- [GMT-China: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN_faults/)
+- [CN-faults: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN-faults/)
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
 - [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
 - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA) |
