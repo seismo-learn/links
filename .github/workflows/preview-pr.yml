@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.5.0
         with:
-          hugo-version: 0.83.1
+          hugo-version: 0.84.1
           extended: true
 
       - name: Change Hugo baseurl so that PR preview works
