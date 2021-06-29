@@ -476,6 +476,8 @@ toc: true
   for seismic moment tensor inversion, which is an integral part of hybridMT
 - [FOCI](https://www.induced.pl/software): A stand-alone Windows GUI application
   for performing the seismic moment tensor inversion and source parameters assessment
+- [lsforce](https://code.usgs.gov/ghsc/lhp/lsforce):
+  A Python-based single-force seismic inversion framework for massive landslides
 - [ISOLA](http://www.spice-rtn.org/library/software/ISOLA.html): Retrieve isolated
   asperities from regional or local waveforms based on multiple-point source
   representation and iterative deconvolution
