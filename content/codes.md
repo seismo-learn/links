@@ -223,7 +223,7 @@ toc: true
   [Seismology at GEUS: Seismological software](http://seis.geus.net)
 - [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and
   transmission coefficient method
-- [grtm: VTI media](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms
+- [grtm (VTI media)](https://github.com/Xindingfang/grtm): Calculate synthetic seismograms
   in stratified vertically transversely isotropic media using the generalized
   reflection and transmission coefficient method
 - [multitel3](https://github.com/YunyiQian/multitel3): A hybrid method of ray
@@ -470,7 +470,7 @@ toc: true
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec):
   Determining and displaying double-couple earthquake focal mechanisms
 - [FPFIT](https://www.usgs.gov/software/fpfit-fpplot-and-fppage):
-  Calculate and plotfault-plane solutions from first-motion data
+  Calculate and plot fault-plane solutions from first-motion data
 - [hybridMT](https://www.induced.pl/software): Moment tensor inversion and refinement written in MATLAB
 - [fociMT](https://www.induced.pl/software): A stand-alone command line application
   for seismic moment tensor inversion, which is an integral part of hybridMT
@@ -509,6 +509,8 @@ toc: true
 
 - [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress
   changes on mapped faults and earthquake nodal planes
+- [AutoCoulomb](https://github.com/jjwangw/CoulombAnalysis):
+  Compute Coulomb stress changes induced by earthquakes
 - [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement,
   strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
 - [MSATSI](https://www.induced.pl/software): Stress tensor inversion written in MATLAB
