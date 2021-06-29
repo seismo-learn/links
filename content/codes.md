@@ -219,7 +219,7 @@ toc: true
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/fk/):
   Calculate synthetic seismograms in layered isotropic models using frequency-wavenumber method
-- Discrete wavenumber method in [seisan](http://seisan.info): at
+- Discrete wavenumber method in [seisan](http://seisan.info) at
   [Seismology at GEUS: Seismological software](http://seis.geus.net)
 - [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and
   transmission coefficient method
@@ -476,6 +476,8 @@ toc: true
   for seismic moment tensor inversion, which is an integral part of hybridMT
 - [FOCI](https://www.induced.pl/software): A stand-alone Windows GUI application
   for performing the seismic moment tensor inversion and source parameters assessment
+- [lsforce](https://code.usgs.gov/ghsc/lhp/lsforce):
+  A Python-based single-force seismic inversion framework for massive landslides
 - [ISOLA](http://www.spice-rtn.org/library/software/ISOLA.html): Retrieve isolated
   asperities from regional or local waveforms based on multiple-point source
   representation and iterative deconvolution
