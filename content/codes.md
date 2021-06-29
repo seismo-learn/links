@@ -219,7 +219,7 @@ toc: true
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/fk/):
   Calculate synthetic seismograms in layered isotropic models using frequency-wavenumber method
-- Discrete wavenumber method in [seisan](http://seisan.info): at
+- Discrete wavenumber method in [seisan](http://seisan.info) at
   [Seismology at GEUS: Seismological software](http://seis.geus.net)
 - [grtm](https://github.com/YunyiQian/grtm): The generalized reflection and
   transmission coefficient method
