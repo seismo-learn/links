@@ -255,6 +255,7 @@ toc: true
 
 - [中国全国地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
 - [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
+- [GMT-China: 中国及邻区地质图数据](https://docs.gmt-china.org/latest/dataset-CN/geo3al/)
 
 ### Fault Database
 
@@ -271,7 +272,7 @@ toc: true
 - [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
   [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
 - [地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
-- [CN-faults: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN-faults/)
+- [GMT-China: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN-faults/)
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
 - [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
 - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA) |
@@ -311,10 +312,9 @@ toc: true
 ### Earth Relief Database
 
 - [GMT: Global Earth Relief Grids](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-relief-grids) |
-  [GMT-China: 全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/) |
-  [全球地形起伏数据总结](https://blog.seisman.info/global-relief-models)
+  [GMT-China: 全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/)
 - [Google Maps: Elevation API](https://developers.google.com/maps/documentation/elevation/start?hl=zh-cn) |
-  [Chinese Introduction](https://gmt-china.org/blog/google-maps-elevation-api)
+  [利用 Google Maps 获取超高精度高程数据](https://gmt-china.org/blog/google-maps-elevation-api)
 
 ### Plate Boundary Models
 
@@ -323,6 +323,7 @@ toc: true
 - [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
 - [PB2002](http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm) |
   [GMT-China: PB2002](https://docs.gmt-china.org/latest/dataset/PB2002/)
+- [GMT-China: 中国大陆及周边活动地块数据](https://docs.gmt-china.org/latest/dataset-CN/CN-block/)
 
 ### Stress/Strain Database
 
@@ -342,9 +343,8 @@ toc: true
   [GMT-China: 全球行政区划数据库](https://docs.gmt-china.org/latest/dataset/gadm/):
   Database of Global Administrative Areas
 - [全国地理信息资源目录服务系统](http://www.webmap.cn/main.do?method=index) |
-  [GMT-China: Brief Introduction](https://gmt-china.org/blog/national-geographic-database)
-- [GMT-China: 中国地学数据](https://gmt-china.org/data) |
-  [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
+  [GMT-China: 1:100 万全国标准基础地理数据](https://gmt-china.org/blog/national-geographic-database)
+- [GMT-China: 中国国界省界数据](https://docs.gmt-china.org/latest/dataset-CN/CN-border/)
 
 ## Geotherm Database
 
