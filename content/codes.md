@@ -599,6 +599,8 @@ toc: true
       Group velocity determination using phase coherence and resampling strategies
 - [CC-FJpy](https://github.com/ColinLii/CC-FJpy): A Python Package for seismic
   ambient noise cross-correlation and the frequency-Bessel transform method
+- [DisperNet](https://github.com/Dongsh/DisperNet): Extracting and classifying
+  the dispersion curves in the Frequency-Bessel dispersion spectrum
 - [GSpecDisp](https://github.com/Hamzeh-Sadeghi/GSpecDisp): A Matlab package for
   phase-velocity dispersion measurement from ambient-noise correlations
 - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise
