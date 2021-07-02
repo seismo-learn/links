@@ -13,10 +13,8 @@ toc: true
 ### Seismology
 
 - [Animations of the free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
-- [IRIS DMC Web Services](http://service.iris.edu)
 - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
-- [IRIS Message Center](http://ds.iris.edu/message-center/)
 
 ## Computer
 
