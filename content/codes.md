@@ -968,6 +968,8 @@ toc: true
   A quality assurance system that provides metrics pertaining to seismic data quality
 - [Pycheron](https://github.com/sandialabs/pycheron):
   A Python library for quality control of seismic data based on IRIS MUSTANG
+- [PolarGUI](https://github.com/lhl-cdut/PolarGUI):
+  A GUI polarization analysis of the three-component seismic data written in MATLAB
 - [Polfre](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
   Time-Frequency Dependent Polarization written in Fortran
 - [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance):
