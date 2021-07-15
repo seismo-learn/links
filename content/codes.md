@@ -164,7 +164,8 @@ toc: true
   Calculate traveltimes, ray parameters, ray paths, reflection points,
   piercing points of seismic phases, supporting custom Earth models
 - [obspy.taup](http://docs.obspy.org/packages/obspy.taup.html): TauP written in Python
-- [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html):
+- [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html) |
+  [GitHub](https://github.com/UT-GlobalSeismology/anisotime):
   Traveltime calculation for transversely isotropic (TI) spherically symmetric models
 - [Cake](https://pyrocko.org): Traveltime calculation software, written in Python.
 - [fast_methods](https://github.com/jvgomez/fast_methods): N-Dimensional Fast Methodswritten in C++
