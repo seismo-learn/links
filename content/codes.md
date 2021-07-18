@@ -540,6 +540,7 @@ toc: true
   Double difference tomography
 - [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html):
   3-D **F**irst **A**rrival **S**eismic **T**omography programs
+- [LOTOS](http://www.ivan-art.com/science/LOTOS/): Local earthquake tomographic inversion written in Fortran
 - [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html) |
   [A modified version](https://github.com/hzhu212/rayinvr):
   2-D traveltime inversion and amplitude modeling programs 
