@@ -1051,15 +1051,15 @@ toc: true
 
 - [Harmonica](https://www.fatiando.org/harmonica/latest/):
   Forward modeling, inversion, and processing gravity and magnetic data
+  - [moho-inversion-tesseroids](https://github.com/pinga-lab/paper-moho-inversion-tesseroids):
+    Fast non-linear gravity inversion in spherical coordinates with application to
+    the South American Moho
 - [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html):
   Carrying out 3D forward modelling and inversion of gravity data
-- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software):
-  A very simple matlab code to illustrate the basics of gravity modelling and inversion
-- [moho-inversion-tesseroids](https://github.com/pinga-lab/paper-moho-inversion-tesseroids):
-  Fast non-linear gravity inversion in spherical coordinates with application to
-  the South American Moho
 - [SphGraGLQ](https://github.com/nqdu/SphGraGLQ): A fast and adaptive gravity
   forward computation method by Gauss-Legendre Quadrature in spherical coordinates in C
+- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software):
+  A very simple matlab code to illustrate the basics of gravity modelling and inversion
 
 ### InSAR/GPS
 
