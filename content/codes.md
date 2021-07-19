@@ -1059,8 +1059,10 @@ toc: true
 ### Geophysical Tools/Library
 
 - [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
-- [UNAVCO: Software](https://www.unavco.org/software/software.html):
-  A variety of software in geodesy
+- [UNAVCO](https://www.unavco.org/) |
+  [Software](https://www.unavco.org/software/software.html):
+  A community of scientists, educators, and professionals working together
+  to better understand Earth processes and hazards using geodesy
 
 ----
 
