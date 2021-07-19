@@ -24,6 +24,7 @@ toc: true
   - [clients](http://service.iris.edu/clients/)
     - [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) |
       [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
+    - [MATLAB data access](http://ds.iris.edu/ds/nodes/dmc/software/downloads/irisFetch.m/)
   - [FDSNWS](http://service.iris.edu/fdsnws/)
   - [IRISWS](http://service.iris.edu/irisws/)
   - [PH5WS](http://service.iris.edu/ph5ws/) |
