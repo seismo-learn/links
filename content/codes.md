@@ -1149,6 +1149,17 @@ toc: true
 - [Neighborhood-Algorithm](https://github.com/nqdu/Neighborhood-Algorithm):
   A simple NA implementation in c++
 
+### Numerical Library
+
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/):
+  A numerical library for C and C++ programmers
+- [Netlib](http://www.netlib.org/): A collection of mathematical software, papers,
+  and databases
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
+- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
+  A software project that provides easy access to efficient and reliable geometric
+  algorithms in the form of a C++ library
+
 ----
 
 ## Software Centers
@@ -1194,17 +1205,6 @@ toc: true
 - [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
   written in the Python
 - [SEISAN](http://www.seisan.info/): Earthquake analysis software
-
-### Numerical Library
-
-- [GNU Scientific Library](https://www.gnu.org/software/gsl/):
-  A numerical library for C and C++ programmers
-- [Netlib](http://www.netlib.org/): A collection of mathematical software, papers,
-  and databases
-- [The Comprehensive R Archive Network](https://cran.r-project.org/)
-- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
-  A software project that provides easy access to efficient and reliable geometric
-  algorithms in the form of a C++ library
 
 ### Software Development Tools
 
