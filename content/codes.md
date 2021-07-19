@@ -1162,8 +1162,10 @@ toc: true
 - [EarthByte](https://www.earthbyte.org/) |
   [Software and Workflows](https://www.earthbyte.org/category/resources/software-workflows):
   An internationally leading eGeoscience collaboration
-- [ETH Seismology and Geodynamics: Software](https://seg.ethz.ch/software.html)
-- [German Research Centre for Geosciences (GFZ): Wave Physics and Tool](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
+- [ETH Seismology and Geodynamics](https://seg.ethz.ch/) |
+  [Software](https://seg.ethz.ch/software.html)
+- [German Research Centre for Geosciences (GFZ)](https://www.gfz-potsdam.de/en/home/) |
+  [Wave Physics and Tool](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
 - [iEarth](http://www.iearth.edu.au): A consortium of scientists from the university,
   government and industry sectors with interests in the development and application
   of inversion methodologies for the Earth Sciences
