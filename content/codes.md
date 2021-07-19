@@ -1231,20 +1231,6 @@ toc: true
 - [William Menke](https://www.ldeo.columbia.edu/users/menke/) |
   [Software](https://www.ldeo.columbia.edu/users/menke/software.html)
 
-### Geophysical Tools/Library
-
-- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
-- [UNAVCO: Software](https://www.unavco.org/software/software.html):
-  A variety of software in geodesy
-
-### Seismological Tools/Library
-
-- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
-  Numerical Methods of Exploration Seismology with algorithms in MATLAB
-- [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
-  written in the Python
-- [SEISAN](http://www.seisan.info/): Earthquake analysis software
-
 ### Software Development Tools
 
 - [Free Intel® Software Development Tools](https://software.intel.com/content/www/us/en/develop/articles/free-intel-software-developer-tools.html)
