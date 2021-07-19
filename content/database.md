@@ -232,9 +232,11 @@ toc: true
 
 ## Geoscience Database/Models
 
-- [地质专业知识服务系统](http://geol.ckcest.cn/index.html) |
-  [3.0 版本介绍](http://www.cgl.cgs.gov.cn/gzdt_4169/dwdt_4172/202103/t20210330_666996.html)
-- [USGS Earthquake Hazards Program: Data and Tools](https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools)
+- [地震地质与地震动力学数据共享分中心](http://datashare.igl.earthquake.cn/datashare)
+- [USGS: Earthquake Hazards](https://www.usgs.gov/natural-hazards/earthquake-hazards) |
+  [Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes) |
+  [Hazards](https://www.usgs.gov/natural-hazards/earthquake-hazards/hazards) |
+  [Data and Tools](https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools)
 - [National Geophysical Data Center (NGDC)](https://www.ngdc.noaa.gov) |
   [Data and Products](https://www.ngdc.noaa.gov/ngdcinfo/onlineaccess.html):
   NGDC and its sister data centers are merged into the NCEI
@@ -247,31 +249,37 @@ toc: true
     [GMT-China](https://docs.gmt-china.org/latest/dataset/earth-age/)
 - [Earth Models](http://www.earthmodels.org/): A platform to store and exchange
   modeling tools and data sets related to the Earth
+- [Global Earthquake Model Foundation](https://www.globalquakemodel.org/) |
+  [Products](https://www.globalquakemodel.org/products) |
+  [Global earthquake maps](https://www.globalquakemodel.org/gem)
 - [Subduction Zone Initiation Database](https://www.szidatabase.org/data)
 
 ## Geological Database
 
 ### General Database
 
-- [中国全国地质资料数据中心](http://www.ngac.org.cn/Distribute/List)
+- [全国地质资料馆](http://www.ngac.org.cn/) |
+  [数据分布列表](http://www.ngac.org.cn/Distribute/List)
+- [地质专业知识服务系统](http://geol.ckcest.cn/index.html) |
+  [3.0 版本介绍](http://www.cgl.cgs.gov.cn/gzdt_4169/dwdt_4172/202103/t20210330_666996.html)
 - [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
 - [GMT-China: 中国及邻区地质图数据](https://docs.gmt-china.org/latest/dataset-CN/geo3al/)
 
 ### Fault Database
 
 - [GEM GAF-DB](https://github.com/GEMScienceTools/gem-global-active-faults) |
-  [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) |
+  [Interactive map](https://www.globalquakemodel.org/product/active-faults-database) |
   [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap):
   **G**lobal **A**ctive **F**aults **D**ata**b**ase maintained by the
-  **G**lobal **E**arthquake **M**odel Foundation
+  [**G**lobal **E**arthquake **M**odel Foundation](https://www.globalquakemodel.org/)
 - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap) |
   [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1):
   Database of active faults and associated features
   (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone, and
   Constituent Dataset of GEM GAF-DB
-- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
+- [中国地震局地质研究所：全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
   [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
-- [地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
+- [中国地震灾害防御中心：地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
 - [GMT-China: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN-faults/)
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
 - [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
