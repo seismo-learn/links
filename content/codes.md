@@ -1170,6 +1170,17 @@ toc: true
 - [Neighborhood-Algorithm](https://github.com/nqdu/Neighborhood-Algorithm):
   A simple NA implementation in c++
 
+### Numerical Library
+
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/):
+  A numerical library for C and C++ programmers
+- [Netlib](http://www.netlib.org/):
+  A collection of mathematical software, papers, and databases
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
+- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
+  A software project that provides easy access to efficient and reliable geometric
+  algorithms in the form of a C++ library
+
 ----
 
 ## Software Centers
@@ -1202,16 +1213,19 @@ toc: true
 - [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
 - [William Menke: Software](https://www.ldeo.columbia.edu/users/menke/software.html)
 
-### Numerical Library
+### Geophysical Tools/Library
 
-- [GNU Scientific Library](https://www.gnu.org/software/gsl/):
-  A numerical library for C and C++ programmers
-- [Netlib](http://www.netlib.org/): A collection of mathematical software, papers,
-  and databases
-- [The Comprehensive R Archive Network](https://cran.r-project.org/)
-- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
-  A software project that provides easy access to efficient and reliable geometric
-  algorithms in the form of a C++ library
+- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
+- [UNAVCO: Software](https://www.unavco.org/software/software.html):
+  A variety of software in geodesy
+
+### Seismological Tools/Library
+
+- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
+  Numerical Methods of Exploration Seismology with algorithms in MATLAB
+- [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
+  written in the Python
+- [SEISAN](http://www.seisan.info/): Earthquake analysis software
 
 ### Software Development Tools
 
