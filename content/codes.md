@@ -1187,31 +1187,49 @@ toc: true
 
 ### Geoscience Software Centers
 
-- [ANU Seismology & Mathematical Geophysics Research Group: Software](http://rses.anu.edu.au/seismology/index.php?p=software)
-- [Computational Infrastructure for Geodynamics: Software](https://geodynamics.org/cig/software)
-- [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
-- [ETH Seismology and Geodynamics: Software](https://seg.ethz.ch/software.html)
-- [Geophysical institut of the Karlsruhe Institute of Technology: Software](https://git.scc.kit.edu/GPIAG-Software)
-- [GFZ: Wave Physics and Tool](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
+- [ANU Seismology & Mathematical Geophysics Research Group](http://rses.anu.edu.au/seismology/index.php?p=home) |
+  [Software](http://rses.anu.edu.au/seismology/index.php?p=software)
+- [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/) |
+  [Software](https://geodynamics.org/cig/software)
+- [EarthByte](https://www.earthbyte.org/) |
+  [Software and Workflows](https://www.earthbyte.org/category/resources/software-workflows):
+  An internationally leading eGeoscience collaboration
+- [ETH Seismology and Geodynamics](https://seg.ethz.ch/) |
+  [Software](https://seg.ethz.ch/software.html)
+- [German Research Centre for Geosciences (GFZ)](https://www.gfz-potsdam.de/en/home/) |
+  [Wave Physics and Tool](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
 - [iEarth](http://www.iearth.edu.au): A consortium of scientists from the university,
   government and industry sectors with interests in the development and application
   of inversion methodologies for the Earth Sciences
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
-- [ISTI: software](https://www.isti.com/software): Instrumental Software Technologies, Inc.
-- [KIT Geophysical Institute: Software](https://www.gpi.kit.edu/english/498.php):
+- [ISTI Software](https://www.isti.com/software): Instrumental Software Technologies, Inc.
+- [Karlsruhe Institute of Technology (KIT) Geophysical Institute](https://www.gpi.kit.edu/english/index.php) |
+  [Software](https://www.gpi.kit.edu/english/498.php) |
+  [GitLab](https://git.scc.kit.edu/GPIAG-Software):
   Finite-difference numerical methods and full waveform inversion software
   developed by the geophysical institute of the Karlsruhe Institute of Technology
-- [MTNet](http://www.mtnet.info/main/source.html): Source codes in the electromagnetic community
-- [NuQuake: Software](http://www.nuquake.eu/Computer_Codes)
-- [QUEST: Software](http://www.quest-itn.org/library/software): **QU**antitative
-  **E**stimation of Earth's Seismic Sources and **ST**ructure
+- [MTNet](http://www.mtnet.info/main/index.html) | 
+  [Codes](http://www.mtnet.info/main/source.html):
+  An international electronic forum for the free exchange of knowledge,
+  programs and data between scientists engaged in the study of the Earth using electromagnetic methods,
+  principally but not exclusively the magnetotelluric technique (magnetotellurics)
+- [NuQuake](http://www.nuquake.eu/index.html) |
+  [Codes](http://www.nuquake.eu/Computer_Codes):
+  Numerical modeling of seismic wave propagation and earthquake motion
+- [QUEST](http://www.quest-itn.org/index.html) | 
+  [Software](http://www.quest-itn.org/library/software):
+  **QU**antitative **E**stimation of Earth's Seismic Sources and **ST**ructure
 - [Seismo-Live](http://www.seismo-live.org/): Live Jupyter Notebooks for Seismology
 - [Seismic wave Propagation and Imaging in Complex media: a European network software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
 - [SW3D](http://seis.karlov.mff.cuni.cz/): **S**eismic **W**aves in complex **3D** structures
-- [University of South Carolina: Software](http://www.seis.sc.edu/software.html)
-- [University of Ottawau Geophysics Group: Software](https://www.uogeophysics.com/#software)
-- [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
-- [William Menke: Software](https://www.ldeo.columbia.edu/users/menke/software.html)
+- [University of South Carolina Lithospheric Seismology Program](http://www.seis.sc.edu/) |
+  [Software](http://www.seis.sc.edu/software.html)
+- [University of Ottawau Geophysics Group](https://www.uogeophysics.com/) |
+  [Software](https://www.uogeophysics.com/#software)
+- [USGS Earthquake Hazards Program](https://www.usgs.gov/natural-hazards/earthquake-hazards) |
+  [Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
+- [William Menke](https://www.ldeo.columbia.edu/users/menke/) |
+  [Software](https://www.ldeo.columbia.edu/users/menke/software.html)
 
 ### Geophysical Tools/Library
 
