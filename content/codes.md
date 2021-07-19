@@ -1052,8 +1052,8 @@ toc: true
 
 - [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
   Numerical Methods of Exploration Seismology with algorithms in MATLAB
-- [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
-  written in the Python
+- [Pyrocko](https://pyrocko.org/):
+  An open-source seismology toolbox and library written in the Python
 - [SEISAN](http://www.seisan.info/): Earthquake analysis software
 
 ### Geophysical Tools/Library
