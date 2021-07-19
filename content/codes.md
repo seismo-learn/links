@@ -24,6 +24,7 @@ toc: true
   - [clients](http://service.iris.edu/clients/)
     - [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) |
       [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
+    - [MATLAB data access](http://ds.iris.edu/ds/nodes/dmc/software/downloads/irisFetch.m/)
   - [FDSNWS](http://service.iris.edu/fdsnws/)
   - [IRISWS](http://service.iris.edu/irisws/)
   - [PH5WS](http://service.iris.edu/ph5ws/) |
@@ -1043,6 +1044,26 @@ toc: true
 - [Shansyn](http://www.spice-rtn.org/library/software/shansyn): **S**pherical
   **H**armonic **AN**alysis and **SYN**thesis
 - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
+
+---
+
+## Seismological/Geophysical Library
+
+### Seismological Tools/Library
+
+- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
+  Numerical Methods of Exploration Seismology with algorithms in MATLAB
+- [Pyrocko](https://pyrocko.org/):
+  An open-source seismology toolbox and library written in the Python
+- [SEISAN](http://www.seisan.info/): Earthquake analysis software
+
+### Geophysical Tools/Library
+
+- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
+- [UNAVCO](https://www.unavco.org/) |
+  [Software](https://www.unavco.org/software/software.html):
+  A community of scientists, educators, and professionals working together
+  to better understand Earth processes and hazards using geodesy
 
 ----
 
