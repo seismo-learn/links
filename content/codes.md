@@ -1044,6 +1044,26 @@ toc: true
   **H**armonic **AN**alysis and **SYN**thesis
 - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
 
+---
+
+## Seismological/Geophysical Library
+
+### Seismological Tools/Library
+
+- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
+  Numerical Methods of Exploration Seismology with algorithms in MATLAB
+- [Pyrocko](https://pyrocko.org/):
+  An open-source seismology toolbox and library written in the Python
+- [SEISAN](http://www.seisan.info/): Earthquake analysis software
+
+### Geophysical Tools/Library
+
+- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
+- [UNAVCO](https://www.unavco.org/) |
+  [Software](https://www.unavco.org/software/software.html):
+  A community of scientists, educators, and professionals working together
+  to better understand Earth processes and hazards using geodesy
+
 ----
 
 ## Geophysics/Geosciences
@@ -1180,20 +1200,6 @@ toc: true
 - [University of Ottawau Geophysics Group: Software](https://www.uogeophysics.com/#software)
 - [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software)
 - [William Menke: Software](https://www.ldeo.columbia.edu/users/menke/software.html)
-
-### Geophysical Tools/Library
-
-- [Fatiando](https://www.fatiando.org/): Open-source tools for geophysics
-- [UNAVCO: Software](https://www.unavco.org/software/software.html):
-  A variety of software in geodesy
-
-### Seismological Tools/Library
-
-- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware):
-  Numerical Methods of Exploration Seismology with algorithms in MATLAB
-- [Pyrocko](https://pyrocko.org/): An open source seismology toolbox and library
-  written in the Python
-- [SEISAN](http://www.seisan.info/): Earthquake analysis software
 
 ### Numerical Library
 
