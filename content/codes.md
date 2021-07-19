@@ -1153,8 +1153,8 @@ toc: true
 
 - [GNU Scientific Library](https://www.gnu.org/software/gsl/):
   A numerical library for C and C++ programmers
-- [Netlib](http://www.netlib.org/): A collection of mathematical software, papers,
-  and databases
+- [Netlib](http://www.netlib.org/):
+  A collection of mathematical software, papers, and databases
 - [The Comprehensive R Archive Network](https://cran.r-project.org/)
 - [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html):
   A software project that provides easy access to efficient and reliable geometric
