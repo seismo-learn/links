@@ -424,6 +424,7 @@ toc: true
   of repeating and near-repeating earthquakes written in Python
 - [RT-EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-time
   implementation of EQcorrscan method
+- [Harmonic tremor extraction and transient signal detection](https://gitup.uni-potsdam.de/zali/harmonic-tremor-extraction-and-transient-signal-detection)
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector written in Python
 
 ### Earthquake Location
