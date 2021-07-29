@@ -976,8 +976,12 @@ toc: true
 - [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data
   to quantify temporal correlations and simultaneously estimate rates, offsets,
   and other functional dependencies
-- [MUSTANG](http://service.iris.edu/mustang) | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
+- [MUSTANG](http://service.iris.edu/mustang) |
+  [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
   A quality assurance system that provides metrics pertaining to seismic data quality
+- [PIQQA](https://github.com/iris-edu/piqqa) |
+  [An introduction](https://ds.iris.edu/ds/newsletter/vol23/no1/533/piqqa-data-quality-reports-for-passcal-experiments/):
+  A python utility to create a simple Quality Assurance report
 - [Pycheron](https://github.com/sandialabs/pycheron):
   A Python library for quality control of seismic data based on IRIS MUSTANG
 - [PolarGUI](https://github.com/lhl-cdut/PolarGUI):
