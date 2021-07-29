@@ -233,6 +233,9 @@ toc: true
   in RTZ components
 - [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
   Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
+- [ANIMATIVITY](https://github.com/RUseismology/ANIMATIVITY):
+  Reflectivity Algorithm for body Wave propagation through layered anisotropic media
+  written in MATLAB
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html):
   Calculating the response of a layered uniform solid layers to excitation by
   a point moment tensor source using the reflectivity method
