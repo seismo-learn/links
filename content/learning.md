@@ -43,6 +43,4 @@ title: Learning Resources
 
 ## Python
 
-### NumPy
-
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
