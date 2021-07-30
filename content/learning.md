@@ -26,9 +26,18 @@ title: Learning Resources
   - 2021 年第七届
 - 北京大学 2020 年地球物理暑期学校“地震噪声相干与成像” |
   [视频](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2) 
+- [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+
+## Geophysics & Tectonics 
+
 - [Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/home?authuser=0) |
   [Videos](https://sites.google.com/g.uky.edu/gtseminar/videos)
-- [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+
+## Inverse Theory
+
+- [Lecture Notes Inverse Theory](https://gitlab.com/swp_ethz/public/lecture_notes_inverse_theory):
+  Exercises and examples accompanying the lecture notes on inverse theory by
+  [Andreas Fichtner](https://erdw.ethz.ch/personen/profil.andreas-fichtner.html)
 
 ## Python
 
