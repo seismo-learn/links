@@ -1014,6 +1014,8 @@ toc: true
 ### Array seismology
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+- [array_processing](https://github.com/uafgeotools/array_processing):
+  Various array processing tools for infrasound and seismic data written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
 - [ts-PWS](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
