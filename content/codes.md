@@ -936,7 +936,7 @@ toc: true
 
 ## Seismic Data Analysis
 
-### Gerneral Signal Analysis
+### General Signal Analysis
 
 - [FFTW](http://fftw.org/): A C subroutine library for computing the
   discrete Fourier transform (DFT)
