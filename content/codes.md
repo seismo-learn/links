@@ -65,7 +65,9 @@ toc: true
   [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
   [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
   The most commonly used seismic data processing and plotting software
-- [CubeTools](https://digos.eu/downloads-docs/): Data Format conversion software for CUBE data
+- [CubeTools](https://digos.eu/downloads-docs/) |
+  [cube_conversion](https://github.com/uafgeotools/cube_conversion):
+  Data Format conversion software for CUBE data
 - [dataselect](https://seiscode.iris.washington.edu/projects/dataselect):
   Selection and sorting for data in miniSEED format
 - [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/):
