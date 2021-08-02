@@ -440,6 +440,8 @@ toc: true
   High-resolution earthquake relocation method
 - [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location):
   Locate earthquakes and determine magnitudes in a local or regional seismic network
+- [AmplitudeSourceLocation](https://github.com/mogiso/AmplitudeSourceLocation):
+  Estimate source locations of seismic events written in Fortran
 - [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc)
   Probabilistic, non-linear, global-search earthquake location in 3D Media
 - [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake
