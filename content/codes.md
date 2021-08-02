@@ -722,7 +722,8 @@ toc: true
   [A tutorial (in Chinese)](https://seismo-learn.org/software/cps/):
   Collection of programs for calculating theorectical seismogram, receiver function,
   surface wave dispersion curve et al.
-- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software):
+- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software) |
+  [PyRaysum](https://github.com/paudetseis/PyRaysum):
   Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 - [RF codes](https://github.com/rmartinshort/RecieverFunctions)
     - Charles J. Ammon's codes
