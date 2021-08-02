@@ -557,6 +557,9 @@ toc: true
   Surface wave two-station dispersion analysis GUI software (in Matlab)
   - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI):
     Automatic surface wave two-station dispersion analysis GUI software (in Matlab)
+- [disp_codes](https://github.com/arjundatta23/disp_codes):
+  A collection of seismological codes imlpementing three array-based techniques
+  for measuring multi-mode surface wave phase velocity dispersion 
 - [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode
   surface wave dispersion using the Linear Radon Transform (LRT) written in MATLAB
 - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html):
