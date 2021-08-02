@@ -24,6 +24,8 @@ toc: true
 - [USGS PDE](https://earthquake.usgs.gov/data/comcat/catalog/us/)
 - [Global Historical Earthquake Archive (1000-1903)](https://emidius.eu/GEH/) |
   [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/historical-catalogue)
+- [Global Waveform Catalog](https://github.com/samwimpenny/Global-Waveform-Catalogue):
+  A database of point-source fault-plane solutions and focal depths for moderate-magnitude earthquakes
 
 ### Regional Earthquake Catalog
 
