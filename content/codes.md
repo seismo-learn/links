@@ -506,11 +506,6 @@ toc: true
 - [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP):
   A GUI to analyse catalogue data
 
-### Source Spectrum
-
-- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
-- [mtspec](https://github.com/krischer/mtspec): **M**ulti**t**aper **Spec**tral Estimation
-
 ### Stress/Strain
 
 - [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress
@@ -942,6 +937,20 @@ toc: true
 
 ## Seismic Data Analysis
 
+### General Signal Analysis
+
+- [FFTW](http://fftw.org/): A C subroutine library for computing the
+  discrete Fourier transform (DFT)
+- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
+- [mtspec](https://github.com/krischer/mtspec): **M**ulti**t**aper **Spec**tral Estimation
+- [multitaper_toolbox](https://github.com/preraulab/multitaper_toolbox):
+  Computing multitaper spectrogram implemented in MATLAB, Python, and R
+- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
+- [SeisSound](https://ds.iris.edu/ds/products/seissound/):
+  The Audio/Video Seismic Waveform Visualization
+- [datamovies](https://github.com/jbrussell/datamovies):
+  A couple of demo codes for sonifying data
+
 ### Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html) |
@@ -1031,16 +1040,6 @@ toc: true
   component noise from tilt and compliance effects written in Python
 - [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer
   orientation written in Python
-
-### Signal Analysis
-
-- [FFTW](http://fftw.org/): A C subroutine library for computing the
-  discrete Fourier transform (DFT)
-- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
-- [SeisSound](https://ds.iris.edu/ds/products/seissound/):
-  The Audio/Video Seismic Waveform Visualization
-- [datamovies](https://github.com/jbrussell/datamovies):
-  A couple of demo codes for sonifying data
 
 ### Pattern Recognition and Machine Learning
 
