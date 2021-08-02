@@ -261,7 +261,8 @@ toc: true
 ### General Database
 
 - [全国地质资料馆](http://www.ngac.org.cn/) |
-  [数据分布列表](http://www.ngac.org.cn/Distribute/List)
+  [数据分布列表](http://www.ngac.org.cn/Distribute/List) |
+  手机应用：第四纪
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html) |
   [3.0 版本介绍](http://www.cgl.cgs.gov.cn/gzdt_4169/dwdt_4172/202103/t20210330_666996.html)
 - [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
@@ -280,8 +281,10 @@ toc: true
   (suture zones, Cenozoic volcanic rocks) in the Indo-Asian collision zone, and
   Constituent Dataset of GEM GAF-DB
 - [中国地震局地质研究所：全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc) |
-  [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html)
-- [中国地震灾害防御中心：地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
+  [说明](https://www.eq-igl.ac.cn/tzgg/info/2020/21942.html) |
+  手机应用：第四纪
+- [中国地震灾害防御中心：地震活动断层探察数据中心](http://www.activefault-datacenter.cn/) |
+  手机应用：第四纪
 - [GMT-China: 中国断层数据](https://docs.gmt-china.org/latest/dataset-CN/CN-faults/)
 - [Central Asia Fault Database](https://esdynamics.geo.uni-tuebingen.de/faults/)
 - [Active faults and folds in the United States](https://www.usgs.gov/natural-hazards/earthquake-hazards/faults)
