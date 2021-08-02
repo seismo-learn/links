@@ -561,6 +561,8 @@ toc: true
     Automatic surface wave two-station dispersion analysis GUI software (in Matlab)
 - [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode
   surface wave dispersion using the Linear Radon Transform (LRT) written in MATLAB
+- [PyMASWdisp](https://github.com/dpteague/PyMASWdisp):
+  Calculate dispersion data from **M**\ ulti-Channel **A**\ nalysis of **S**\ urface **W**\ aves data written in Python
 - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html):
   Surface Wave **M**ultiple **F**ilter **A**nalysis
 
