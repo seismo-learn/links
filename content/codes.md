@@ -436,7 +436,9 @@ toc: true
 
 - [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation of
   earthquake hypocenters based on waveform cross-correlation data
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html):
+- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) |
+  [A tutorial](http://geophysics.eas.gatech.edu/people/cwu/teaching/hypoDD/hypoDD.html) |
+  [hypoDDpy](https://github.com/krischer/hypoDDpy):
   Double-difference earthquake location
 - [HypoRelocate](https://github.com/sun1022/hypoRelocate):
   High-resolution earthquake relocation method
