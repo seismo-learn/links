@@ -414,7 +414,7 @@ toc: true
 - [REAL](https://github.com/Dal-mzhang/REAL): **R**apid **E**arthquake
   **A**ssociation and **L**ocation written in C
 - [S-SNAP](https://github.com/tanfengzhou/S-SNAP1.1):
-  **S**eismicity-**S**canning based on **N**avigated **A**utomatic **P**hase-Picking
+  **S**eismicity-\ **S**canning based on **N**avigated **A**utomatic **P**hase-Picking
 - [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Detect and locate
   small events from continuous seismic waveforms using templates
 - [GPU-MatchLocate1.0](https://github.com/MinLiu19/GPU-MatchLocate1.0):
