@@ -809,6 +809,8 @@ toc: true
 
 - [CodaNorm](https://github.com/cormorant/CodaNorm):
   Calculating the seismic quality factor using the coda normalization method
+- [Coda-Q-Inversion](https://github.com/wew053/Coda-Q-Inversion):
+  Coda-Q inversion written in MATALB
 - [MuRAT](https://github.com/LucaDeSiena/MuRAT): Multi-resolution seismic attenuation
   tomography using Body and Coda Waves written in MATLAB
 - [psphoton](https://github.com/nmancinelli/psphoton):
