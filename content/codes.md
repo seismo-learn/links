@@ -1232,7 +1232,9 @@ toc: true
 - [QUEST](http://www.quest-itn.org/index.html) | 
   [Software](http://www.quest-itn.org/library/software):
   **QU**antitative **E**stimation of Earth's Seismic Sources and **ST**ructure
-- [Seismo-Live](http://www.seismo-live.org/): Live Jupyter Notebooks for Seismology
+- [Seismo-Live](http://www.seismo-live.org/) |
+  [GitHub](https://github.com/krischer/seismo_live):
+  Live Jupyter Notebooks for Seismology
 - [Seismic wave Propagation and Imaging in Complex media: a European network software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
 - [SW3D](http://seis.karlov.mff.cuni.cz/): **S**eismic **W**aves in complex **3D** structures
 - [University of South Carolina Lithospheric Seismology Program](http://www.seis.sc.edu/) |
