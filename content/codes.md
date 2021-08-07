@@ -1125,18 +1125,10 @@ toc: true
 - [CitcomS](https://github.com/geodynamics/citcoms): Solve compressible
   thermochemical convection problems relevant to Earth's mantle
 
-### Geophysics
+### Mineral Physics
 
-- [distaz](http://www.seis.sc.edu/software/distaz) |
-  [A tutorial (in Chinese)](https://seismo-learn.org/software/utilities/distaz/):
-  Calculate distance, azimuth and back-azimuth of any two points at the Earth's surface 
-- [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic
-  thickness written in Python and Fortran
-
-### Tectonics
-
-- [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for
-  the interactive visualisation of plate-tectonics
+- [GassDem](https://github.com/ekim1419/GassDem):
+  Modeling anisotropic seismic properties written in MATLAB
 
 ### Thermodynamic Modeling
 
@@ -1153,6 +1145,19 @@ toc: true
   and/or individual end-members from the Holland & Powell dataset
 - [BurnMan](https://burnman.org/): An open source mineral physics toolbox written
   in Python to generate physical properties for the Earth and other planets
+
+### Geophysics
+
+- [distaz](http://www.seis.sc.edu/software/distaz) |
+  [A tutorial (in Chinese)](https://seismo-learn.org/software/utilities/distaz/):
+  Calculate distance, azimuth and back-azimuth of any two points at the Earth's surface 
+- [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic
+  thickness written in Python and Fortran
+
+### Tectonics
+
+- [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for
+  the interactive visualisation of plate-tectonics
 
 ----
 
