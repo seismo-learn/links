@@ -19,8 +19,8 @@ title: Learning Resources
     [Codes](https://github.com/fdannemanndugick/roses2020)
   - 2021 |
     [Codes](https://github.com/fdannemanndugick/roses2021)
-- 地震学算法与程序培训班
-  - [2020 年第六届](http://seismo.training.ustc.edu.cn/index.php) |
+- [地震学算法与程序培训班](http://seismo.training.ustc.edu.cn/index.php)
+  - 2020 年第六届:
     [B 站](https://www.bilibili.com/video/BV1e54y1i7FM) |
     [蔻享学术](https://www.koushare.com/video/meetingVideo?mid=210)
   - 2021 年第七届
