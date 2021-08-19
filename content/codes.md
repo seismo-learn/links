@@ -413,8 +413,9 @@ toc: true
 
 ### Earthquake Detection
 
-- [REAL](https://github.com/Dal-mzhang/REAL): **R**apid **E**arthquake
-  **A**ssociation and **L**ocation written in C
+- [REAL](https://github.com/Dal-mzhang/REAL) |
+  [A tutorial](https://www.koushare.com/video/videodetail/14767) (in Chinese):
+  **R**apid **E**arthquake **A**ssociation and **L**ocation written in C
 - [S-SNAP](https://github.com/tanfengzhou/S-SNAP1.1):
   **S**eismicity-**S**canning based on **N**avigated **A**utomatic **P**hase-Picking
 - [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Detect and locate
@@ -454,8 +455,6 @@ toc: true
   location via parallel tempering and principal component sampling
 - [PhaseLink](https://github.com/interseismic/PhaseLink):
   A deep learning approach to seismic phase association
-- [REAL](https://github.com/Dal-mzhang/REAL): **R**apid **E**arthquake
-  **A**ssociation and **L**ocation written in C
 - [Velest](https://seg.ethz.ch/software/velest.html) |
   A modified version in [REAL](https://github.com/Dal-mzhang/REAL):
   1-D inversion of velocities and hypocenter locations
@@ -612,8 +611,9 @@ toc: true
       Fast and efficient phase cross-correlation written in Python
     - [TS_PWS0_UG](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
       Group velocity determination using phase coherence and resampling strategies
-- [CC-FJpy](https://github.com/ColinLii/CC-FJpy): A Python Package for seismic
-  ambient noise cross-correlation and the frequency-Bessel transform method
+- [CC-FJpy](https://github.com/ColinLii/CC-FJpy) |
+  [A tutorial](https://www.koushare.com/video/videodetail/14523) (in Chinese):
+  A Python Package for seismic ambient noise cross-correlation and the frequency-Bessel transform method
 - [DisperNet](https://github.com/Dongsh/DisperNet): Extracting and classifying
   the dispersion curves in the Frequency-Bessel dispersion spectrum
 - [GSpecDisp](https://github.com/Hamzeh-Sadeghi/GSpecDisp): A Matlab package for
@@ -668,7 +668,8 @@ toc: true
   Direct inversion of surface dispersion data based on ray tracing written in Fortran
 - [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo):
   Direct Surface Wave Radial Anisotropy Tomography written in Fortran
-- [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo):
+- [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo) |
+  [A tutorial](https://www.koushare.com/video/videodetail/14733) (in Chinese):
   Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing
 - [3D Monte Carlo Direct Inversion](https://blogs.ed.ac.uk/imaging/research/codes/) |
   [GitHub](https://github.com/xin2zhang/MCTomo):
@@ -984,7 +985,8 @@ toc: true
   Generalized Seismic Phase Detection with Deep Learning
 - [mccc](https://github.com/xumi1993/mccc): Determines optimum relative delay times
   for a set of seismograms based on the VanDecar & Crosson **m**ulti-**c**hannel **c**ross-**c**orrelation algorithm
-- [PhaseNet](https://github.com/wayneweiqiang/PhaseNet):
+- [PhaseNet](https://github.com/wayneweiqiang/PhaseNet) |
+  [A tutorial](https://www.koushare.com/video/videodetail/14754) (in Chinese):
   A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
 - [PhasePApy](https://github.com/austinholland/PhasePApy):
   Seismic Phase Picker and Associator, written in Python
