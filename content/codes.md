@@ -711,14 +711,6 @@ toc: true
 
 ## Seismic Imaging
 
-### Rayleigh-wave Ellipticity
-
-- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
-  [GitHub](https://github.com/berbellini/DOP-E):
-  Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
-- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity
-  from earthquake data written in Python
-
 ### Receiver Function
 
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology written in Python
@@ -790,6 +782,14 @@ toc: true
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing
   receiver functions and shear wave spliting
 
+### Rayleigh-wave Ellipticity
+
+- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software) |
+  [GitHub](https://github.com/berbellini/DOP-E):
+  Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
+- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity
+  from earthquake data written in Python
+
 ### Shear Wave Splitting
 
 - [SplitLab](http://splitting.gm.univ-montp2.fr) |
@@ -824,13 +824,6 @@ toc: true
 - [usattenuation](https://github.com/trichter/usattenuation):
   Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
 
-### Waveform Inversion
-
-- [Fault zone travel time and waveform modelling](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
-  [bilibili](https://www.bilibili.com/video/av841708479?p=6)
-- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover
-  Green's functions of receiver-side structures from teleseismic waveforms
-
 ### Joint Inversion of Seismological Data
 
 - [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/):
@@ -848,6 +841,13 @@ toc: true
 - [RfSurfHmc](https://github.com/nqdu/RfSurfHmc): Joint inversion of Receiver
   Function and Surface Wave Disperion by Hamilton Monte Carlo Method
 
+### Waveform Inversion
+
+- [Fault zone travel time and waveform modelling](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
+  [bilibili](https://www.bilibili.com/video/av841708479?p=6)
+- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover
+  Green's functions of receiver-side structures from teleseismic waveforms
+
 ### Full Waveform Inversion
 
 - [IFOS2D](https://www.gpi.kit.edu/english/498.php?tab=%5B245%5D#tabpanel-245) |
@@ -864,6 +864,7 @@ toc: true
   2D ZH Amplitude Ratios adjoint tomography
 - [ASKI](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/aski.html):
   Seismic Full Waveform Inversion and sensitivity/resolution analysis
+- [Finite-frequency tomography](https://www.geoazur.fr/GLOBALSEIS/Soft.html)
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl): Solving the 2D and 3D acoustic
   full waveform inversion on a regular rectangular mesh written in Julia
 - [GERMAINE](https://github.com/daniel-koehn/GERMAINE):
