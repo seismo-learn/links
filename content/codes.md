@@ -781,7 +781,7 @@ toc: true
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by
   reversible-jump Markov-chain Monte Carlo written in Fortran
 - [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation along with post-processing
-  (e.g., hk, harmonic decompositino, CCP) written in Python
+  (e.g., hk, harmonic decomposition, CCP) written in Python
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Receiver Function Inversion
   using Reversible jump Markov chain Monte Carlo algorithm
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive GUI tool to simulate P or S receiver functions
