@@ -433,6 +433,9 @@ toc: true
 - [RT-EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-time
   implementation of EQcorrscan method
 - [Harmonic tremor extraction and transient signal detection](https://gitup.uni-potsdam.de/zali/harmonic-tremor-extraction-and-transient-signal-detection)
+- [PAL](https://github.com/YijianZhou/PAL): 
+  An earthquake detection and location architecture including phase **P**icking,
+  phase **A**ssociation, event **L**ocation.
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector written in Python
 
 ### Earthquake Location
