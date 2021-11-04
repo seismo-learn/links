@@ -434,6 +434,9 @@ toc: true
   implementation of EQcorrscan method
 - [Harmonic tremor extraction and transient signal detection](https://gitup.uni-potsdam.de/zali/harmonic-tremor-extraction-and-transient-signal-detection)
 - [MESS](https://github.com/YijianZhou/MESS): A Matched filter earthquake detector with GPU acceleration
+- [PAL](https://github.com/YijianZhou/PAL): 
+  An earthquake detection and location architecture including phase **P**icking,
+  phase **A**ssociation, event **L**ocation.
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector written in Python
 
 ### Earthquake Location
