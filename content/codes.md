@@ -546,7 +546,9 @@ toc: true
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html) |
       [iEarth](http://www.iearth.org.au/codes/FMTT):
       Teleseismic tomography based on fast marching method written in Fortran
-- [SIMUL2000](http://www.geology.wisc.edu/~thurber/simul2000/): Cliff Thurber's traveltime tomography codes
+- [simul2017](https://doi.org/10.5281/zenodo.5746047) |
+  [SIMUL2000](http://www.geology.wisc.edu/~thurber/simul2000/):
+  Simultaneous inversion of travel-time data for 3-D velocity and hypocenters
 - [Haijiang Zhang](http://ess.ustc.edu.cn/faculties/detail-134.html)'s tomoDD |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=4):
