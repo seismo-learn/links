@@ -17,7 +17,7 @@ title: Learning Resources
   Summer school offered by AGU Seismology Section
   - [2020](https://www.iris.edu/hq/inclass/course/roses) |
     [Codes](https://github.com/fdannemanndugick/roses2020)
-  - 2021 |
+  - [2021](https://connect.agu.org/seismology/roses/roses2021materials) |
     [Codes](https://github.com/fdannemanndugick/roses2021)
 - [地震学算法与程序培训班](http://seismo.training.ustc.edu.cn/)
   - 2020 年第六届:
