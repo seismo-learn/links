@@ -969,8 +969,9 @@ toc: true
 
 - [FFTW](http://fftw.org/): A C subroutine library for computing the
   discrete Fourier transform (DFT)
-- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
-- [mtspec](https://github.com/krischer/mtspec): **M**ulti**t**aper **Spec**tral Estimation
+- [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software) |
+  [multitaper](https://github.com/gaprieto/multitaper) |
+  [mtspec](https://github.com/krischer/mtspec): **M**ulti**t**aper **Spec**tral Estimation
 - [multitaper_toolbox](https://github.com/preraulab/multitaper_toolbox):
   Computing multitaper spectrogram implemented in MATLAB, Python, and R
 - [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
