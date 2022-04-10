@@ -284,6 +284,8 @@ toc: true
   Normal-mode based computation of seismograms for spherically symmetric Earth models
 - [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/):
   Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
+- [specnm](https://gitlab.com/JohKem1/specnm):
+  Spectral element normal mode code
 
 ### Direct Solution Method for 1D Layered Spherical Earth
 
