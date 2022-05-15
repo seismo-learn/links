@@ -14,10 +14,10 @@ toc: true
       retrieve geophysical timeseries data from data centers
     - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
       [notes in Chinese](https://blog.seisman.info/tags/breq_fast):
-      Seismic data request by sending email 
+      Seismic data request by sending email
     - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event) |
       [A note in Chinese](https://blog.seisman.info/wilber3):
-      A web GUI to request waveform data of individual seismic events 
+      A web GUI to request waveform data of individual seismic events
     - [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed):
       Data request client written in Java
 - [IRIS-DMC: Web Services](http://service.iris.edu):
@@ -68,7 +68,7 @@ toc: true
 - [CubeTools](https://digos.eu/downloads-docs/) |
   [cube_conversion](https://github.com/uafgeotools/cube_conversion):
   Data Format conversion software for CUBE data
-- [dataselect](https://seiscode.iris.washington.edu/projects/dataselect):
+- [dataselect](https://github.com/iris-edu/dataselect):
   Selection and sorting for data in miniSEED format
 - [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/):
   A collection of software utilities for initial pre-processing of recorded data
@@ -78,7 +78,7 @@ toc: true
   to modify miniSEED header values
 - [mseed2sac](https://github.com/iris-edu/mseed2sac):
   Convert miniSEED format to SAC format
-- [sac2mseed](https://seiscode.iris.washington.edu/projects/sac2mseed): Convert SAC format to minniSEED format
+- [sac2mseed](https://github.com/iris-edu/sac2mseed): Convert SAC format to minniSEED format
 - [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools):
   Convert WIN32 format used by Hi-net, to SAC format
 - [rdseed](https://github.com/iris-edu-legacy/rdseed) |
@@ -180,7 +180,7 @@ toc: true
   Surface Wave Ray Tracing with Azimuthal Anisotropy
 - [pykonal](https://github.com/malcolmw/pykonal): 2D/3D traveltime calculator
   using Fast Marching Method for eikonal equation in Cartesian and spherical coordinates
-- [pySeismicFMM](https://github.com/gozwei/pySeismicFMM): 
+- [pySeismicFMM](https://github.com/gozwei/pySeismicFMM):
   2D/3D travel time calculation in based on the Fast Marching Method written in Python
 - [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm): Fast marching method
@@ -191,7 +191,7 @@ toc: true
       Traveltime calculator for iasp91 and AK135 models
     - B.L.N. Kennett and Ray Buland's [version](http://rses.anu.edu.au/seismology/soft/ttsoft.html) |
       [A revised version](https://github.com/seisman/TravelTimeEllipcityCorrection):
-      Calculation of travel times and ellipticity corrections for iasp91 and AK135 models 
+      Calculation of travel times and ellipticity corrections for iasp91 and AK135 models
     - George Helffrich's [version](https://members.elsi.jp/~george/sac-bugs.html#ttimes):
       Traveltime calculator for iasp91, AK135, PREM etc.
 
@@ -325,7 +325,7 @@ toc: true
   [1DFD_DS](http://www.spice-rtn.org/library/software/1DFDDS.html) |
   [1DFD_DVS](http://www.spice-rtn.org/library/software/1DFDDVS.html) |
   [1DFD_VS](http://www.spice-rtn.org/library/software/1DFDVS.html):
-  1D finite-difference seismic simulation using the displacement-stress (DS), 
+  1D finite-difference seismic simulation using the displacement-stress (DS),
   displacement-velocity-stress (DVS), and velocity-stress (VS) staggered-grids
 - [2DFD_DVS](http://www.nuquake.eu/Computer_Codes/2dfd.htm):
   Computation of seismic wavefields in 2D heterogeneous structures
@@ -434,7 +434,7 @@ toc: true
   implementation of EQcorrscan method
 - [Harmonic tremor extraction and transient signal detection](https://gitup.uni-potsdam.de/zali/harmonic-tremor-extraction-and-transient-signal-detection)
 - [MESS](https://github.com/YijianZhou/MESS): A Matched filter earthquake detector with GPU acceleration
-- [PAL](https://github.com/YijianZhou/PAL): 
+- [PAL](https://github.com/YijianZhou/PAL):
   An earthquake detection and location architecture including phase **P**icking,
   phase **A**ssociation, event **L**ocation.
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector written in Python
@@ -470,7 +470,7 @@ toc: true
   [Chinese note](https://blog.seisman.info/gcap-install):
   Focal mechanism inversion using cut and paste method
 - [CAPjoint](https://github.com/bqpseismology/CAPjoint) |
-  [CAPjoint examples](https://github.com/wangliang1989/capjoint): 
+  [CAPjoint examples](https://github.com/wangliang1989/capjoint):
   Joint Inversion of Moderate Earthquake Source Parameters
 - [gCAPjoint](https://github.com/bqpseismology/gCAPjoint):
   Full Moment Tensor Inversion of Moderately Strong Earthquakes with Local and Teleseismic Waveforms
@@ -561,7 +561,7 @@ toc: true
   Poisson Voronoi cells based seismic traveltime tomography
 - [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html) |
   [A modified version](https://github.com/hzhu212/rayinvr):
-  2-D traveltime inversion and amplitude modeling programs 
+  2-D traveltime inversion and amplitude modeling programs
 
 ### Earthquake Surface-wave Dispersion
 
@@ -577,7 +577,7 @@ toc: true
     Automatic surface wave two-station dispersion analysis GUI software (in Matlab)
 - [disp_codes](https://github.com/arjundatta23/disp_codes):
   A collection of seismological codes imlpementing three array-based techniques
-  for measuring multi-mode surface wave phase velocity dispersion 
+  for measuring multi-mode surface wave phase velocity dispersion
 - [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode
   surface wave dispersion using the Linear Radon Transform (LRT) written in MATLAB
 - [PyMASWdisp](https://github.com/dpteague/PyMASWdisp):
@@ -742,7 +742,7 @@ toc: true
     - Cheng's codes, including Qingju Wu's maximum entrop deconvolution method (`burgays`)
 - Charles J. Ammon's RF codes:
   [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
-- Jeffrey Park's RF codes | 
+- Jeffrey Park's RF codes |
   [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) |
   [Jeffrey Park's blog](http://jparkcodes.blogspot.com):
   - [rfsyn](https://seiscode.iris.washington.edu/projects/rfsyn):
@@ -767,7 +767,7 @@ toc: true
 - [h-k-c](https://github.com/ljt-uiuc/H-k-c) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=3):
-  Generalized H-k after harmonic correction on receiver functions 
+  Generalized H-k after harmonic correction on receiver functions
 - [IRFFM](http://www.iearth.org.au/codes/IRFFM/): An interactive Java program for
   joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD):
@@ -984,7 +984,7 @@ toc: true
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html) |
   [iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking):
   Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations
-- [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat):
+- [AIMBAT](https://github.com/pysmo/aimbat):
   Measuring teleseismic body wave arrival times for large seismic arrays written in Python
 - [CrazySeismic](https://faculty.sustech.edu.cn/?p=39425&tagid=yucq&cat=5&iscss=1&snapid=1&lang=en) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
@@ -1164,7 +1164,7 @@ toc: true
 
 - [distaz](http://www.seis.sc.edu/software/distaz) |
   [A tutorial (in Chinese)](https://seismo-learn.org/software/utilities/distaz/):
-  Calculate distance, azimuth and back-azimuth of any two points at the Earth's surface 
+  Calculate distance, azimuth and back-azimuth of any two points at the Earth's surface
 - [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic
   thickness written in Python and Fortran
 
@@ -1259,7 +1259,7 @@ toc: true
   [GitLab](https://git.scc.kit.edu/GPIAG-Software):
   Finite-difference numerical methods and full waveform inversion software
   developed by the geophysical institute of the Karlsruhe Institute of Technology
-- [MTNet](http://www.mtnet.info/main/index.html) | 
+- [MTNet](http://www.mtnet.info/main/index.html) |
   [Codes](http://www.mtnet.info/main/source.html):
   An international electronic forum for the free exchange of knowledge,
   programs and data between scientists engaged in the study of the Earth using electromagnetic methods,
@@ -1267,7 +1267,7 @@ toc: true
 - [NuQuake](http://www.nuquake.eu/index.html) |
   [Codes](http://www.nuquake.eu/Computer_Codes):
   Numerical modeling of seismic wave propagation and earthquake motion
-- [QUEST](http://www.quest-itn.org/index.html) | 
+- [QUEST](http://www.quest-itn.org/index.html) |
   [Software](http://www.quest-itn.org/library/software):
   **QU**antitative **E**stimation of Earth's Seismic Sources and **ST**ructure
 - [Seismo-Live](http://www.seismo-live.org/) |
