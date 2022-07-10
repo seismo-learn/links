@@ -19,11 +19,11 @@ title: Learning Resources
     [Codes](https://github.com/fdannemanndugick/roses2020)
   - [2021](https://connect.agu.org/seismology/roses/roses2021materials) |
     [Codes](https://github.com/fdannemanndugick/roses2021)
-- [地震学算法与程序培训班](http://seismo.training.ustc.edu.cn/)
+- 地震学算法与程序培训班
   - [2020 年第六届](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae):
     [蔻享](https://www.koushare.com/video/meetingVideo?mid=210) |
     [B 站](https://www.bilibili.com/video/BV1e54y1i7FM)
-  - 2021 年第七届:
+  - [2021 年第七届](http://seismo.training.ustc.edu.cn/):
     [蔻享](https://www.koushare.com/video/videodetail/14446)
 - 地球物理暑期学校（北京大学）
   - [2020 年：“地震噪声相干与成像”](https://sess.pku.edu.cn/xwzx/xytz/344137.htm) |
