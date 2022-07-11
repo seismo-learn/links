@@ -26,12 +26,12 @@ title: Learning Resources
   - [2021 年第七届](http://seismo.training.ustc.edu.cn/):
     [蔻享](https://www.koushare.com/video/videodetail/14446)
 - 地球物理暑期学校（北京大学）
-  - [2020 年：“地震噪声相干与成像”](https://sess.pku.edu.cn/xwzx/xytz/344137.htm) |
+  - [2020 年：“地震噪声相干与成像”](https://sess2.pku.edu.cn/xwzx/xytz/344137.htm) |
     [B 站](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
-  - [2021 年：”地震波全波形成像应用“](https://sess.pku.edu.cn/xwzx/xytz/353510.htm)
+  - [2021 年：”地震波全波形成像应用“](https://sess2.pku.edu.cn/xwzx/xytz/353510.htm)
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 
-## Geophysics & Tectonics 
+## Geophysics & Tectonics
 
 - [Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/home?authuser=0) |
   [Videos](https://sites.google.com/g.uky.edu/gtseminar/videos)

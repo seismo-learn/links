@@ -151,7 +151,7 @@ toc: true
 
 - [IRIS Products: EARS](http://ds.iris.edu/ds/products/ears/):
   **E**arthScope **A**utomated **R**eceiver **S**urvey
-- [GLImER](http://www.stephanerondenay.com/glimer-web.html): **G**lobal
+- [GLImER](https://www.stephanerondenay.com/glimer-map/map.html): **G**lobal
   **L**ithospheric **Im**aging using **E**arthquake **R**ecordings
   (teleseismic receiver functions)
 
