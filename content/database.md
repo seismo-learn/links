@@ -38,7 +38,7 @@ toc: true
   [Catalog Search](https://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/bulletin-en.php)
 - [Northern California Earthquake Catalog](http://www.ncedc.org/ncedc/catalog-search.html) |
   [FDSN Event Web Service](http://service.ncedc.org/fdsnws/event/1/)
-- [Southern California Earthquake Catalogs](https://scedc.caltech.edu/eq-catalogs/) |
+- [Southern California Earthquake Catalog](https://scedc.caltech.edu/data/eq-catalogs.html) |
   [Catalog Search](https://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php) |
   [FDSN Event Web Service](https://service.scedc.caltech.edu/fdsnws/event/1/)
 - [Southern California Waveform Relocated Earthquake Catalog](https://scedc.caltech.edu/data/alt-2011-dd-hauksson-yang-shearer.html)
