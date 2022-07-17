@@ -148,7 +148,7 @@ toc: true
 - [SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php):
   Web-based tools for the interactive visualisation, analysis, and quantitative
   comparison of global-scale, volumetric (3-D) data sets of the subsurface
-- [Tomoeye](http://www.iearth.org.au/codes/Tomoeye): A set of programs for
+- [Tomoeye](http://www.iearth.edu.au/codes/Tomoeye): A set of programs for
   tomographic model visualization written in MatLab 6.1 script
 
 ### Visualization
@@ -173,7 +173,7 @@ toc: true
 - [Cake](https://pyrocko.org): Traveltime calculation software, written in Python.
 - [fast_methods](https://github.com/jvgomez/fast_methods): N-Dimensional Fast Methodswritten in C++
 - [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode) |
-  [iEarth](http://www.iearth.org.au/codes/3Dfastmarching/):
+  [iEarth](http://www.iearth.edu.au/codes/3Dfastmarching/):
    3D traveltime calculation using Fast Marching Method in spherical coordinates written in Fortran
 - [Lapo Boschi: Software](http://hestia.lgs.jussieu.fr/~boschil/downloads.html) |
   [SPICE](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html):
@@ -543,10 +543,10 @@ toc: true
   [A tutorial](https://www.koushare.com/video/videodetail/14760) in Chinese
 - [Nick Rawlinson: Software](http://rses.anu.edu.au/~nick)
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html) |
-      [iEarth](http://www.iearth.org.au/codes/FMTOMO):
+      [iEarth](http://www.iearth.edu.au/codes/FMTOMO):
       3-D traveltime tomography based on fast marching method written in Fortran
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html) |
-      [iEarth](http://www.iearth.org.au/codes/FMTT):
+      [iEarth](http://www.iearth.edu.au/codes/FMTT):
       Teleseismic tomography based on fast marching method written in Fortran
 - [simul2017](https://doi.org/10.5281/zenodo.5746047) |
   [SIMUL2000](http://www.geology.wisc.edu/~thurber/simul2000/):
@@ -645,9 +645,9 @@ toc: true
   **A**utomated **S**urface **W**ave Phase Velocity **M**easuring **S**ystem written in MATLAB, measuring the phase and amplitude of surface waves and then generate
   surface-wave tomography maps using the Eikonal and Helmhotza tomography
 - [FMST](http://rses.anu.edu.au/~nick/surftomo.html) |
-  [iEarth](http://www.iearth.org.au/codes/FMST):
+  [iEarth](http://www.iearth.edu.au/codes/FMST):
   Traveltime tomography in 2-D spherical shell coordinates based on fast marching method
-- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel
+- [rj-TOMO](http://www.iearth.edu.au/codes/rj-TOMO): 2-D transdimensional travel
   time tomography based on Reversible jump Markov chain Monte Carlo algorithm
 - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/) |
   [GitHub](https://github.com/NoiseCIEI/RayTomo):
@@ -770,7 +770,7 @@ toc: true
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=3):
   Generalized H-k after harmonic correction on receiver functions
-- [IRFFM](http://www.iearth.org.au/codes/IRFFM/): An interactive Java program for
+- [IRFFM](http://www.iearth.edu.au/codes/IRFFM/): An interactive Java program for
   joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD):
   Compute surface wave dispersion curves and receiver functions in anisotropic
@@ -790,7 +790,7 @@ toc: true
   reversible-jump Markov-chain Monte Carlo written in Fortran
 - [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation along with post-processing
   (e.g., hk, harmonic decomposition, CCP) written in Python
-- [rj-RF](http://www.iearth.org.au/codes/rj-RF): Receiver Function Inversion
+- [rj-RF](http://www.iearth.edu.au/codes/rj-RF): Receiver Function Inversion
   using Reversible jump Markov chain Monte Carlo algorithm
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive GUI tool to simulate P or S receiver functions
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing
@@ -1214,7 +1214,7 @@ toc: true
   of the Delayed Rejection Adaptive Metropolis (DRAM) method
 - [emcee](https://github.com/dfm/emcee):
   Affine Invariant Markov chain Monte Carlo Ensemble sampler written in Python
-- [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines
+- [rj-MCMC](http://www.iearth.edu.au/codes/rj-MCMC): A library providing routines
   for running **R**eversible **J**ump **M**onte-**C**arlo **M**arkov **c**hains
   for 1-D and 2-D spatial regression problems
 - [rjmcmc](https://cran.r-project.org/web/packages/rjmcmc/index.html):
