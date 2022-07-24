@@ -50,7 +50,7 @@ toc: true
   for Retrieving, Processing and Management of Seismological Datasets
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl):
   Julia language support for geophysical time series data
-- [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch):
+- [StrongMotion Fetch](https://github.com/usgs/strongmotionfetch):
   Download and/or process strong motion data from various networks
 
 ### Seismic Data Format Conversion
@@ -135,7 +135,7 @@ toc: true
 - [MoPad](http://www.larskrieger.de/mopad/) |
   [A note in Chinese](https://blog.seisman.info/mopad):
   Moment tensor Plotting and Decomposition
-- [3D Focal Mechanisms](https://www.usgs.gov/software/3d-focal-mechanisms):
+- [3D Focal Mechanisms](https://www.usgs.gov/node/279384):
   View earthquake focal mechanism symbols three dimensionally
 - [EMC-DesktopTools](http://ds.iris.edu/ds/products/emc-desktoptools/)
   - [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python
@@ -484,7 +484,7 @@ toc: true
   surface wave dispersion curve et al.
 - [Moment-Tensor Inversion](http://eqseis.geosc.psu.edu/cammon/HTML/MTinvDocs/mtinv01.html)
 - [W Phase](http://eost.u-strasbg.fr/wphase): W Phase source inversion
-- [HASH](https://www.usgs.gov/software/hash-12#:~:text=HASH%20is%20designed%20to%20produce,2264%2D2276%2C%202002.):
+- [HASH](https://www.usgs.gov/node/279393):
   Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec):
   Determining and displaying double-couple earthquake focal mechanisms
@@ -521,14 +521,14 @@ toc: true
 
 ### Stress/Strain
 
-- [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress
+- [Coulomb 3](https://www.usgs.gov/node/279387): Investigate Coulomb stress
   changes on mapped faults and earthquake nodal planes
 - [AutoCoulomb](https://github.com/jjwangw/CoulombAnalysis):
   Compute Coulomb stress changes induced by earthquakes
 - [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement,
   strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
 - [MSATSI](https://www.induced.pl/software): Stress tensor inversion written in MATLAB
-- [SATSI](https://www.usgs.gov/software/satsi): **S**patial **A**nd **T**emporal
+- [SATSI](https://www.usgs.gov/node/279402): **S**patial **A**nd **T**emporal
   **S**tress **I**nversion from focal mechanisms
 - [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): An iterative joint
   inversion for stress and fault orientations from focal mechanisms written in MATLAB or Python
@@ -1004,7 +1004,7 @@ toc: true
   A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
 - [PhasePApy](https://github.com/austinholland/PhasePApy):
   Seismic Phase Picker and Associator, written in Python
-- [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker):
+- [P-Phase Picker](https://www.usgs.gov/node/279399):
   Detecting P-phase onset written in Java and Matlab
 
 ### Single Station Signal Analysis
@@ -1015,7 +1015,7 @@ toc: true
 - [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html):
   a MatLab GUI and set of inline functions for performing various non-linear
   thresholding operations using the Continuous Wavelet Transform
-- [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data
+- [Est_noise](https://www.usgs.gov/node/279390): Analyze time-series data
   to quantify temporal correlations and simultaneously estimate rates, offsets,
   and other functional dependencies
 - [MUSTANG](http://service.iris.edu/mustang) |
@@ -1030,7 +1030,7 @@ toc: true
   A GUI polarization analysis of the three-component seismic data written in MATLAB
 - [Polfre](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software):
   Time-Frequency Dependent Polarization written in Fortran
-- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance):
+- [PQLX](https://www.usgs.gov/node/280343):
   An open-source software system for evaluating seismic station performance and data quality
 - [Station Analysis Tools](https://robporritt.wordpress.com/software) |
   [IRIS site](https://seiscode.iris.washington.edu/projects/station-analysis-tools):
