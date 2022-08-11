@@ -455,7 +455,7 @@ toc: true
   Locate earthquakes and determine magnitudes in a local or regional seismic network
 - [AmplitudeSourceLocation](https://github.com/mogiso/AmplitudeSourceLocation):
   Estimate source locations of seismic events written in Fortran
-- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc)
+- [NonLinLoc](https://github.com/alomax/NonLinLoc)
   Probabilistic, non-linear, global-search earthquake location in 3D Media
 - [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake
   location via parallel tempering and principal component sampling
@@ -1018,7 +1018,7 @@ toc: true
 - [Est_noise](https://www.usgs.gov/node/279390): Analyze time-series data
   to quantify temporal correlations and simultaneously estimate rates, offsets,
   and other functional dependencies
-- [MUSTANG](http://service.iris.edu/mustang) |
+- [MUSTANG](https://service.iris.edu/mustang) |
   [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
   A quality assurance system that provides metrics pertaining to seismic data quality
 - [PIQQA](https://github.com/iris-edu/piqqa) |
