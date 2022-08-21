@@ -346,10 +346,10 @@ toc: true
 
 ## Geographical Database
 
-- [GSHHG](https://docs.generic-mapping-tools.org/latest/datasets/gshhg.html) |
+- [GSHHG](https://github.com/genericMappingTools/gshhg-gmt) |
   [GMT-China: 全球高分辨率海岸线数据](https://docs.gmt-china.org/latest/dataset/gshhg/):
   **G**lobal **S**elf-consistent, **H**ierarchical, **H**igh-resolution **G**eography Database
-- [DCW](https://docs.generic-mapping-tools.org/latest/datasets/dcw.html) |
+- [DCW](https://github.com/genericMappingTools/dcw-gmt) |
   [GMT-China: 世界数字图表](https://docs.gmt-china.org/latest/dataset/dcw/):
   The **D**igital **C**hart of the **W**orld **D**ata
 - [GADM](https://gadm.org) |
