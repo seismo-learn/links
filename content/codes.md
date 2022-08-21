@@ -70,7 +70,7 @@ toc: true
   Data Format conversion software for CUBE data
 - [dataselect](https://github.com/iris-edu/dataselect):
   Selection and sorting for data in miniSEED format
-- [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/):
+- [GIPPtools]([https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
   A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
@@ -306,8 +306,8 @@ toc: true
 
 ### Discontinuous Galerkin Method
 
-- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
-  Nodal Discontinuous Galerkin Method
+- [NEXD](https://github.com/seismology-RUB/NEXD-3D):
+  high order simulation of seismic waves using the nodal discontinuous Galerkin method
 - [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
   wave phenomena and earthquake dynamics
 
