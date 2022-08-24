@@ -70,7 +70,7 @@ toc: true
   Data Format conversion software for CUBE data
 - [dataselect](https://github.com/iris-edu/dataselect):
   Selection and sorting for data in miniSEED format
-- [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/):
+- [GIPPtools]([https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
   A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
@@ -306,8 +306,8 @@ toc: true
 
 ### Discontinuous Galerkin Method
 
-- [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html):
-  Nodal Discontinuous Galerkin Method
+- [NEXD](https://github.com/seismology-RUB/NEXD-3D):
+  high order simulation of seismic waves using the nodal discontinuous Galerkin method
 - [SeisSol](https://github.com/SeisSol/SeisSol): numerical simulation of seismic
   wave phenomena and earthquake dynamics
 
@@ -455,7 +455,7 @@ toc: true
   Locate earthquakes and determine magnitudes in a local or regional seismic network
 - [AmplitudeSourceLocation](https://github.com/mogiso/AmplitudeSourceLocation):
   Estimate source locations of seismic events written in Fortran
-- [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc)
+- [NonLinLoc](https://github.com/alomax/NonLinLoc)
   Probabilistic, non-linear, global-search earthquake location in 3D Media
 - [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake
   location via parallel tempering and principal component sampling
@@ -1018,7 +1018,7 @@ toc: true
 - [Est_noise](https://www.usgs.gov/node/279390): Analyze time-series data
   to quantify temporal correlations and simultaneously estimate rates, offsets,
   and other functional dependencies
-- [MUSTANG](http://service.iris.edu/mustang) |
+- [MUSTANG](https://service.iris.edu/mustang) |
   [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
   A quality assurance system that provides metrics pertaining to seismic data quality
 - [PIQQA](https://github.com/iris-edu/piqqa) |
