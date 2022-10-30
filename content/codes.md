@@ -1068,8 +1068,10 @@ toc: true
   Clipped Waveform Pickup and Restoration written in Matlab
 - [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html):
   A digitization software for analog seismograms written in Matlab
-- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal
-  orientations based on Raleigh-wave arrival angle written in Python
+- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0) |
+  [orient](https://github.com/SeisPiano/orient):
+  Calculate OBS horizontal orientations based on Raleigh-wave arrival angle
+  written in Python (DLOPy) or Matlab (orient)
 - [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical
   component noise from tilt and compliance effects written in Python
 - [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer
