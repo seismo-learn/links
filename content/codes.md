@@ -443,8 +443,8 @@ toc: true
 
 ### Earthquake Location
 
-- [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation of
-  earthquake hypocenters based on waveform cross-correlation data
+- [GrowClust](https://github.com/dttrugman/GrowClust) | [GrowClust3D.jl](https://github.com/dttrugman/GrowClust3D.jl):  
+  Relative relocation of earthquake hypocenters based on waveform cross-correlation data
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) |
   [A tutorial](http://geophysics.eas.gatech.edu/people/cwu/teaching/hypoDD/hypoDD.html) |
   [hypoDDpy](https://github.com/krischer/hypoDDpy):
