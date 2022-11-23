@@ -234,6 +234,7 @@ toc: true
 
 ## Geoscience Database/Models
 
+- [国家青藏高原科学数据中心](https://data.tpdc.ac.cn/zh-hans/)
 - [地震地质与地震动力学数据共享分中心](http://datashare.igl.earthquake.cn/datashare)
 - [USGS: Earthquake Hazards](https://www.usgs.gov/natural-hazards/earthquake-hazards) |
   [Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes) |
