@@ -272,7 +272,6 @@ toc: true
 ### Fault Database
 
 - [GEM GAF-DB](https://github.com/GEMScienceTools/gem-global-active-faults) |
-  [Interactive map](https://www.globalquakemodel.org/product/active-faults-database) |
   [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap):
   **G**lobal **A**ctive **F**aults **D**ata**b**ase maintained by the
   [**G**lobal **E**arthquake **M**odel Foundation](https://www.globalquakemodel.org/)
