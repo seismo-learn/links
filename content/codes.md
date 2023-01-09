@@ -65,7 +65,7 @@ toc: true
   [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
   [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
   The most commonly used seismic data processing and plotting software
-- [CubeTools](https://digos.eu/downloads-docs/) |
+- [CubeTools](https://digos.eu/seismology/#SeismicDownloads/) |
   [cube_conversion](https://github.com/uafgeotools/cube_conversion):
   Data Format conversion software for CUBE data
 - [dataselect](https://github.com/iris-edu/dataselect):
