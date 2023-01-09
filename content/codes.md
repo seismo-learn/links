@@ -70,7 +70,7 @@ toc: true
   Data Format conversion software for CUBE data
 - [dataselect](https://github.com/iris-edu/dataselect):
   Selection and sorting for data in miniSEED format
-- [GIPPtools]([https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
+- [GIPPtools](https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
   A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
