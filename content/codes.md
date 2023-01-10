@@ -65,12 +65,12 @@ toc: true
   [youtube](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147) |
   [notes in Chinese](https://blog.seisman.info/conversion-of-different-sac-formats):
   The most commonly used seismic data processing and plotting software
-- [CubeTools](https://digos.eu/downloads-docs/) |
+- [CubeTools](https://digos.eu/seismology/#SeismicDownloads/) |
   [cube_conversion](https://github.com/uafgeotools/cube_conversion):
   Data Format conversion software for CUBE data
 - [dataselect](https://github.com/iris-edu/dataselect):
   Selection and sorting for data in miniSEED format
-- [GIPPtools]([https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
+- [GIPPtools](https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
   A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
