@@ -766,18 +766,13 @@ toc: true
     - Cheng's codes, including Qingju Wu's maximum entrop deconvolution method (`burgays`)
 - Charles J. Ammon's RF codes:
   [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
-- Jeffrey Park's RF codes |
-  [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) |
-  [Jeffrey Park's blog](http://jparkcodes.blogspot.com):
+- Jeffrey Park's RF codes:
+  - [Recfunk21](https://seiscode.iris.washington.edu/projects/recfunk21):
+    Computation of receiver functions and harmonic decomposition analysis.
+    It supersedes previously released [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick)
+    and [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii).
   - [rfsyn](https://seiscode.iris.washington.edu/projects/rfsyn):
     Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace
-  - [Recfunk21](https://seiscode.iris.washington.edu/projects/recfunk21):
-    Computation of receiver functions and harmonic decomposition analysis
-  - [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick):
-    An update to recfunk_ascii
-  - [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii):
-    Transforms a collection of 3-component seismograms into ASCII tables of 2-component
-    receiver functions (radial and transverse)
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html) |
   [Chinses note](https://blog.seisman.info/ccp-install):
   Common-Conversion-Point (CCP) stacking of receiver functions
