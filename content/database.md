@@ -106,8 +106,9 @@ toc: true
 
 ### Asian Data Centers/Networks
 
-- [中国地震学科数据中心：国家测震台网数据备份中心](http://www.seisdmc.ac.cn/)
-- [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/)
+- [地震科学数据中心](http://www.esdc.ac.cn/):
+  Previous [中国地震学科数据中心：国家测震台网数据备份中心](http://www.seisdmc.ac.cn/) and
+  [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/) don't work now.
 - [中国地震科学实验场](http://www.cses.ac.cn)
 - [台灣地震科學中心](https://tec.earth.sinica.edu.tw/index.php) |
   [資料中心](http://tecdc.earth.sinica.edu.tw/tecdc/)
