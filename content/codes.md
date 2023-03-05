@@ -373,7 +373,7 @@ toc: true
 - [AxiSEM](https://github.com/geodynamics/axisem): A parallel spectral-element
   method to solve 3D wave propagation in a sphere with axisymmetric or
   spherically symmetric visco-elastic, acoustic, anisotropic structures
-- [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
+- [AxiSEM3D](https://github.com/AxiSEMunity/AxiSEM3D)
 - [Instaseis](http://instaseis.net) | [Brief Introduction in Chinese](https://blog.seisman.info/iris-syngine):
   The Python interface of AxiSEM
 - [RegSEM](http://www.quest-itn.org/library/software/regsem.html):
@@ -443,7 +443,7 @@ toc: true
 
 ### Earthquake Location
 
-- [GrowClust](https://github.com/dttrugman/GrowClust) | [GrowClust3D.jl](https://github.com/dttrugman/GrowClust3D.jl):  
+- [GrowClust](https://github.com/dttrugman/GrowClust) | [GrowClust3D.jl](https://github.com/dttrugman/GrowClust3D.jl):
   Relative relocation of earthquake hypocenters based on waveform cross-correlation data
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) |
   [A tutorial](http://geophysics.eas.gatech.edu/people/cwu/teaching/hypoDD/hypoDD.html) |
