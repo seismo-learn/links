@@ -555,6 +555,8 @@ toc: true
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=4):
   Double difference tomography
+- [Etomo](https://doi.org/10.6084/m9.figshare.21820860):
+  A eikonal equaiton-based seismic tomography method for traveltime tomography
 - [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html):
   3-D **F**irst **A**rrival **S**eismic **T**omography programs
 - [LOTOS](http://www.ivan-art.com/science/LOTOS/): Local earthquake tomographic inversion written in Fortran
