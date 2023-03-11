@@ -217,6 +217,8 @@ toc: true
   Ray-theoretical approach to the calculation of synthetic seismograms in global Earth models
 - WKBJ method in [seisan](http://seisan.info) at
   [Seismology at GEUS: Seismological software](http://seis.geus.net)
+- [RaySum](https://home.cc.umanitoba.ca/~frederik/Software/): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
+- [PyRaySum](https://github.com/paudetseis/PyRaysum): https://github.com/paudetseis/PyRaysum
 
 ### Reflectivity/Wavenumber Integration for 1D Layered Earth
 
