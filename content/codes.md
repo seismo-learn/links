@@ -582,7 +582,7 @@ toc: true
     Ambient noise data processing code and database for processing written in C
   - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor):
     Seismic Ambient Noise Cross-Correlation in Parallel written in C
-- [Huajian Yao: Codes and Software](http://yaolab.ustc.edu.cn/resources.php?i=28) |
+- [Huajian Yao: Codes and Software](https://yaolab.ustc.edu.cn/Cas/list.htm): |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=5):
   - `NoiseCorr`: Ambient noise cross-correlation codes for daily long SAC format data in Matlab
@@ -621,7 +621,7 @@ toc: true
     [Python package](https://github.com/NoisyLeon/pyaftan):
     **A**utomatic **F**requency-**T**ime **An**alysis analysis of ambient noise
     cross-correlations written in Fortran
-- [Huajian Yao: Codes and Software](http://yaolab.ustc.edu.cn/resources.php?i=28) |
+- [Huajian Yao: Codes and Software](https://yaolab.ustc.edu.cn/Cas/list.htm) |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=5):
   - `TSAnalysis`: Surface wave two-station dispersion analysis GUI software (in Matlab)
@@ -705,7 +705,7 @@ toc: true
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo):
   Direct inversion of surface dispersion data based on ray tracing written in Fortran
-- [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo):
+- [DRadiSurfTomo](https://github.com/ShaoqianHu/DRadiSurfTomo):
   Direct Surface Wave Radial Anisotropy Tomography written in Fortran
 - [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo) |
   [A tutorial](https://www.koushare.com/video/videodetail/14733) (in Chinese):
