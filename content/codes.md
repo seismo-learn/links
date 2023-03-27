@@ -816,6 +816,7 @@ toc: true
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive GUI tool to simulate P or S receiver functions
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing
   receiver functions and shear wave spliting
+- [seispy](https://github.com/xumi1993/seispy): A Python module for processing seismological data and calculating Receiver Functions
 
 ### Rayleigh-wave Ellipticity
 
