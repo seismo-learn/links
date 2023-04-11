@@ -844,7 +844,10 @@ toc: true
   Semiautomated Analysis and Interpretation of Teleseismic Shear-Wave Splitting in MATLAB
 - [sws_tools](https://github.com/michaelgrund/sws_tools):
   MATLAB tools for modeling and plotting of shear-wave splitting data
-
+- [ECOMAN](https://newtonproject.geoscienze.unipd.it/ecoman/): Software package for computing
+  elastic and viscous mechanical properties of mantle rocks and seismic forward and inverse 
+  modelling 
+  
 ### Scattering and Intrinsic Attenuation
 
 - [CodaNorm](https://github.com/cormorant/CodaNorm):
