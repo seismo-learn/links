@@ -15,10 +15,11 @@ title: Learning Resources
 
 - Remote Online Sessions for Emerging Seismologists (ROSES):
   Summer school offered by AGU Seismology Section
-  - [2020](https://www.iris.edu/hq/inclass/course/roses) |
-    [Codes](https://github.com/fdannemanndugick/roses2020)
+  - [2020](https://connect.agu.org/seismology/roses/roses2020materials) | [IRIS](https://www.iris.edu/hq/inclass/course/roses_2020) |
+    [Codes](https://github.com/roseseismo/roses2020)
   - [2021](https://connect.agu.org/seismology/roses/roses2021materials) |
-    [Codes](https://github.com/fdannemanndugick/roses2021)
+    [Codes](https://github.com/roseseismo/roses2021)
+  - [2022](https://www.iris.edu/hq/inclass/course/roses)
 - [地震学算法与程序培训班](http://seismo.training.ustc.edu.cn/)
   - [2020 年第六届](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae):
     [蔻享](https://www.koushare.com/video/meetingVideo?mid=210) |
