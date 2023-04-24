@@ -13,6 +13,7 @@ title: Learning Resources
 
 ### Workshops & Courses
 
+- [Seismology Skill Building Workshop for Undergraduates](https://www.iris.edu/hq/inclass/course/ssbw)
 - Remote Online Sessions for Emerging Seismologists (ROSES):
   Summer school offered by AGU Seismology Section
   - [2020](https://www.iris.edu/hq/inclass/course/roses) |
