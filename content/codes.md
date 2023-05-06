@@ -182,6 +182,7 @@ toc: true
   using Fast Marching Method for eikonal equation in Cartesian and spherical coordinates
 - [pySeismicFMM](https://github.com/gozwei/pySeismicFMM):
   2D/3D travel time calculation in based on the Fast Marching Method written in Python
+- [pyekfmm](https://github.com/aaspip/pyekfmm): A python package for 3D fast-marching-based traveltime calculation and its applications in seismology
 - [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm): Fast marching method
   in Cartesian coordinates written in Python
