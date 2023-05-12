@@ -17,6 +17,6 @@ build:
       # Install hugo and build the website
       - wget https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_Linux-64bit.tar.gz
       - tar -xvf hugo_extended_0.111.3_Linux-64bit.tar.gz
-      - sed -i "s#https://seismo-learn.org/links/#${READTHEDOCS_CANONICAL_URL}#" config/_default/config.yaml
+      - sed -i "s#https://seismo-learn.org/links/#${READTHEDOCS_CANONICAL_URL}#" config.toml
       - ./hugo
       - mv public _readthedocs/html
