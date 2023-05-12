@@ -1,0 +1,22 @@
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+# Required
+version: 2
+
+# Set the version of Python and other tools you might need
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.10"
+    golang: "1.19"  # needed by hugo
+  jobs:
+    post_build:
+      # remove the HTML built by Sphinx
+      - rm -rvf _readthedocs/html
+      # Install hugo and build the website
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_Linux-64bit.tar.gz
+      - tar -xvf hugo_extended_0.111.3_Linux-64bit.tar.gz
+      - sed -i "s#https://seismo-learn.org/links/#${READTHEDOCS_CANONICAL_URL}#" config/_default/config.yaml
+      - ./hugo
+      - mv public _readthedocs/html
