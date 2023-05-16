@@ -267,7 +267,7 @@ toc: true
   手机应用：第四纪
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html) |
   [3.0 版本介绍](http://www.cgl.cgs.gov.cn/gzdt_4169/dwdt_4172/202103/t20210330_666996.html)
-- [OneGeology Portal](http://www.onegeology.org/portal/home.html): Global geoscience data
+- [OneGeology Portal](https://portal.onegeology.org/OnegeologyGlobal/): Global geoscience data
 - [GMT-China: 中国及邻区地质图数据](https://docs.gmt-china.org/latest/dataset-CN/geo3al/)
 
 ### Fault Database
