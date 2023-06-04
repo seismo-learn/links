@@ -554,7 +554,7 @@ toc: true
 - [simul2017](https://doi.org/10.5281/zenodo.5746047) |
   [SIMUL2000](http://www.geology.wisc.edu/~thurber/simul2000/):
   Simultaneous inversion of travel-time data for 3-D velocity and hypocenters
-- [Haijiang Zhang](http://ess.ustc.edu.cn/faculties/detail-134.html)'s tomoDD |
+- [Haijiang Zhang](https://earthquake.ustc.edu.cn/)'s tomoDD |
   [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
   [bilibili](https://www.bilibili.com/video/av841708479?p=4):
   Double difference tomography
@@ -1232,7 +1232,7 @@ toc: true
 - [SEISCOPE Optimization Toolbox](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=en):
   A set of FORTRAN 90 optimization routines dedicated to the resolution of
   unconstrained and bound constrained nonlinear minimization problems
-- [Stanford University Systems Optimization Laboratory: optimization software](https://web.stanford.edu/group/SOL/download.html)
+- [Stanford University Systems Optimization Laboratory: optimization software](https://web.stanford.edu/group/SOL/home_software.html)
 
 ### Monte Carlo Methods
 
