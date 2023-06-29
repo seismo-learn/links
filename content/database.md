@@ -26,6 +26,7 @@ toc: true
   [Brief Introduction](https://storage.globalquakemodel.org/what/seismic-hazard/historical-catalogue)
 - [Global Waveform Catalog](https://github.com/samwimpenny/Global-Waveform-Catalogue):
   A database of point-source fault-plane solutions and focal depths for moderate-magnitude earthquakes
+- [The Human-Induced Earthquake Database](http://inducedearthquakes.org/)
 
 ### Regional Earthquake Catalog
 
