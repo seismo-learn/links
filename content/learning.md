@@ -29,6 +29,8 @@ title: Learning Resources
     [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2021)
   - 2022 年第八届:
     [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2022)
+  - 2023 年第九届:
+    [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2023)
 - 地球物理暑期学校（北京大学）
   - [2020 年：“地震噪声相干与成像”](https://sess2.pku.edu.cn/xwzx/xytz/344137.htm) |
     [B 站](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
