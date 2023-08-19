@@ -10,7 +10,7 @@ toc: true
 - [FDSN Web Services](http://www.fdsn.org/webservices) |
   [A note in Chinese](https://blog.seisman.info/web-service-clients)
 - [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc/)
-    - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly
+    - [ROVER](https://EarthScope.github.io/rover): A command line tool to robustly
       retrieve geophysical timeseries data from data centers
     - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast) |
       [notes in Chinese](https://blog.seisman.info/tags/breq_fast):
@@ -68,20 +68,20 @@ toc: true
 - [CubeTools](https://digos.eu/seismology/#SeismicDownloads/) |
   [cube_conversion](https://github.com/uafgeotools/cube_conversion):
   Data Format conversion software for CUBE data
-- [dataselect](https://github.com/iris-edu/dataselect):
+- [dataselect](https://github.com/EarthScope/dataselect):
   Selection and sorting for data in miniSEED format
 - [GIPPtools](https://www.gfz-potsdam.de/en/section/geophysical-imaging/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/gipptools):
   A collection of software utilities for initial pre-processing of recorded data
-- [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that
+- [libmseed](https://github.com/EarthScope/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
 - [msmod](https://seiscode.iris.washington.edu/projects/msmod): A small program
   to modify miniSEED header values
-- [mseed2sac](https://github.com/iris-edu/mseed2sac):
+- [mseed2sac](https://github.com/EarthScope/mseed2sac):
   Convert miniSEED format to SAC format
-- [sac2mseed](https://github.com/iris-edu/sac2mseed): Convert SAC format to minniSEED format
+- [sac2mseed](https://github.com/EarthScope/sac2mseed): Convert SAC format to minniSEED format
 - [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools):
   Convert WIN32 format used by Hi-net, to SAC format
-- [rdseed](https://github.com/iris-edu-legacy/rdseed) |
+- [rdseed](https://github.com/EarthScope-legacy/rdseed) |
   [IRIS](http://ds.iris.edu/pub/programs) |
   [notes in Chinese](https://blog.seisman.info/tags/SEED):
   Convert seismic data from SEED format and other formats
@@ -138,7 +138,7 @@ toc: true
 - [3D Focal Mechanisms](https://www.usgs.gov/node/279384):
   View earthquake focal mechanism symbols three dimensionally
 - [EMC-DesktopTools](http://ds.iris.edu/ds/products/emc-desktoptools/)
-  - [EMC-ParaView](https://github.com/iris-edu/EMC-ParaView): A set of Python
+  - [EMC-ParaView](https://github.com/EarthScope/EMC-ParaView): A set of Python
     programmable filters/sources to allow ParaView open-source, multi-platform
     data analysis and visualization application to display EMC netCDF/GeoCSV models
     along with other auxiliary Earth data
@@ -846,9 +846,9 @@ toc: true
 - [sws_tools](https://github.com/michaelgrund/sws_tools):
   MATLAB tools for modeling and plotting of shear-wave splitting data
 - [ECOMAN](https://newtonproject.geoscienze.unipd.it/ecoman/): Software package for computing
-  elastic and viscous mechanical properties of mantle rocks and seismic forward and inverse 
-  modelling 
-  
+  elastic and viscous mechanical properties of mantle rocks and seismic forward and inverse
+  modelling
+
 ### Scattering and Intrinsic Attenuation
 
 - [CodaNorm](https://github.com/cormorant/CodaNorm):
@@ -961,7 +961,7 @@ toc: true
 
 ### Noise HVSR
 
-- [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute
+- [IRIS HVSR](https://github.com/EarthScope/HVSR): A set of Python scripts to compute
   and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical
   research and application written in C++
@@ -1035,7 +1035,7 @@ toc: true
 
 ### Single Station Signal Analysis
 
-- [IRIS DMC Noise Toolkit](https://github.com/iris-edu/noise-toolkit):
+- [IRIS DMC Noise Toolkit](https://github.com/EarthScope/noise-toolkit):
   Compute power spectral densities and perform microseism energy computations
   and frequency dependent polarization analysis
 - [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html):
@@ -1047,7 +1047,7 @@ toc: true
 - [MUSTANG](https://service.iris.edu/mustang) |
   [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang):
   A quality assurance system that provides metrics pertaining to seismic data quality
-- [PIQQA](https://github.com/iris-edu/piqqa) |
+- [PIQQA](https://github.com/EarthScope/piqqa) |
   [An introduction](https://ds.iris.edu/ds/newsletter/vol23/no1/533/piqqa-data-quality-reports-for-passcal-experiments/):
   A python utility to create a simple Quality Assurance report
 - [Pycheron](https://github.com/sandialabs/pycheron):
