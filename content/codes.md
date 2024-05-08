@@ -863,6 +863,8 @@ toc: true
 - [qopen](https://github.com/trichter/qopen): Separation of intrinsic and scattering Q by envelope inversion
 - [usattenuation](https://github.com/trichter/usattenuation):
   Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
+- [Radiative3D](https://github.com/christophersanborn/Radiative3D):
+  Radiative transport in 3D Earth models
 
 ### Joint Inversion of Seismological Data
 
