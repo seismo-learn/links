@@ -22,15 +22,14 @@ title: Learning Resources
     [Codes](https://github.com/roseseismo/roses2021)
   - [2022](https://www.iris.edu/hq/inclass/course/roses)
 - [地震学算法与程序培训班](http://seismo.training.ustc.edu.cn/)
-  - [2020 年第六届](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae):
-    [蔻享](https://www.koushare.com/video/meetingVideo?mid=210) |
-    [B 站](https://www.bilibili.com/video/BV1e54y1i7FM)
-  - 2021 年第七届:
-    [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2021)
-  - 2022 年第八届:
-    [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2022)
   - 2023 年第九届:
-    [蔻享](https://www.koushare.com/topicIndex/i/dzclass-2023)
+    [蔻享](https://www.koushare.com/live/details/18392)
+  - 2022 年第八届:
+    [蔻享](https://www.koushare.com/live/details/9410)
+  - 2021 年第七届:
+    [蔻享](https://www.koushare.com/live/details/2257?vid=13953)
+  - [2020 年第六届](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae):
+    [B 站](https://www.bilibili.com/video/BV1e54y1i7FM)
 - 地球物理暑期学校（北京大学）
   - [2020 年：“地震噪声相干与成像”](https://sess2.pku.edu.cn/xwzx/xytz/344137.htm) |
     [B 站](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
