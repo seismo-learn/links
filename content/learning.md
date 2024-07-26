@@ -28,7 +28,7 @@ title: Learning Resources
     [蔻享](https://www.koushare.com/live/details/9410)
   - 2021 年第七届:
     [蔻享](https://www.koushare.com/live/details/2257?vid=13953)
-  - [2020 年第六届](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae):
+  - 2020 年第六届：[领研](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae) |
     [B 站](https://www.bilibili.com/video/BV1e54y1i7FM)
 - 地球物理暑期学校（北京大学）
   - [2020 年：“地震噪声相干与成像”](https://sess2.pku.edu.cn/xwzx/xytz/344137.htm) |
