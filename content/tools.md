@@ -5,15 +5,9 @@ toc: true
 
 ## Science
 
-### General Tools
-
-- [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
 - [Periodic Table of Elements](https://www.ptable.com)
-
-### Seismology
-
 - [Animations of the free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
-- [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
+- [IRIS Seismic Monitor](https://www.iris.edu/app/seismic-monitor/map)
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 
 ## Computer
@@ -30,8 +24,8 @@ toc: true
 
 ### Python
 
-- [Flake8](https://flake8.pycqa.org/): Python style guide checker
 - [strftime](http://strftime.org/): Python strftime reference
+- [ruff](https://github.com/astral-sh/ruff): An extremely fast Python linter and code formatter, written in Rust.
 
 ## Document
 

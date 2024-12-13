@@ -22,7 +22,7 @@ toc: true
       Data request client written in Java
 - [IRIS-DMC: Web Services](http://service.iris.edu):
   - [clients](http://service.iris.edu/clients/)
-    - [Web Service Fetch scripts](https://seiscode.iris.washington.edu/projects/ws-fetch-scripts) |
+    - [Web Service Fetch scripts](https://github.com/EarthScope/fetch-scripts)
       [A note in Chinese](https://blog.seisman.info/web-service-fetch-scripts)
     - [MATLAB data access](http://ds.iris.edu/ds/nodes/dmc/software/downloads/irisFetch.m/)
   - [FDSNWS](http://service.iris.edu/fdsnws/)
@@ -74,7 +74,7 @@ toc: true
   A collection of software utilities for initial pre-processing of recorded data
 - [libmseed](https://github.com/EarthScope/libmseed): A miniSEED library that
   provides a framework for manipulation of SEED data records
-- [msmod](https://seiscode.iris.washington.edu/projects/msmod): A small program
+- [msmod](https://github.com/EarthScope/msmod): A small program
   to modify miniSEED header values
 - [mseed2sac](https://github.com/EarthScope/mseed2sac):
   Convert miniSEED format to SAC format
@@ -774,7 +774,7 @@ toc: true
 - Charles J. Ammon's RF codes:
   [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
 - Jeffrey Park's RF codes:
-  - [Recfunk21](https://seiscode.iris.washington.edu/projects/recfunk21):
+  - [Recfunk21](https://github.com/RU21Seismology/Recfunk21):
     Computation of receiver functions and harmonic decomposition analysis.
     It supersedes previously released [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick)
     and [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii).

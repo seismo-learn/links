@@ -4,7 +4,7 @@ title: Jobs
 
 ### Job Boards
 
-- [Incorporated Research Institutions for Seismology (IRIS) Job Announcements](https://ds.iris.edu/message-center/topic/jobs)
+- [Incorporated Research Institutions for Seismology (IRIS) Job Announcements](https://groups.google.com/a/earthscope.org/g/jobs)
 - [American Geophysical Union (AGU) Career Center](https://findajob.agu.org/)
 - [Computational Infrastructure for Geodynamics (CIG) Jobs Postings](https://community.geodynamics.org/c/job-postings/)
 - [EarthWorks Jobs](https://www.earthworks-jobs.com)
