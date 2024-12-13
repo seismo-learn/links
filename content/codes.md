@@ -489,6 +489,8 @@ toc: true
 - [W Phase](http://eost.u-strasbg.fr/wphase): W Phase source inversion
 - [HASH](https://www.usgs.gov/node/279393):
   Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
+- [SKHASH](https://code.usgs.gov/esc/SKHASH)
+  Python package for earthquake focal mechanism inversions
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec):
   Determining and displaying double-couple earthquake focal mechanisms
 - [FPFIT](https://www.usgs.gov/software/fpfit-fpplot-and-fppage):
