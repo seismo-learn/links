@@ -401,6 +401,11 @@ toc: true
   [GitHub](https://github.com/Geolab-USTC/PSV_Hybrid):
   Calculating synthetic seismograms involving two-dimensional localized
   hetergeneous structures based on GRT-FD hybrid method
+- [FDFK2D](https://github.com/YoushanLiu/FDFK2D): Efficient two-dimensional teleseismic wavefield hybrid simulation method
+  for receiver function analysis
+
+Resources
+
 
 ### Surface waves in 3D structures
 
