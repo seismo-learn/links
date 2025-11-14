@@ -195,6 +195,7 @@ toc: true
       Calculation of travel times and ellipticity corrections for iasp91 and AK135 models
     - George Helffrich's [version](https://members.elsi.jp/~george/sac-bugs.html#ttimes):
       Traveltime calculator for iasp91, AK135, PREM etc.
+- [EllipticiPy](https://github.com/StuartJRussell/EllipticiPy): Python package for the calculation of ellipticity corrections for seismic waves.
 
 ----
 
