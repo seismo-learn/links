@@ -1,0 +1,52 @@
+/* Responsive columns of cards */
+@media (max-width: 48em) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 62em) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 75em) {
+    .card-columns {
+        column-count: 6;
+    }
+}
+
+article {
+  margin: 1.0rem 0.75rem;
+}
+
+footer {
+  margin-bottom: 1.0rem;
+}
+
+.card-columns .card {
+  border-radius: 1.0rem;
+  background-color: aliceblue;
+}
+
+.navbar {
+  background-color: aqua;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+.navbar-brand {
+  font-weight: bold
+}
+
+aside {
+    float: right;
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
