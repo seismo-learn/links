@@ -34,7 +34,7 @@ resources:
   - Programming
   - Web
 - name: strftime
-  url: http://strftime.org/
+  url: https://strftime.org/
   description: Python strftime reference
   tags:
   - Programming
@@ -56,7 +56,7 @@ resources:
   tags:
   - Data Extraction
 - name: cpdf
-  url: http://community.coherentpdf.com/
+  url: https://community.coherentpdf.com/
   description: Command line tool to manipulate existing PDF files
   tags:
   - Document Conversion

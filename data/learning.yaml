@@ -13,7 +13,7 @@ resources:
   - Seismology
   - Workshops & Courses
 - name: 地震学算法与程序培训班
-  url: http://seismo.training.ustc.edu.cn/
+  url: http://seismo.training.ustc.edu.cn/main.htm
   description: A Chinese-language training series on seismological algorithms and software.
   links:
   - name: 2023 年第九届 蔻享
@@ -25,7 +25,7 @@ resources:
   - name: 2020 年第六届 领研
     url: https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae
   - name: 2020 年第六届 B 站
-    url: https://www.bilibili.com/video/BV1e54y1i7FM
+    url: https://www.bilibili.com/video/BV1e54y1i7FM/
   tags:
   - Seismology
   - Workshops & Courses
