@@ -9,7 +9,7 @@ resources:
   tags:
   - Waveform Modeling
 - name: ANISOtime
-  url: http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html
+  url: https://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html
   description: Travel time computation software for laterally homogeneous, transversely
     isotropic, spherical media
   doi: 10.1785/0220200306
@@ -18,7 +18,7 @@ resources:
   tags:
   - Ray Tracing
 - name: aser
-  url: http://www.eas.slu.edu/People/LZhu/home.html
+  url: https://www.eas.slu.edu/People/LZhu/home.html
   description: Generalized Ray Theory (GRT) synthetic seismogram package
   languages:
   - C
@@ -178,7 +178,7 @@ resources:
   tags:
   - Waveform Modeling
 - name: fk
-  url: http://www.eas.slu.edu/People/LZhu/home.html
+  url: https://www.eas.slu.edu/People/LZhu/home.html
   description: Calculate synthetic seismograms in layered isotropic models using frequency-wavenumber
     method
   languages:
@@ -189,7 +189,7 @@ resources:
   - name: Tutorial (in Chinese)
     url: https://seismo-learn.org/software/fk/
 - name: FM3D
-  url: http://www.iearth.edu.au/codes/3Dfastmarching/
+  url: https://www.iearth.edu.au/codes/3Dfastmarching/
   description: 3D traveltime calculation using Fast Marching Method in spherical coordinates
   languages:
   - Fortran
@@ -203,14 +203,14 @@ resources:
   tags:
   - Data Request
 - name: gCAP
-  url: http://www.eas.slu.edu/People/LZhu/home.html
+  url: https://www.eas.slu.edu/People/LZhu/home.html
   description: Focal mechanism inversion using Cut and Paste method
   languages:
   - Fortran
   tags:
   - Focal Mechanism
 - name: GISMO
-  url: http://geoscience-community-codes.github.io/GISMO/
+  url: https://geoscience-community-codes.github.io/GISMO/
   description: A seismic data analysis toolbox for MATLAB
   languages:
   - MATLAB
@@ -309,7 +309,7 @@ resources:
   tags:
   - Data Request
 - name: hk
-  url: http://www.eas.slu.edu/People/LZhu/home.html
+  url: https://www.eas.slu.edu/People/LZhu/home.html
   description: Receiver function package (synthetic RF, deconvolution, and H-k stacking)
   languages:
   - Fortran
@@ -341,7 +341,7 @@ resources:
   tags:
   - Earthquake Location
 - name: Instaseis
-  url: http://instaseis.net
+  url: https://instaseis.net
   description: Instant Global Seismograms Based on a Broadband Waveform Database
   languages:
   - Python
@@ -437,7 +437,7 @@ resources:
   tags:
   - Format Conversion
 - name: MSNoise
-  url: http://www.msnoise.org
+  url: https://www.msnoise.org
   description: A Python Package for Monitoring seismic velocity changes using ambient
     seismic noise
   languages:
@@ -949,7 +949,7 @@ resources:
   tags:
   - Visualization
 - name: SW3D
-  url: http://seis.karlov.mff.cuni.cz/
+  url: https://seis.karlov.mff.cuni.cz/
   description: Seismic Waves in complex 3D structures
   languages:
   - Fortran
@@ -989,7 +989,7 @@ resources:
   tags:
   - Waveform Modeling
 - name: Tomoeye
-  url: http://www.iearth.edu.au/codes/Tomoeye
+  url: https://www.iearth.edu.au/codes/Tomoeye
   description: A set of programs for tomographic model visualization written in MATLAB
     6.1 script
   languages:
@@ -1004,7 +1004,7 @@ resources:
   tags:
   - Earthquake Location
 - name: win32tools
-  url: http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools
+  url: https://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools
   description: Convert WIN32 format used by Hi-net, to SAC format
   languages:
   - C

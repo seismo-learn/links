@@ -7,7 +7,7 @@ resources:
   tags:
   - Analog Seismograms
 - name: ISC Arrival Time Data
-  url: http://www.isc.ac.uk/iscbulletin/search/arrivals/
+  url: https://www.isc.ac.uk/iscbulletin/search/arrivals/
   description: Arrival-time and phase data from the International Seismological Centre
     (ISC).
   tags:
@@ -71,12 +71,12 @@ resources:
   tags:
   - Focal Mechanism Catalog
 - name: Hi-net AUQA Focal Mechanism Catalog
-  url: http://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en
+  url: https://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=en
   description: Focal mechanism catalog from the Hi-net AQUA project.
   tags:
   - Focal Mechanism Catalog
 - name: ISC Focal Mechanism
-  url: http://www.isc.ac.uk/iscbulletin/search/fmechanisms/
+  url: https://www.isc.ac.uk/iscbulletin/search/fmechanisms/
   description: Focal mechanism catalog from ISC.
   tags:
   - Focal Mechanism Catalog
@@ -104,12 +104,12 @@ resources:
   tags:
   - Focal Mechanism Catalog
 - name: Northern California Mechanism Catalog
-  url: http://www.ncedc.org/ncedc/catalog-search.html
+  url: https://www.ncedc.org/ncedc/catalog-search.html
   description: Focal mechanism catalog for Northern California.
   tags:
   - Focal Mechanism Catalog
 - name: Saint Louis University Moment Tensor Determinations
-  url: http://www.eas.slu.edu/eqc/eqcmt.html
+  url: https://www.eas.slu.edu/eqc/eqcmt.html
   description: Moment tensor determinations from Saint Louis University.
   tags:
   - Focal Mechanism Catalog
@@ -130,24 +130,24 @@ resources:
   tags:
   - Global Earthquake Catalog
 - name: ISC Bulletin
-  url: http://www.isc.ac.uk/iscbulletin
+  url: https://www.isc.ac.uk/iscbulletin
   description: The Bulletin of the International Seismological Centre is regarded
     as the definitive record of the Earth's seismicity. It contains data from 1900
     to present day.
   links:
   - name: Web Search
-    url: http://www.isc.ac.uk/iscbulletin/search/
+    url: https://www.isc.ac.uk/iscbulletin/search/
   - name: Web Service
-    url: http://www.isc.ac.uk/fdsnws/event/1/
+    url: https://www.isc.ac.uk/fdsnws/event/1/
   tags:
   - Global Earthquake Catalog
 - name: ISC-EHB Bulletin
-  url: http://www.isc.ac.uk/isc-ehb/
+  url: https://www.isc.ac.uk/isc-ehb/
   description: The ISC-EHB Dataset is a curated version of the ISC Bulletin, containing
     208480 seismic events from 1964 to 2021, with the period 1964-2008 rebuilt.
   links:
   - name: Catalog Search
-    url: http://www.isc.ac.uk/isc-ehb/search/
+    url: https://www.isc.ac.uk/isc-ehb/search/
   tags:
   - Global Earthquake Catalog
 - name: Slow Earthquake Database
@@ -156,7 +156,7 @@ resources:
   tags:
   - Global Earthquake Catalog
 - name: The Human-Induced Earthquake Database
-  url: http://inducedearthquakes.org/
+  url: https://inducedearthquakes.org/
   description: Database of human-induced earthquakes.
   tags:
   - Global Earthquake Catalog
@@ -171,12 +171,12 @@ resources:
   tags:
   - Global Earthquake Catalog
 - name: World Tremor Database
-  url: http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html
+  url: https://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html
   description: Worldwide tremor and slow-earthquake database.
   tags:
   - Global Earthquake Catalog
 - name: International Centre for Global Earth Models (ICGEM)
-  url: http://icgem.gfz-potsdam.de/home
+  url: https://icgem.gfz-potsdam.de/home
   description: Repository of global gravity field models.
   tags:
   - Gravity
@@ -186,7 +186,7 @@ resources:
   tags:
   - Gravity
 - name: International Geodynamics and Earth Tide Service (IGETS)
-  url: http://igets.u-strasbg.fr
+  url: https://igets.u-strasbg.fr
   description: Geodetic and Earth tide service data.
   tags:
   - Gravity
@@ -196,12 +196,12 @@ resources:
   tags:
   - Gravity
 - name: International Gravity Field Service (IGFS)
-  url: http://igfs.topo.auth.gr
+  url: https://igfs.topo.auth.gr
   description: Gravity field resource
   tags:
   - Gravity
 - name: International Service for the Geoid (ISG)
-  url: http://www.isgeoid.polimi.it
+  url: https://www.isgeoid.polimi.it
   description: Geodetic reference resource.
   tags:
   - Gravity
@@ -221,7 +221,7 @@ resources:
   tags:
   - Plate Boundary Model
 - name: PB2002
-  url: http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm
+  url: https://peterbird.name/publications/2003_PB2002/2003_PB2002.htm
   links:
   - name: 'GMT-China: PB2002'
     url: https://docs.gmt-china.org/latest/dataset/PB2002/
@@ -240,12 +240,12 @@ resources:
   tags:
   - Receiver Function
 - name: AusPass
-  url: http://auspass.edu.au/research.html
+  url: https://auspass.edu.au/research.html
   description: Australian Passive Seismic Server Research Data Products
   tags:
   - Reference Seismological Model
 - name: AuSREM
-  url: http://rses.anu.edu.au/seismology/AuSREM/index.php
+  url: https://rses.anu.edu.au/seismology/AuSREM/index.php
   description: "**Au**stralian **S**eismological **Re**ference **M**odel"
   tags:
   - Reference Seismological Model
@@ -258,7 +258,7 @@ resources:
   tags:
   - Reference Seismological Model
 - name: EPcrust model
-  url: http://eurorem.bo.ingv.it/EPcrust_solar
+  url: https://eurorem.bo.ingv.it/EPcrust_solar
   description: A new European crustal model
   tags:
   - Reference Seismological Model
@@ -278,12 +278,12 @@ resources:
   tags:
   - Reference Seismological Model
 - name: Shear-wave Velocity Models
-  url: http://ciei.colorado.edu/Models
+  url: https://ciei.colorado.edu/Models
   description: Provided by the University of Colorado Boulder.
   tags:
   - Reference Seismological Model
 - name: Some regional Crustal Models
-  url: http://www.lithosphere.info/downloads.html
+  url: https://www.lithosphere.info/downloads.html
   description: by Irina M. Artemieva
   tags:
   - Reference Seismological Model
@@ -293,7 +293,7 @@ resources:
   tags:
   - Reference Seismological Model
 - name: 中国区域地震学参考模型
-  url: http://chinageorefmodel.org
+  url: https://chinageorefmodel.org
   description: Regional seismological reference model for China.
   tags:
   - Reference Seismological Model
@@ -327,11 +327,11 @@ resources:
   tags:
   - Regional Earthquake Catalog
 - name: Northern California Earthquake Catalog
-  url: http://www.ncedc.org/ncedc/catalog-search.html
+  url: https://www.ncedc.org/ncedc/catalog-search.html
   description: Earthquake catalog for Northern California.
   links:
   - name: Web Service
-    url: http://service.ncedc.org/fdsnws/event/1/
+    url: https://service.ncedc.org/fdsnws/event/1/
   tags:
   - Regional Earthquake Catalog
 - name: SHARE European Earthquake Catalog
@@ -375,21 +375,21 @@ resources:
   tags:
   - Sediment
 - name: Alaska Earthquake Center
-  url: http://earthquake.alaska.edu/
+  url: https://earthquake.alaska.edu/
   description: Seismic data center for Alaska.
   tags:
   - Seismic Data Center
 - name: AlpArray
-  url: http://www.alparray.ethz.ch/en/home/
+  url: https://www.alparray.ethz.ch/en/home/
   description: Alpine seismic array data.
   tags:
   - Seismic Data Center
 - name: AusPass
-  url: http://auspass.edu.au/index.html
+  url: https://auspass.edu.au/index.html
   description: the **Aus**tralian **Pass**ive Seismic Server
   links:
   - name: Data Portal
-    url: http://auspass.edu.au/data.html
+    url: https://auspass.edu.au/data.html
   tags:
   - Seismic Data Center
 - name: Canadian Seismic Stations and Data
@@ -428,14 +428,14 @@ resources:
   tags:
   - Seismic Data Center
 - name: Hi-net
-  url: http://www.hinet.bosai.go.jp/
+  url: https://www.hinet.bosai.go.jp/
   description: National Research Institute for Earth Science and Disaster Resilience
     (NIED) networks
   links:
   - name: F-net
     url: https://www.fnet.bosai.go.jp/
   - name: K-net, KiK-net
-    url: http://www.kyoshin.bosai.go.jp/
+    url: https://www.kyoshin.bosai.go.jp/
   tags:
   - Seismic Data Center
 - name: IRIS DMC
@@ -458,27 +458,27 @@ resources:
   tags:
   - Seismic Data Center
 - name: Northern California Earthquake Data Center
-  url: http://www.ncedc.org/
+  url: https://www.ncedc.org/
   description: Seismic data center for Northern California.
   tags:
   - Seismic Data Center
 - name: OHP DMC
-  url: http://ohpdmc.eri.u-tokyo.ac.jp/
+  url: https://ohpdmc.eri.u-tokyo.ac.jp/
   description: "**O**cean **H**emisphere **P**roject **D**ata **M**anagement **C**enter"
   tags:
   - Seismic Data Center
 - name: ORFEUS
-  url: http://www.orfeus-eu.org/
+  url: https://www.orfeus-eu.org/
   description: "**O**bservatories & **R**esearch **F**acilities for **Eu**ropean **S**eismology"
   tags:
   - Seismic Data Center
 - name: Pacific Northwest Seismic Network
-  url: http://pnsn.org/
+  url: https://pnsn.org/
   description: Seismic network or station resource
   tags:
   - Seismic Data Center
 - name: Southern California Seismic Network
-  url: http://www.scsn.org
+  url: https://www.scsn.org
   links:
   - name: Southern California Earthquake Data Center
     url: https://scedc.caltech.edu/
@@ -486,7 +486,7 @@ resources:
   tags:
   - Seismic Data Center
 - name: 中国地震科学实验场
-  url: http://www.cses.ac.cn
+  url: https://www.cses.ac.cn
   description: Chinese Earthquake Science Experimental Field.
   tags:
   - Seismic Data Center
@@ -494,16 +494,16 @@ resources:
   url: https://tec.earth.sinica.edu.tw/index.php
   links:
   - name: 資料中心
-    url: http://tecdc.earth.sinica.edu.tw/tecdc/
+    url: https://tecdc.earth.sinica.edu.tw/tecdc/
   description: Taiwan Earthquake Research Center.
   tags:
   - Seismic Data Center
 - name: 地震科学数据中心
-  url: http://www.esdc.ac.cn/
+  url: https://www.esdc.ac.cn/
   description: Previous data centers are no longer functional.
   links:
   - name: 中国地震学科数据中心：国家测震台网数据备份中心
-    url: http://www.seisdmc.ac.cn/
+    url: https://www.seisdmc.ac.cn/
   tags:
   - Seismic Data Center
 - name: 'IRIS Products: globalstacks'
@@ -522,7 +522,7 @@ resources:
   tags:
   - Seismic Data Products
 - name: Automated Splitting Project
-  url: http://www.isc.ac.uk/SKS
+  url: https://www.isc.ac.uk/SKS
   description: ISC shear-wave splitting database
   tags:
   - Shear-wave Splitting
@@ -532,7 +532,7 @@ resources:
   tags:
   - Shear-wave Splitting
 - name: Earth Global Stress Change Database
-  url: http://geophysics.geo.sunysb.edu/wen/resource/index.html
+  url: https://geophysics.geo.sunysb.edu/wen/resource/index.html
   description: Earth Global Stress Change Database
   tags:
   - Stress/Strain Database
@@ -555,7 +555,7 @@ resources:
   tags:
   - Subduction Zone Model
 - name: Dispersion Maps
-  url: http://ciei.colorado.edu/DispMaps
+  url: https://ciei.colorado.edu/DispMaps
   description: Provided by the University of Colorado Boulder.
   tags:
   - Surface-wave Dispersion
