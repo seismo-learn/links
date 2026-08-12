@@ -341,7 +341,7 @@ resources:
   - name: 1000-1899
     url: https://www.emidius.eu/SHEEC/sheec_1000_1899.html
   - name: 1900-2006
-    url: https://www.gfz-potsdam.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/sheec-earthquake-catalogue/
+    url: https://www.gfz-potsdam.de/sheec/
   tags:
   - Regional Earthquake Catalog
 - name: Southern California Earthquake Catalog
