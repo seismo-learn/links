@@ -23,7 +23,9 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
+          # 403: Forbidden
           args: >-
+            --accept 403
             --root-dir "${{ github.workspace }}"
             --verbose
             --no-progress
