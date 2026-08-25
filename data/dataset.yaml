@@ -257,11 +257,6 @@ resources:
     url: https://blog.seisman.info/crust1
   tags:
   - Reference Seismological Model
-- name: EPcrust model
-  url: https://eurorem.bo.ingv.it/EPcrust_solar
-  description: A new European crustal model
-  tags:
-  - Reference Seismological Model
 - name: IRIS Earth Model Collaboration (EMC)
   url: https://ds.iris.edu/ds/products/emc/
   description: Earth model data and services from IRIS EMC.
